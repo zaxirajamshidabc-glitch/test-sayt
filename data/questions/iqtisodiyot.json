@@ -5,2504 +5,1864 @@
   "color": "#2563eb",
   "questions": [
     {
-      "text": "Milliy iqtisodiyotning о‘lchamlaridan qaysi biri mamlakatning ixtisoslashuv yо‘nalishini belgilab beradi?",
+      "text": "Milliy iqtisodiyotning o‘lchamlaridan qaysi biri mamlakatning ixtisoslashuv yo‘nalishini belgilab beradi?",
       "options": [
-        "Davlat monopoliyasini kengaytirish",
-        "Ishlab chiqarish hajmini cheklash va narxlarni oshirish",
-        "Import hajmini maksimal darajada oshirish",
-        "Iqtisodiy samaradorlikni oshirish va resurslarni optimal taqsimlash"
-      ],
-      "correct": 3
-    },
-    {
-      "text": "Makroiqtisodiy kо‘rsatkichlardan qaysi biri mamlakatning xalqaro mehnat taqsimotida tutgan о‘rnini kо‘rsatib beradi?",
-      "options": [
-        "Import hajmini maksimal darajada oshirish",
-        "Davlat monopoliyasini kengaytirish",
-        "Iqtisodiy samaradorlikni oshirish va resurslarni optimal taqsimlash",
-        "Ishlab chiqarish hajmini cheklash va narxlarni oshirish"
+        "YaIM hajmi",
+        "Aholi soni",
+        "Tarmoq tarkibi",
+        "Inflyatsiya darajasi"
       ],
       "correct": 2
     },
     {
-      "text": "Makroiqtisodiy beqarorlikni tavsiflovchi kо‘rsatkichlarni belgilang.",
+      "text": "Makroiqtisodiy ko‘rsatkichlardan qaysi biri mamlakatning xalqaro mehnat taqsimotida tutgan o‘rnini ko‘rsatadi?",
       "options": [
-        "Ishlab chiqarish hajmini cheklash va narxlarni oshirish",
-        "Import hajmini maksimal darajada oshirish",
-        "Davlat monopoliyasini kengaytirish",
-        "Iqtisodiy samaradorlikni oshirish va resurslarni optimal taqsimlash"
+        "Ishsizlik darajasi",
+        "Eksport va import hajmi",
+        "Byudjet taqchilligi",
+        "Soliq stavkasi"
       ],
-      "correct": 3
+      "correct": 1
+    },
+    {
+      "text": "Makroiqtisodiy beqarorlikni tavsiflovchi ko‘rsatkichlarni belgilang.",
+      "options": [
+        "Inflyatsiya va ishsizlik",
+        "Daromad va xarajat",
+        "Ish haqi va foyda",
+        "Talab va taklif"
+      ],
+      "correct": 0
     },
     {
       "text": "Makroiqtisodiyotning qaysi muammosini hal qilish mamlakat aholisi turmush farovonligi darajasi ortishiga olib keladi?",
       "options": [
-        "Ishlab chiqarish hajmini cheklash va narxlarni oshirish",
-        "Davlat monopoliyasini kengaytirish",
-        "Iqtisodiy samaradorlikni oshirish va resurslarni optimal taqsimlash",
-        "Import hajmini maksimal darajada oshirish"
+        "Iqtisodiy o‘sishni ta’minlash",
+        "Soliqni oshirish",
+        "Importni kamaytirish",
+        "Kreditni qisqartirish"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Qaysi makroiqtisodiy model davlat byudjeti daromadlari va soliq stavkasi o‘rtasidagi bog‘liqlikni ko‘rsatadi?",
+      "options": [
+        "Fillips modeli",
+        "Keynes modeli",
+        "Laffer modeli",
+        "Ouken modeli"
       ],
       "correct": 2
     },
     {
-      "text": "Qaysi makroiqtisodiy model davlat byudjeti daromadlari va soliq stavkasi о‘rtasidagi bog‘liqlikni kо‘rsatadi?",
+      "text": "Ishlab chiqarishning natural va qiymat ko‘rsatkichlari o‘rtasidagi nisbat nuqtai nazaridan milliy hisoblar tizimining dastlabki uslubiy asoslari kim tomonidan ilgari surilgan?",
       "options": [
-        "Markaziy bank orqali pul massasini boshqarish",
-        "Eksport-import operatsiyalarini tartibga solish",
-        "Kredit foiz stavkalarini o'zgartirish",
-        "Davlat xarajatlari va soliq siyosati vositasida iqtisodiyotni tartibga solish"
+        "Adam Smith",
+        "Karl Marks",
+        "Fransua Kene",
+        "Keynes"
       ],
-      "correct": 3
-    },
-    {
-      "text": "Ishlab chiqarishning natural va qiymat kо‘rsatkichlari о‘rtasidagi nisbatlar nuqtai nazaridan milliy hisoblar tizimining dastlabki uslubiy asoslari kim tomonidan ilgari surilgan?",
-      "options": [
-        "Ishlab chiqarish hajmini cheklash va narxlarni oshirish",
-        "Import hajmini maksimal darajada oshirish",
-        "Davlat monopoliyasini kengaytirish",
-        "Iqtisodiy samaradorlikni oshirish va resurslarni optimal taqsimlash"
-      ],
-      "correct": 3
+      "correct": 2
     },
     {
       "text": "Quyidagilarning qaysi biri YaIM real hajmini aniqlashda hisobga olinadi?",
       "options": [
-        "YaIM = Milliy daromad + Amortizatsiya + Soliqlar",
-        "YaIM = Iste'mol + Investitsiya + Importdan tushum",
-        "YaIM = Iste'mol + Investitsiya + Davlat xaridi + Sof eksport",
-        "YaIM = Iste'mol + Sof eksport - Davlat xaridi"
+        "Nominal narxlar",
+        "Narx indeksi",
+        "Soliq stavkasi",
+        "Foiz normasi"
       ],
-      "correct": 2
+      "correct": 1
     },
     {
       "text": "Unumli va shaxsiy iste’mol uchun sotib olingan tovar va xizmatlarning bozor qiymati nima deb nomlanadi?",
       "options": [
-        "Ishlab chiqarish hajmini cheklash va narxlarni oshirish",
-        "Import hajmini maksimal darajada oshirish",
-        "Iqtisodiy samaradorlikni oshirish va resurslarni optimal taqsimlash",
-        "Davlat monopoliyasini kengaytirish"
+        "Milliy daromad",
+        "Sof mahsulot",
+        "Yalpi ichki mahsulot",
+        "Real daromad"
       ],
       "correct": 2
     },
     {
       "text": "Quyidagilardan qaysi biri unumsiz sof moliyaviy bitimlar tarkibiga kirmaydi?",
       "options": [
-        "Iqtisodiy samaradorlikni oshirish va resurslarni optimal taqsimlash",
-        "Davlat monopoliyasini kengaytirish",
-        "Ishlab chiqarish hajmini cheklash va narxlarni oshirish",
-        "Import hajmini maksimal darajada oshirish"
+        "Nafaqa to‘lovlari",
+        "Subsidiyalar",
+        "Aksiya savdosi",
+        "Tovar xaridi"
       ],
-      "correct": 0
+      "correct": 3
     },
     {
       "text": "Quyidagilardan qaysi biri unumsiz sof moliyaviy bitimlarga tegishli emas?",
       "options": [
-        "Davlat monopoliyasini kengaytirish",
-        "Import hajmini maksimal darajada oshirish",
-        "Iqtisodiy samaradorlikni oshirish va resurslarni optimal taqsimlash",
-        "Ishlab chiqarish hajmini cheklash va narxlarni oshirish"
+        "Transfer to‘lovlari",
+        "Qimmatli qog‘ozlar savdosi",
+        "Nafaqa",
+        "Investitsion xarajatlar"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Yalpi ichki mahsulotni hisoblashning qaysi usulida yalpi talab tarkibiy qismlari qo‘shib chiqiladi?",
+      "options": [
+        "Daromadlar usuli",
+        "Qo‘shilgan qiymat usuli",
+        "Xarajatlar usuli",
+        "Ishlab chiqarish usuli"
       ],
       "correct": 2
     },
     {
-      "text": "Yalpi ichki mahsulotni hisoblashning qaysi usulida yalpi talab tarkibiy qismlari qо‘shib chiqiladi?",
+      "text": "Quyidagilardan qaysi biri yalpi talab va narx darajasi o‘rtasidagi teskari bog‘liqlikni izohlab berolmaydi?",
       "options": [
-        "YaIM = Milliy daromad + Amortizatsiya + Soliqlar",
-        "YaIM = Iste'mol + Investitsiya + Importdan tushum",
-        "YaIM = Iste'mol + Sof eksport - Davlat xaridi",
-        "YaIM = Iste'mol + Investitsiya + Davlat xaridi + Sof eksport"
+        "Foiz stavkasi samarasi",
+        "Boylik samarasi",
+        "Import xaridlari samarasi",
+        "Ishlab chiqarish samarasi"
       ],
       "correct": 3
     },
     {
-      "text": "Quyidagilardan qaysi biri yalpi talab va narx darajasi о‘rtasidagi teskari bog‘liqlikni izohlab berolmaydi?",
+      "text": "Iste’molchilik sarflari miqdoriga ta’sir ko‘rsatmaydigan omilni aniqlang.",
       "options": [
-        "Import hajmini maksimal darajada oshirish",
-        "Davlat monopoliyasini kengaytirish",
-        "Ishlab chiqarish hajmini cheklash va narxlarni oshirish",
-        "Iqtisodiy samaradorlikni oshirish va resurslarni optimal taqsimlash"
+        "Daromad miqdori",
+        "Soliq darajasi",
+        "Jamg‘arma hajmi",
+        "Tabiiy resurslar hajmi"
       ],
       "correct": 3
     },
     {
-      "text": "Iste’molchilik sarflari miqdoriga ta’sir kо‘rsatmaydigan omilni aniqlang:",
+      "text": "Investitsion sarflar o‘zgarishiga ta’sir ko‘rsatmaydigan omilni belgilang.",
       "options": [
-        "125 mlrd. so'm",
-        "110 mlrd. so'm",
-        "100 mlrd. so'm",
-        "80 mlrd. so'm"
+        "Foiz stavkasi",
+        "Kutilayotgan foyda",
+        "Soliq siyosati",
+        "Tug‘ilish darajasi"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "avlat sarflari o‘zgarishiga ta’sir ko‘rsatmaydigan omilni aniqlang.",
+      "options": [
+        "Davlat siyosati",
+        "Byudjet daromadlari",
+        "Iqtisodiy holat",
+        "Iqlim harorati"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Yalpi taklif egri chizig‘ining qaysi kesmasi milliy ishlab chiqarish real hajmi o‘zgarishi narx darajasining o‘zgarishi bilan mutanosib borishini ko‘rsatadi?",
+      "options": [
+        "Vertikal kesma",
+        "Gorizontal kesma",
+        "Oraliq kesma",
+        "Klassik kesma"
       ],
       "correct": 2
     },
     {
-      "text": "Investitsion sarflar о‘zgarishiga ta’sir kо‘rsatmaydigan omilni belgilang.",
+      "text": "Yalpi talab ortganda narx tez ko‘tarilib, talab kamayganda u pasaymasligi imkonligi nima bilan izohlanadi?",
       "options": [
-        "Davlat monopoliyasini kengaytirish",
-        "Import hajmini maksimal darajada oshirish",
-        "Ishlab chiqarish hajmini cheklash va narxlarni oshirish",
-        "Iqtisodiy samaradorlikni oshirish va resurslarni optimal taqsimlash"
-      ],
-      "correct": 3
-    },
-    {
-      "text": "Davlat sarflari о‘zgarishiga ta’sir kо‘rsatmaydigan omilni aniqlang.",
-      "options": [
-        "100 mlrd. so'm",
-        "110 mlrd. so'm",
-        "125 mlrd. so'm",
-        "80 mlrd. so'm"
+        "Narxlarning qat’iyligi",
+        "Raqobat kuchayishi",
+        "Soliq kamayishi",
+        "Ishsizlik kamayishi"
       ],
       "correct": 0
     },
     {
-      "text": "Yalpi taklif egri chizig‘ining qaysi kesmasi milliy ishlab chiqarishning real hajmi о‘zgarishi narx darajasining о‘zgarishi bilan mutanosib borishini kо‘rsatadi?",
+      "text": "Agar davlat xarajatlari ko‘paysa, u holda:",
       "options": [
-        "Import hajmini maksimal darajada oshirish",
-        "Iqtisodiy samaradorlikni oshirish va resurslarni optimal taqsimlash",
-        "Davlat monopoliyasini kengaytirish",
-        "Ishlab chiqarish hajmini cheklash va narxlarni oshirish"
+        "Yalpi talab ortadi",
+        "Ishsizlik ortadi",
+        "Narxlar tushadi",
+        "Investitsiyalar kamayadi"
       ],
-      "correct": 1
-    },
-    {
-      "text": "Yalpi talab ortganda narx tez kо‘tarilib, talab kamayganda u pasaymasligi mumkinligi nima bilan izohlanadi?",
-      "options": [
-        "Ishlab chiqarish hajmini cheklash va narxlarni oshirish",
-        "Import hajmini maksimal darajada oshirish",
-        "Davlat monopoliyasini kengaytirish",
-        "Iqtisodiy samaradorlikni oshirish va resurslarni optimal taqsimlash"
-      ],
-      "correct": 3
-    },
-    {
-      "text": "Agar davlat xarajatlari kо‘paysa, u holda:",
-      "options": [
-        "Ishlab chiqarish hajmini cheklash va narxlarni oshirish",
-        "Import hajmini maksimal darajada oshirish",
-        "Iqtisodiy samaradorlikni oshirish va resurslarni optimal taqsimlash",
-        "Davlat monopoliyasini kengaytirish"
-      ],
-      "correct": 2
+      "correct": 0
     },
     {
       "text": "Agar shaxsiy daromad solig‘i oshirilsa, u holda:",
       "options": [
-        "Import hajmini maksimal darajada oshirish",
-        "Davlat monopoliyasini kengaytirish",
-        "Ishlab chiqarish hajmini cheklash va narxlarni oshirish",
-        "Iqtisodiy samaradorlikni oshirish va resurslarni optimal taqsimlash"
-      ],
-      "correct": 3
-    },
-    {
-      "text": "Yalpi taklif egri chizig‘ining qaysi kesmasida narxning oshib borishi ishlab chiqarish real hajmining kо‘payishiga olib kelmaydi?",
-      "options": [
-        "Iqtisodiy samaradorlikni oshirish va resurslarni optimal taqsimlash",
-        "Ishlab chiqarish hajmini cheklash va narxlarni oshirish",
-        "Davlat monopoliyasini kengaytirish",
-        "Import hajmini maksimal darajada oshirish"
-      ],
-      "correct": 0
-    },
-    {
-      "text": "Yalpi taklif egri chizig‘ining qaysi kesmasida ishlab chiqarish hajmi о‘zgarmaydi?",
-      "options": [
-        "Iqtisodiy samaradorlikni oshirish va resurslarni optimal taqsimlash",
-        "Davlat monopoliyasini kengaytirish",
-        "Import hajmini maksimal darajada oshirish",
-        "Ishlab chiqarish hajmini cheklash va narxlarni oshirish"
-      ],
-      "correct": 0
-    },
-    {
-      "text": "Quyidagilardan qaysi biri yalpi talabning integrallashgan shakli (kо‘rsatkichi) hisoblanadi?",
-      "options": [
-        "Iqtisodiy samaradorlikni oshirish va resurslarni optimal taqsimlash",
-        "Import hajmini maksimal darajada oshirish",
-        "Davlat monopoliyasini kengaytirish",
-        "Ishlab chiqarish hajmini cheklash va narxlarni oshirish"
-      ],
-      "correct": 0
-    },
-    {
-      "text": "Yalpi talab dinamikasiga ta’sir kо‘rsatuvchi quyidagilardan qaysi biri Keyns samarasi deb ham ataladi?",
-      "options": [
-        "Ishlab chiqarish hajmini cheklash va narxlarni oshirish",
-        "Import hajmini maksimal darajada oshirish",
-        "Davlat monopoliyasini kengaytirish",
-        "Iqtisodiy samaradorlikni oshirish va resurslarni optimal taqsimlash"
-      ],
-      "correct": 3
-    },
-    {
-      "text": "Aholi iste’moli va pul jamg‘armalari о‘rtasidagi nisbatga qanday omil ta’sir kо‘rsatmaydi?",
-      "options": [
-        "Soliq stavkalarini kamaytirish",
-        "Tashqi savdo balansini tartibga solish",
-        "Markaziy bank tomonidan pul taklifi va foiz stavkasini boshqarish",
-        "Davlat byudjeti xarajatlarini oshirish"
+        "Iste’mol ortadi",
+        "Jamg‘arma ortadi",
+        "Yalpi talab kamayadi",
+        "Investitsiya ortadi"
       ],
       "correct": 2
     },
     {
-      "text": "Shaxsiy daromad 150000 sо‘m bо‘lib uning 130000 sо‘mni iste’molga ketsa, jamg‘armaga о‘rtacha moyillik necha foizni tashkil qiladi?",
+      "text": "Yalpi taklif egri chizig‘ining qaysi kesmasida narxning oshib borishi ishlab chiqarish real hajmining ko‘payishiga olib kelmaydi?",
       "options": [
-        "97500.0%",
-        "130000.0%",
-        "156000.0%",
-        "195000.0%"
+        "Gorizontal kesma",
+        "Oraliq kesma",
+        "Vertikal kesma",
+        "Keynes kesmasi"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Yalpi taklif egri chizig‘ining qaysi kesmasida ishlab chiqarish hajmi o‘zgarmaydi?",
+      "options": [
+        "Vertikal kesma",
+        "Gorizontal kesma",
+        "Oraliq kesma",
+        "Keynes kesmasi"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Quyidagilardan qaysi biri yalpi talabning integrallashgan shakli (ko‘rsatkichi) hisoblanadi?",
+      "options": [
+        "Milliy boylik",
+        "Yalpi ichki mahsulot",
+        "Ishsizlik darajasi",
+        "Soliq stavkasi"
       ],
       "correct": 1
     },
     {
-      "text": "220000 sо‘m shaxsiy daromaddan 50000 sо‘m jamg‘arma sifatida ishlatilsa, iste’molga о‘rtacha moyillik necha foizni tashkil qiladi?",
+      "text": "Yalpi talab dinamikasiga ta’sir ko‘rsatuvchi quyidagilardan qaysi biri Keyns samarasi deb ham ataladi?",
       "options": [
-        "60000.0%",
-        "75000.0%",
-        "50000.0%",
-        "37500.0%"
+        "Boylik samarasi",
+        "Foiz stavkasi samarasi",
+        "Valyuta samarasi",
+        "Multiplikator samarasi"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Aholi iste’moli va jamg‘armalari o‘rtasidagi nisbatga qanday omil ta’sir ko‘rsatmaydi?",
+      "options": [
+        "Daromad darajasi",
+        "Narxlar darajasi",
+        "Soliq siyosati",
+        "Yer maydoni hajmi"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Shaxsiy daromad 150000 so‘m bo‘lib uning 130000 so‘mi iste’molga ketsa, jamg‘armaga o‘rtacha moyillik necha foizni tashkil qiladi?",
+      "options": [
+        "10 %",
+        "13,3 %",
+        "20 %",
+        "25 %"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "220000 so‘m shaxsiy daromaddan 50000 so‘m jamg‘arma sifatida ishlatilsa, iste’molga o‘rtacha moyillik necha foizni tashkil qiladi?",
+      "options": [
+        "65 %",
+        "70 %",
+        "77,3 %",
+        "82 %"
       ],
       "correct": 2
     },
     {
-      "text": "Quyidagilardan qaysi biri investitsiyalarning ichki manbai hisoblanadi?",
+      "text": "Quyidagilarning qaysi biri investitsiyalarning ichki manbai hisoblanadi?",
       "options": [
-        "Eksportdan tushgan daromadlar",
-        "Aholining bank depozitlari",
-        "Davlat tomonidan ajratilgan subsidiyalar",
-        "Kelajakda foyda olish maqsadida kapital qo'yilmalar"
+        "Tashqi kreditlar",
+        "Chet el investitsiyasi",
+        "Xalqaro grantlar",
+        "Korxona foydasi"
       ],
       "correct": 3
     },
     {
       "text": "Investitsiyalar darajasini belgilaydigan asosiy omil nima?",
       "options": [
-        "Davlat tomonidan ajratilgan subsidiyalar",
-        "Eksportdan tushgan daromadlar",
-        "Kelajakda foyda olish maqsadida kapital qo'yilmalar",
-        "Aholining bank depozitlari"
+        "Aholi soni",
+        "Foiz stavkasi",
+        "Tabiiy resurslar",
+        "Eksport hajmi"
       ],
-      "correct": 2
+      "correct": 1
     },
     {
-      "text": "Investitsion sarflar о‘zgaruvchanligiga ta’sir qilmaydigan omilni toping?",
+      "text": "Investitsion sarflar o‘zgaruvchanligiga ta’sir qilmaydigan omilni toping.",
       "options": [
-        "Import hajmini maksimal darajada oshirish",
-        "Ishlab chiqarish hajmini cheklash va narxlarni oshirish",
-        "Iqtisodiy samaradorlikni oshirish va resurslarni optimal taqsimlash",
-        "Davlat monopoliyasini kengaytirish"
+        "Foiz stavkasi",
+        "Kutilayotgan foyda",
+        "Soliq siyosati",
+        "Ob-havo harorati"
       ],
-      "correct": 2
+      "correct": 3
     },
     {
-      "text": "Foizning muvozanatli stavkasi (pulga talab va pul taklifi kesishgan nuqta) nimaga ta’sir kо‘rsatadi?",
+      "text": "Foizning muvozanatli stavkasi (pulga talab va pul taklifi kesishgan nuqta) nimaga ta’sir ko‘rsatadi?",
       "options": [
-        "Markaziy bank tomonidan pul taklifi va foiz stavkasini boshqarish",
-        "Davlat byudjeti xarajatlarini oshirish",
-        "Soliq stavkalarini kamaytirish",
-        "Tashqi savdo balansini tartibga solish"
+        "Faqat narxlarga",
+        "Investitsiya hajmiga",
+        "Faqat eksportga",
+        "Tug‘ilish darajasiga"
       ],
-      "correct": 0
+      "correct": 1
     },
     {
       "text": "Investitsion qarorlar qabul qilishga quyidagilardan qaysi biri asos hisoblanadi?",
       "options": [
-        "Davlat monopoliyasini kengaytirish",
-        "Iqtisodiy samaradorlikni oshirish va resurslarni optimal taqsimlash",
-        "Import hajmini maksimal darajada oshirish",
-        "Ishlab chiqarish hajmini cheklash va narxlarni oshirish"
+        "Aholi soni",
+        "Kutilayotgan foyda normasi",
+        "Yer maydoni",
+        "Iqlim"
       ],
       "correct": 1
     },
     {
       "text": "Unumli iste’mol qanday amalga oshadi?",
       "options": [
-        "Iqtisodiy samaradorlikni oshirish va resurslarni optimal taqsimlash",
-        "Import hajmini maksimal darajada oshirish",
-        "Davlat monopoliyasini kengaytirish",
-        "Ishlab chiqarish hajmini cheklash va narxlarni oshirish"
+        "Shaxsiy ehtiyoj uchun foydalanish orqali",
+        "Ishlab chiqarish jarayonida foydalanish orqali",
+        "Sovg‘a qilish orqali",
+        "Jamg‘arish orqali"
       ],
-      "correct": 0
+      "correct": 1
     },
     {
-      "text": "Uy xо‘jaliklari ixtiyoridagi daromadga bog‘liq bо‘lmagan sarflar qanday nomlanadi?",
+      "text": "Uy xo‘jaliklari ixtiyoridagi daromadga bog‘liq bo‘lmagan sarflar qanday nomlanadi?",
       "options": [
-        "Iqtisodiy samaradorlikni oshirish va resurslarni optimal taqsimlash",
-        "Ishlab chiqarish hajmini cheklash va narxlarni oshirish",
-        "Davlat monopoliyasini kengaytirish",
-        "Import hajmini maksimal darajada oshirish"
-      ],
-      "correct": 0
-    },
-    {
-      "text": "Milliy daromad (foyda)ning bir qismini ishlab chiqarishni kengaytirish maqsadida sarflanish jarayoni nima deb nomlanadi?",
-      "options": [
-        "Ishlab chiqarish hajmini cheklash va narxlarni oshirish",
-        "Import hajmini maksimal darajada oshirish",
-        "Iqtisodiy samaradorlikni oshirish va resurslarni optimal taqsimlash",
-        "Davlat monopoliyasini kengaytirish"
+        "Jamg‘arma",
+        "Investitsiya",
+        "Avtonom sarflar",
+        "Transfer to‘lovlari"
       ],
       "correct": 2
     },
     {
-      "text": "Iqtisodiy jamg‘arish darajasiga ta’sir kо‘rsatmaydigan omilni aniqlang.",
+      "text": "Milliy daromaddan foydalanib uning bir qismini ishlab chiqarishni kengaytirish maqsadida sarflash jarayoni nima deb nomlanadi?",
       "options": [
-        "110 mlrd. so'm",
-        "80 mlrd. so'm",
-        "100 mlrd. so'm",
-        "125 mlrd. so'm"
+        "Iste’mol",
+        "Jamg‘arish",
+        "Subsidiyalash",
+        "Kreditlash"
       ],
-      "correct": 2
+      "correct": 1
     },
     {
-      "text": "Asosiy kapitalning alohida turlariga qо‘yilgan investitsiyalar uning qanday tuzilishida aks etadi?",
+      "text": "Iqtisodiy jamg‘arish darajasiga ta’sir ko‘rsatmaydigan omilni aniqlang.",
       "options": [
-        "Davlat tomonidan ajratilgan subsidiyalar",
-        "Aholining bank depozitlari",
-        "Eksportdan tushgan daromadlar",
-        "Kelajakda foyda olish maqsadida kapital qo'yilmalar"
+        "Daromad hajmi",
+        "Foiz stavkasi",
+        "Soliq siyosati",
+        "Havoning namligi"
       ],
       "correct": 3
+    },
+    {
+      "text": "Asosiy kapitalning alohida turlariga qo‘yilgan investitsiyalar uning qanday tuzilishida aks etadi?",
+      "options": [
+        "Hududiy tuzilishida",
+        "Takror ishlab chiqarish tuzilishida",
+        "Texnologik tuzilishida",
+        "Tashkiliy tuzilishida"
+      ],
+      "correct": 2
     },
     {
       "text": "Aksiyalarni sotishdan olingan mablag‘lar nima deb nomlanadi?",
       "options": [
-        "Ishlab chiqarish hajmini cheklash va narxlarni oshirish",
-        "Iqtisodiy samaradorlikni oshirish va resurslarni optimal taqsimlash",
-        "Davlat monopoliyasini kengaytirish",
-        "Import hajmini maksimal darajada oshirish"
-      ],
-      "correct": 1
-    },
-    {
-      "text": "Investitsion faollikni belgilab beruvchi qaysi omil ishlab chiqarishning samaradorlik darajasiga bog‘liq?",
-      "options": [
-        "Iqtisodiy samaradorlikni oshirish va resurslarni optimal taqsimlash",
-        "Davlat monopoliyasini kengaytirish",
-        "Ishlab chiqarish hajmini cheklash va narxlarni oshirish",
-        "Import hajmini maksimal darajada oshirish"
-      ],
-      "correct": 0
-    },
-    {
-      "text": "Investitsiyalarni amalga oshirishga qaratilagan amaliy harakatlar nima deb nomlanadi?",
-      "options": [
-        "Davlat tomonidan ajratilgan subsidiyalar",
-        "Kelajakda foyda olish maqsadida kapital qo'yilmalar",
-        "Eksportdan tushgan daromadlar",
-        "Aholining bank depozitlari"
-      ],
-      "correct": 1
-    },
-    {
-      "text": "Investitsion sarflar о‘zgaruvchanligini belgilab beruvchi qaysi omil bozor konyunkturasi holatiga bog‘liq?",
-      "options": [
-        "Import hajmini maksimal darajada oshirish",
-        "Ishlab chiqarish hajmini cheklash va narxlarni oshirish",
-        "Davlat monopoliyasini kengaytirish",
-        "Iqtisodiy samaradorlikni oshirish va resurslarni optimal taqsimlash"
-      ],
-      "correct": 3
-    },
-    {
-      "text": "Joriy yildagi investitsiyalar о‘sishining о‘tgan (bazis) yildagi milliy daromad о‘sishiga nisbati qanday kо‘rsatkich?",
-      "options": [
-        "Eksportdan tushgan daromadlar",
-        "Davlat tomonidan ajratilgan subsidiyalar",
-        "Kelajakda foyda olish maqsadida kapital qo'yilmalar",
-        "Aholining bank depozitlari"
+        "Kredit",
+        "Subsidiyalar",
+        "Aksioner kapitali",
+        "Transfer to‘lovi"
       ],
       "correct": 2
     },
     {
-      "text": "Investitsiyalardagi о‘zgarishning multiplikatorga kо‘paytmasi nimani anglatadi?",
+      "text": "Investitsion faollikni belgilab beruvchi qaysi omil ishlab chiqarish samaradorlik darajasiga bog‘liq?",
       "options": [
-        "Soliq stavkasi va byudjet balansi o'rtasidagi nisbat",
-        "Eksport va import o'rtasidagi farq",
-        "Investitsiyalardagi o'zgarishning milliy daromadga ta'siri nisbati",
-        "YaIM o'sishining aholisi soniga nisbati"
+        "Aholi soni",
+        "Soliq hajmi",
+        "Foyda normasi",
+        "Iqlim"
       ],
       "correct": 2
     },
     {
-      "text": "Qaysi omil multiplikator samarasiga ta’sir kо‘rsatmaydi?",
+      "text": "Investitsiyalarni amalga oshirishga qaratilgan amaliy harakatlar nima deb nomlanadi?",
       "options": [
-        "YaIM o'sishining aholisi soniga nisbati",
-        "Eksport va import o'rtasidagi farq",
-        "Soliq stavkasi va byudjet balansi o'rtasidagi nisbat",
-        "Investitsiyalardagi o'zgarishning milliy daromadga ta'siri nisbati"
+        "Monetizatsiya",
+        "Investitsion faoliyat",
+        "Integratsiya",
+        "Modernizatsiya"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Investitsion sarflar o‘zgaruvchanligini belgilab beruvchi qaysi omil bozor konyunkturasi holatiga bog‘liq?",
+      "options": [
+        "Yer resurslari",
+        "Kutilayotgan foyda",
+        "Tug‘ilish darajasi",
+        "Tabiiy iqlim"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Joriy yildagi investitsiyalar o‘sishining o‘tgan (bazis) yildagi milliy daromad o‘sishiga nisbati qanday ko‘rsatkich?",
+      "options": [
+        "Multiplikator",
+        "Akselerator",
+        "Deflyator",
+        "Diskont"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Investitsiyalardagi o‘zgarishning multiplikatorga ko‘paytmasi nimani anglatadi?",
+      "options": [
+        "Narxlar o‘sishini",
+        "Milliy daromad o‘zgarishini",
+        "Soliq stavkasini",
+        "Ishsizlik darajasini"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Qaysi omil multiplikator samarasiga ta’sir ko‘rsatmaydi?",
+      "options": [
+        "Iste’molga moyillik",
+        "Jamg‘armaga moyillik",
+        "Soliq siyosati",
+        "Iqlim sharoiti"
       ],
       "correct": 3
     },
     {
-      "text": "Tо‘liq bandlik sharoitida yalpi sarflarning SMM hajmidan kam bо‘lgan miqdori nima deb nomlanadi?",
+      "text": "To‘liq bandlik sharoitida yalpi sarflarning SMM hajmidan kam bo‘lgan miqdori nima deb nomlanadi?",
       "options": [
-        "Iqtisodiy faol aholining ishsizlar soniga nisbati",
-        "Mehnat bozoridagi talab va taklif muvozanati",
-        "Ishlaydigan aholining umumiy aholi soniga nisbati",
-        "Ish qidiruvchilar soni va bo'sh ish o'rinlari nisbati"
+        "Inflyatsion farq",
+        "Retsession farq",
+        "Deflyatsiya",
+        "Multiplikator"
       ],
       "correct": 1
     },
     {
-      "text": "Yalpi sarflarning SMM hajmidan ortiqcha bо‘lgan miqdori nima deb nomlanadi?",
+      "text": "Yalpi sarflarning SMM hajmidan ortiqcha bo‘lgan miqdori nima deb nomlanadi?",
       "options": [
-        "Ishlab chiqarish hajmini cheklash va narxlarni oshirish",
-        "Iqtisodiy samaradorlikni oshirish va resurslarni optimal taqsimlash",
-        "Import hajmini maksimal darajada oshirish",
-        "Davlat monopoliyasini kengaytirish"
+        "Retsession farq",
+        "Inflyatsion farq",
+        "Deflyator",
+        "Diskont"
       ],
       "correct": 1
     },
     {
-      "text": "Agar mehnatning kapital bilan qurollanishi mehnat unumdorligiga nisbatan tezroq о‘ssa, u holda:",
+      "text": "Agar mehnatning kapital bilan qurollanishi mehnat unumdorligiga nisbatan tezroq o‘ssa, u holda:",
       "options": [
-        "Davlat monopoliyasini kengaytirish",
-        "Iqtisodiy samaradorlikni oshirish va resurslarni optimal taqsimlash",
-        "Import hajmini maksimal darajada oshirish",
-        "Ishlab chiqarish hajmini cheklash va narxlarni oshirish"
+        "Kapital sig‘imi kamayadi",
+        "Kapital sig‘imi ortadi",
+        "Ishsizlik kamayadi",
+        "Narxlar tushadi"
       ],
       "correct": 1
     },
     {
-      "text": "Iqtisodiy о‘sishning sifat darajasini qanday kо‘rsatkichlar orqali ifodalab bо‘lmaydi?",
+      "text": "Iqtisodiy o‘sishning sifat darajasi qanday ko‘rsatkichlar orqali ifodalab bo‘lmaydi?",
       "options": [
-        "Import hajmini maksimal darajada oshirish",
-        "Ishlab chiqarish hajmini cheklash va narxlarni oshirish",
-        "Davlat monopoliyasini kengaytirish",
-        "Iqtisodiy samaradorlikni oshirish va resurslarni optimal taqsimlash"
+        "Mehnat unumdorligi",
+        "Real daromad",
+        "Ishlab chiqarish samaradorligi",
+        "Aholi sonining oddiy o‘sishi"
       ],
       "correct": 3
     },
     {
-      "text": "Iqtisodiy о‘sishning intensiv omillariga nimalar kiradi?",
+      "text": "Iqtisodiy o‘sishning intensiv omillariga nimalar kiradi?",
       "options": [
-        "Ishlab chiqarish hajmini cheklash va narxlarni oshirish",
-        "Davlat monopoliyasini kengaytirish",
-        "Iqtisodiy samaradorlikni oshirish va resurslarni optimal taqsimlash",
-        "Import hajmini maksimal darajada oshirish"
+        "Ishchilar sonining ko‘payishi",
+        "Yer maydonining kengayishi",
+        "Texnologiya va malaka oshishi",
+        "Xomashyo hajmining ortishi"
       ],
       "correct": 2
     },
     {
-      "text": "Agar YaIM bazis yilda 600 trillion sо‘m joriy yilda 700 trilion sо‘mni tashkil qilgan bо‘lsa, uning о‘sish sur’ati necha foizni tashkil qiladi?",
+      "text": "Agar YaIM bazis yilda 600 trillion so‘m, joriy yilda 700 trillion so‘mni tashkil qilgan bo‘lsa, uning o‘sish sur’ati necha foizni tashkil qiladi?",
       "options": [
-        "1050.0%",
-        "700.0%",
-        "840.0%",
-        "525.0%"
+        "14 %",
+        "16,7 %",
+        "20 %",
+        "25 %"
       ],
       "correct": 1
     },
     {
       "text": "Agar jamiyat xarajatlarini minimallashtirishga va cheklangan ishlab chiqarish resurslaridan foydalanishni optimallashtirishga intilsa, bundan ko‘zlangan iqtisodiy maqsad nima bo‘ladi?",
       "options": [
-        "Ishlab chiqarish hajmini cheklash va narxlarni oshirish",
-        "Davlat monopoliyasini kengaytirish",
-        "Import hajmini maksimal darajada oshirish",
-        "Iqtisodiy samaradorlikni oshirish va resurslarni optimal taqsimlash"
+        "To‘liq bandlik",
+        "Narxlar barqarorligi",
+        "Iqtisodiy samaradorlik",
+        "Tashqi savdo balansi"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Iqtisodiy o‘sishning intensiv omilini aniqlang.",
+      "options": [
+        "Ishchilar sonining ortishi",
+        "Yer maydonining kengayishi",
+        "Texnologiyaning takomillashuvi",
+        "Xomashyo hajmining ko‘payishi"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Iqtisodiy o‘sishning ekstensiv omilini aniqlang.",
+      "options": [
+        "Innovatsiyalar",
+        "Mehnat unumdorligi oshishi",
+        "Ishchi kuchi sonining ko‘payishi",
+        "Texnologiya rivoji"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Milliy boylikning o‘sishi amalga bog‘liq bo‘ladi?",
+      "options": [
+        "Mehnat unumdorligi",
+        "Investitsiyalar",
+        "Tabiiy resurslar",
+        "Barchasiga"
       ],
       "correct": 3
     },
     {
-      "text": "Iqtisodiy о‘sishning intensiv omilini aniqlang.",
+      "text": "Qaysi iqtisodchi olim “iqtisodiy o‘sish” tushunchasiga munosabat bildirmagan?",
       "options": [
-        "125 mlrd. so'm",
-        "110 mlrd. so'm",
-        "80 mlrd. so'm",
-        "100 mlrd. so'm"
+        "Adam Smith",
+        "Robert Solou",
+        "Harrod",
+        "Aristotel"
       ],
       "correct": 3
     },
     {
-      "text": "Iqtisodiy о‘sishning ekstensiv omilini aniqlang.",
+      "text": "Iqtisodiy o‘sish siklli shaklda ro‘y bersa, uning qaysi turi vujudga keladi?",
       "options": [
-        "110 mlrd. so'm",
-        "125 mlrd. so'm",
-        "80 mlrd. so'm",
-        "100 mlrd. so'm"
+        "Ekstensiv o‘sish",
+        "Intensiv o‘sish",
+        "Tebranuvchan o‘sish",
+        "Barqaror o‘sish"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Quyidagilardan qaysi biri iqtisodiy o‘sishning taklif omillari tarkibiga kirmaydi?",
+      "options": [
+        "Tabiiy resurslar",
+        "Mehnat resurslari",
+        "Kapital",
+        "Iste’mol hajmi"
       ],
       "correct": 3
     },
     {
-      "text": "Milliy boylikning о‘sishi qaysi omilga bog‘lik bo‘lmaydi?",
+      "text": "Milliy hisoblar tizimi (MHT) bo‘yicha quyidagilardan qaysi biri milliy boylik tarkibiga kirmaydi?",
       "options": [
-        "Iqtisodiy samaradorlikni oshirish va resurslarni optimal taqsimlash",
-        "Import hajmini maksimal darajada oshirish",
-        "Davlat monopoliyasini kengaytirish",
-        "Ishlab chiqarish hajmini cheklash va narxlarni oshirish"
+        "Asosiy kapital",
+        "Moliyaviy aktivlar",
+        "Tabiiy boyliklar",
+        "Transfer to‘lovlari"
       ],
-      "correct": 0
+      "correct": 3
     },
     {
-      "text": "Qaysi iqtisodchi olim “iqtisodiy о‘sish” tushunchasiga munosabat bildirmagan?",
+      "text": "MHT bo‘yicha milliy boylikning asosiy va aylanma kapital, tayyor mahsulot, mol-mulkdan iborat qismi qaysi aktivlarga kiradi?",
       "options": [
-        "Iqtisodiy samaradorlikni oshirish va resurslarni optimal taqsimlash",
-        "Davlat monopoliyasini kengaytirish",
-        "Import hajmini maksimal darajada oshirish",
-        "Ishlab chiqarish hajmini cheklash va narxlarni oshirish"
-      ],
-      "correct": 0
-    },
-    {
-      "text": "Iqtisodiy о‘sish siklli shaklda rо‘y bersa, uning qaysi turi vujudga keladi?",
-      "options": [
-        "Import hajmini maksimal darajada oshirish",
-        "Iqtisodiy samaradorlikni oshirish va resurslarni optimal taqsimlash",
-        "Davlat monopoliyasini kengaytirish",
-        "Ishlab chiqarish hajmini cheklash va narxlarni oshirish"
+        "Moliyaviy aktivlar",
+        "Nomoliyaviy aktivlar",
+        "Pul aktivlari",
+        "Kredit aktivlari"
       ],
       "correct": 1
     },
     {
-      "text": "Quyidagilardan qaysi biri iqtisodiy о‘sishning taklif omillari tarkibiga kirmaydi?",
+      "text": "Ishlab chiqarish real hajmining ko‘payishiga olib keladigan resurs sarfli omilni aniqlang.",
       "options": [
-        "Iqtisodiy samaradorlikni oshirish va resurslarni optimal taqsimlash",
-        "Import hajmini maksimal darajada oshirish",
-        "Ishlab chiqarish hajmini cheklash va narxlarni oshirish",
-        "Davlat monopoliyasini kengaytirish"
-      ],
-      "correct": 0
-    },
-    {
-      "text": "Milliy hisoblar tizimi (MHT) bо‘yicha quyidagilardan qaysi biri milliy boylik tarkibiga kirmaydi?",
-      "options": [
-        "Iqtisodiy samaradorlikni oshirish va resurslarni optimal taqsimlash",
-        "Ishlab chiqarish hajmini cheklash va narxlarni oshirish",
-        "Davlat monopoliyasini kengaytirish",
-        "Import hajmini maksimal darajada oshirish"
-      ],
-      "correct": 0
-    },
-    {
-      "text": "MHT bо‘yicha milliy boylikning asosiy va aylanma kapital, tayyor mahsulot, mol-mulkdan iborat qismi qaysi aktivlarga kiradi?",
-      "options": [
-        "Ishlab chiqarish hajmini cheklash va narxlarni oshirish",
-        "Davlat monopoliyasini kengaytirish",
-        "Import hajmini maksimal darajada oshirish",
-        "Iqtisodiy samaradorlikni oshirish va resurslarni optimal taqsimlash"
-      ],
-      "correct": 3
-    },
-    {
-      "text": "Ishlab chiqarish real hajmining kо‘payishiga olib keladigan resurs sarfli omilni aniqlang.",
-      "options": [
-        "80 mlrd. so'm",
-        "125 mlrd. so'm",
-        "110 mlrd. so'm",
-        "100 mlrd. so'm"
-      ],
-      "correct": 3
-    },
-    {
-      "text": "Har xil omillarning iqtisodiy о‘sishga ta’sirini miqdoriy aniqlashga harakat qilgan iqtisodchi olimni aniqlang.",
-      "options": [
-        "125 mlrd. so'm",
-        "100 mlrd. so'm",
-        "80 mlrd. so'm",
-        "110 mlrd. so'm"
+        "Texnologiya rivoji",
+        "Qo‘shimcha mehnat va kapital jalb etish",
+        "Innovatsion boshqaruv",
+        "Malaka oshishi"
       ],
       "correct": 1
     },
     {
-      "text": "Iqtisodiy о‘sishning qaysi modelida investitsiyalarning о‘sish sur’ati iqtisodiyotda talab va taklif kо‘payishining asosiy omili bо‘lib xizmat qilishi kо‘rsatiladi?",
+      "text": "Har xil omillarning iqtisodiy o‘sishga ta’sirini miqdoriy aniqlashga harakat qilgan iqtisodchi olimni aniqlang.",
       "options": [
-        "Davlat tomonidan ajratilgan subsidiyalar",
-        "Aholining bank depozitlari",
-        "Eksportdan tushgan daromadlar",
-        "Kelajakda foyda olish maqsadida kapital qo'yilmalar"
+        "Keynes",
+        "Fridman",
+        "Robert Solou",
+        "Rikardo"
       ],
-      "correct": 3
+      "correct": 2
     },
     {
-      "text": "Iqitisodiy о‘sishning qaysi modeliga “tabiiy о‘sish” tushunchasi kiritiladi?",
+      "text": "Iqtisodiy o‘sishning qaysi modeliga “tabiiy o‘sish” tushunchasi kiritiladi?",
       "options": [
-        "Import hajmini maksimal darajada oshirish",
-        "Davlat monopoliyasini kengaytirish",
-        "Iqtisodiy samaradorlikni oshirish va resurslarni optimal taqsimlash",
-        "Ishlab chiqarish hajmini cheklash va narxlarni oshirish"
+        "Domar modeli",
+        "Keynes modeli",
+        "Harrod modeli",
+        "Monetar model"
       ],
       "correct": 2
     },
     {
       "text": "Moddiy buyumlashgan boylikni aniqlang.",
       "options": [
-        "110 mlrd. so'm",
-        "125 mlrd. so'm",
-        "100 mlrd. so'm",
-        "80 mlrd. so'm"
+        "Patent",
+        "Mualliflik huquqi",
+        "Binolar va uskunalar",
+        "Aksiya"
       ],
       "correct": 2
     },
     {
-      "text": "Agar iqtisodiyotda ishlab chiqarilgan va realizatsiya qilingan SMM muvozanatlashgan bо‘lsa, u holda qaysi tenglik tо‘g‘ri bо‘ladi?",
+      "text": "Agar iqtisodiyotda ishlab chiqarilgan va realizatsiya qilingan SMM muvozanatlashgan bo‘lsa, u holda qaysi tenglik to‘g‘ri bo‘ladi?",
       "options": [
-        "Iqtisodiy samaradorlikni oshirish va resurslarni optimal taqsimlash",
-        "Ishlab chiqarish hajmini cheklash va narxlarni oshirish",
-        "Import hajmini maksimal darajada oshirish",
-        "Davlat monopoliyasini kengaytirish"
-      ],
-      "correct": 0
-    },
-    {
-      "text": "Quyidagilarning qaysi biri iqtisodiyotga kо‘pincha “inyeksiya” deb ataladi?",
-      "options": [
-        "Import hajmini maksimal darajada oshirish",
-        "Iqtisodiy samaradorlikni oshirish va resurslarni optimal taqsimlash",
-        "Davlat monopoliyasini kengaytirish",
-        "Ishlab chiqarish hajmini cheklash va narxlarni oshirish"
+        "Daromad > xarajat",
+        "Jamg‘arma = investitsiya",
+        "Eksport = import",
+        "Soliq = subsidiya"
       ],
       "correct": 1
     },
     {
-      "text": "Quyidagilardan qaysi biri tarmoqlar ichidagi nisbat (mutanosiblik)larga kirmaydi?",
+      "text": "Quyidagilarning qaysi biri iqtisodiyotga ko‘pincha “inyeksiya” deb ataladi?",
       "options": [
-        "Davlat monopoliyasini kengaytirish",
-        "Ishlab chiqarish hajmini cheklash va narxlarni oshirish",
-        "Iqtisodiy samaradorlikni oshirish va resurslarni optimal taqsimlash",
-        "Import hajmini maksimal darajada oshirish"
+        "Soliq",
+        "Import",
+        "Jamg‘arma",
+        "Investitsiya"
       ],
-      "correct": 2
+      "correct": 3
     },
     {
-      "text": "Quyidagilardan qaysi biri makroiqtisodiyot darajasidagi muvozanatlikni tо‘liq xarakterlaydi?",
+      "text": "Quyidagilardan qaysi biri tarmoqlar ichidagi (mutanosiblik)larga kirmaydi?",
       "options": [
-        "Ishlab chiqarish hajmini cheklash va narxlarni oshirish",
-        "Davlat monopoliyasini kengaytirish",
-        "Iqtisodiy samaradorlikni oshirish va resurslarni optimal taqsimlash",
-        "Import hajmini maksimal darajada oshirish"
+        "Korxonalar o‘rtasidagi nisbat",
+        "Tarmoq bo‘linmalari o‘rtasidagi nisbat",
+        "Ishlab chiqarish bosqichlari nisbatlari",
+        "Eksport va import nisbati"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Quyidagilardan qaysi biri makroiqtisodiy darajadagi muvozanatlikni to‘liq xarakterlaydi?",
+      "options": [
+        "Narxlarning barqarorligi",
+        "Bandlik darajasi",
+        "Yalpi talab va yalpi taklif tengligi",
+        "Soliq stavkalari"
       ],
       "correct": 2
     },
     {
       "text": "Quyidagi nisbatlarning qaysi biri inflyatsion farqni ifodalaydi?",
       "options": [
-        "Eksportning importdan oshib ketishi",
-        "Pul massasining kamayishi",
-        "Ishsizlik darajasining oshishi",
-        "Narxlar umumiy darajasining ko'tarilishi"
-      ],
-      "correct": 3
-    },
-    {
-      "text": "Quyidagi mutanosibliklardan qaysi biri umumiqtisodiy xarakterga ega?",
-      "options": [
-        "Iqtisodiy samaradorlikni oshirish va resurslarni optimal taqsimlash",
-        "Import hajmini maksimal darajada oshirish",
-        "Ishlab chiqarish hajmini cheklash va narxlarni oshirish",
-        "Davlat monopoliyasini kengaytirish"
-      ],
-      "correct": 0
-    },
-    {
-      "text": "Quyidagilaridan qaysi biri О‘zbekistonda makroiqtisodiyotni barqarorlashtirish siyosatidan kо‘zda tutilgan maqsad emas?",
-      "options": [
-        "Ishlab chiqarish hajmini cheklash va narxlarni oshirish",
-        "Iqtisodiy samaradorlikni oshirish va resurslarni optimal taqsimlash",
-        "Davlat monopoliyasini kengaytirish",
-        "Import hajmini maksimal darajada oshirish"
+        "Yalpi talab < yalpi taklif",
+        "Yalpi talab > yalpi taklif",
+        "Jamg‘arma > investitsiya",
+        "Eksport > import"
       ],
       "correct": 1
     },
     {
-      "text": "Yalpi iste’mol va milliy ishlab chiqarish natijalari о‘rtasidagi muvozatlik uning qaysi turida ifodalanadi?",
+      "text": "Quyidagi mutanosibliklardan qaysi biri umumiqtisodiy xarakterga ega?",
       "options": [
-        "Davlat monopoliyasini kengaytirish",
-        "Ishlab chiqarish hajmini cheklash va narxlarni oshirish",
-        "Import hajmini maksimal darajada oshirish",
-        "Iqtisodiy samaradorlikni oshirish va resurslarni optimal taqsimlash"
-      ],
-      "correct": 3
-    },
-    {
-      "text": "Qaysi xususiy muvozanatlik barcha bozorlardagi muvozanatlikni anglatadi?",
-      "options": [
-        "Ishlab chiqarish hajmini cheklash va narxlarni oshirish",
-        "Import hajmini maksimal darajada oshirish",
-        "Iqtisodiy samaradorlikni oshirish va resurslarni optimal taqsimlash",
-        "Davlat monopoliyasini kengaytirish"
+        "Tarmoq ichki mutanosibligi",
+        "Hududiy mutanosiblik",
+        "Ishlab chiqarish va iste’mol o‘rtasidagi mutanosiblik",
+        "Korxonalararo mutanosiblik"
       ],
       "correct": 2
     },
     {
-      "text": "YaIM va uning harakat shakllari, iste’mol va jamg‘arma, tovarlar miqdori va pul massasi, aholi daromadlari va xarajatlari о‘rtasidagi mutanosiblik nima deb nomlanadi?",
+      "text": "Quyidagilardan qaysi biri O‘zbekistonda makroiqtisodiyotni barqarorlashtirish siyosatidan ko‘zda tutilgan maqsad emas?",
       "options": [
-        "YaIM = Milliy daromad + Amortizatsiya + Soliqlar",
-        "YaIM = Iste'mol + Sof eksport - Davlat xaridi",
-        "YaIM = Iste'mol + Investitsiya + Davlat xaridi + Sof eksport",
-        "YaIM = Iste'mol + Investitsiya + Importdan tushum"
+        "Inflyatsiyani kamaytirish",
+        "Bandlikni oshirish",
+        "Iqtisodiy o‘sishni ta’minlash",
+        "Narxlarni sun’iy oshirish"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Yalpi iste’mol va milliy ishlab chiqarish natijalari o‘rtasidagi muvozanat uning qaysi turida ifodalanadi?",
+      "options": [
+        "Xususiy muvozanatlik",
+        "Umumiy muvozanatlik",
+        "Hududiy muvozanatlik",
+        "Tarmoq muvozanati"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Qaysi xususiy muvozanatlik barcha bozorlardagi muvozanatlikni anglatadi?",
+      "options": [
+        "Tarmoq muvozanati",
+        "Hududiy muvozanat",
+        "Umumiy iqtisodiy muvozanat",
+        "Valyuta muvozanati"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "YaIM va uning harakat shakllari, iste’mol va jamg‘arma, tovarlar miqdori va pul massasi, aholi daromadlari va xarajatlari o‘rtasidagi mutanosiblik nima deb nomlanadi?",
+      "options": [
+        "Integratsiya",
+        "Modernizatsiya",
+        "Makroiqtisodiy mutanosiblik",
+        "Diversifikatsiya"
       ],
       "correct": 2
     },
     {
       "text": "Qaysi iqtisodiy mutanosiblik xalqaro mehnat taqsimoti orqali bog‘lanish darajasini ifodalaydi?",
       "options": [
-        "Davlat monopoliyasini kengaytirish",
-        "Iqtisodiy samaradorlikni oshirish va resurslarni optimal taqsimlash",
-        "Import hajmini maksimal darajada oshirish",
-        "Ishlab chiqarish hajmini cheklash va narxlarni oshirish"
-      ],
-      "correct": 1
-    },
-    {
-      "text": "Quyidagilarning qaysi biri tarkibiy о‘zgarishning asosiy yо‘nalishi hisoblanmaydi?",
-      "options": [
-        "Import hajmini maksimal darajada oshirish",
-        "Iqtisodiy samaradorlikni oshirish va resurslarni optimal taqsimlash",
-        "Ishlab chiqarish hajmini cheklash va narxlarni oshirish",
-        "Davlat monopoliyasini kengaytirish"
-      ],
-      "correct": 1
-    },
-    {
-      "text": "2025-yilda О‘zbekistonda YaIM hajmi nechchi foizga о‘sdi?",
-      "options": [
-        "1518.8%",
-        "3037.5%",
-        "2430.0%",
-        "2025.0%"
-      ],
-      "correct": 3
-    },
-    {
-      "text": "Iqtisodiy sikl deb nima aytiladi?",
-      "options": [
-        "Ishlab chiqarish hajmini cheklash va narxlarni oshirish",
-        "Import hajmini maksimal darajada oshirish",
-        "Davlat monopoliyasini kengaytirish",
-        "Iqtisodiy samaradorlikni oshirish va resurslarni optimal taqsimlash"
-      ],
-      "correct": 3
-    },
-    {
-      "text": "Qaysi omil siklni keltirib chiqarmaydi?",
-      "options": [
-        "Ishlab chiqarish hajmini cheklash va narxlarni oshirish",
-        "Davlat monopoliyasini kengaytirish",
-        "Import hajmini maksimal darajada oshirish",
-        "Iqtisodiy samaradorlikni oshirish va resurslarni optimal taqsimlash"
-      ],
-      "correct": 3
-    },
-    {
-      "text": "Iqtisodiy siklning kelib chiqishini faqat tashqi omillarga bog‘lovchi nazariyani aniqlang.",
-      "options": [
-        "100 mlrd. so'm",
-        "80 mlrd. so'm",
-        "110 mlrd. so'm",
-        "125 mlrd. so'm"
-      ],
-      "correct": 0
-    },
-    {
-      "text": "Iqtisodiy siklining kelib chiqishini faqat ichki omillarga bog‘lovchi nazariya aniqlang.",
-      "options": [
-        "80 mlrd. so'm",
-        "100 mlrd. so'm",
-        "125 mlrd. so'm",
-        "110 mlrd. so'm"
-      ],
-      "correct": 1
-    },
-    {
-      "text": "Qaysi sikl “qurilish sikli” deb ham nomlanadi?",
-      "options": [
-        "Davlat monopoliyasini kengaytirish",
-        "Iqtisodiy samaradorlikni oshirish va resurslarni optimal taqsimlash",
-        "Import hajmini maksimal darajada oshirish",
-        "Ishlab chiqarish hajmini cheklash va narxlarni oshirish"
-      ],
-      "correct": 1
-    },
-    {
-      "text": "Qaysi sikl “uzun tо‘lqinlar” sikli deb ataladi?",
-      "options": [
-        "Iqtisodiy samaradorlikni oshirish va resurslarni optimal taqsimlash",
-        "Davlat monopoliyasini kengaytirish",
-        "Ishlab chiqarish hajmini cheklash va narxlarni oshirish",
-        "Import hajmini maksimal darajada oshirish"
-      ],
-      "correct": 0
-    },
-    {
-      "text": "Siklning qaysi fazasida iqtisodiy faollik о‘zining eng past darajasiga tushib, nisbatan muhim bо‘lib turadi?",
-      "options": [
-        "Iqtisodiy samaradorlikni oshirish va resurslarni optimal taqsimlash",
-        "Import hajmini maksimal darajada oshirish",
-        "Ishlab chiqarish hajmini cheklash va narxlarni oshirish",
-        "Davlat monopoliyasini kengaytirish"
-      ],
-      "correct": 0
-    },
-    {
-      "text": "Iqtisodiy siklni farqlantiruvchi belgini aniqlang.",
-      "options": [
-        "80 mlrd. so'm",
-        "125 mlrd. so'm",
-        "100 mlrd. so'm",
-        "110 mlrd. so'm"
+        "Hududiy mutanosiblik",
+        "Tarmoq mutanosibligi",
+        "Tashqi iqtisodiy mutanosiblik",
+        "Ichki mutanosiblik"
       ],
       "correct": 2
     },
     {
-      "text": "Iqtisodiy faollikni tavsiflovchi qaysi kо‘rsatkich sikl fazalarini ajratishda asosiy mezon hisoblanadi?",
+      "text": "Quyidagilarning qaysi biri tarkibiy o‘zgarishning asosiy yo‘nalishi hisoblanmaydi?",
       "options": [
-        "Import hajmini maksimal darajada oshirish",
-        "Davlat monopoliyasini kengaytirish",
-        "Iqtisodiy samaradorlikni oshirish va resurslarni optimal taqsimlash",
-        "Ishlab chiqarish hajmini cheklash va narxlarni oshirish"
+        "Modernizatsiya",
+        "Innovatsiyalarni joriy etish",
+        "Tarmoqlar ulushini o‘zgartirish",
+        "Aholi sonini kamaytirish"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "2025-yilda O‘zbekistonda YaIM hajmi necha foizga o‘sdi?",
+      "options": [
+        "4,1 %",
+        "5,2 %",
+        "6,5 %",
+        "8,3 %"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Iqtisodiy sikl deb nimaga aytiladi?",
+      "options": [
+        "Narxlarning uzluksiz o‘sishi",
+        "Iqtisodiy faollikning davriy tebranishi",
+        "Soliqlarning kamayishi",
+        "Eksportning ortishi"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Qaysi omil siklni doimiy ravishda keltirib chiqarmaydi?",
+      "options": [
+        "Investitsiya o‘zgarishi",
+        "Kredit hajmi",
+        "Texnologik yangiliklar",
+        "Fasllarning almashinuvi"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Iqtisodiy sikl kelib chiqishini faqat tashqi omillarga bog‘lovchi nazariyani aniqlang.",
+      "options": [
+        "Endogen nazariya",
+        "Monetar nazariya",
+        "Ekzogen nazariya",
+        "Keynes nazariyasi"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Iqtisodiy siklning kelib chiqishini faqat ichki omillarga bog‘lovchi nazariyani aniqlang.",
+      "options": [
+        "Ekzogen nazariya",
+        "Klassik nazariya",
+        "Endogen nazariya",
+        "Neoklassik nazariya"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Qaysi sikl “qurilish sikli” deb ham nomlanadi?",
+      "options": [
+        "Kitchin sikli",
+        "Kondratyev sikli",
+        "Juglar sikli",
+        "Forrester sikli"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Siklning qaysi fazasida iqtisodiy faollik o‘zining eng past darajasiga tushib, nisbatan muhim bo‘lib turadi?",
+      "options": [
+        "Jonlanish",
+        "Yuksalish",
+        "Turg‘unlik (depressiya)",
+        "Barqarorlashuv"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Iqtisodiy siklni farqlantiruvchi belgini aniqlang.",
+      "options": [
+        "Aholi soni",
+        "Davriylik va takrorlanish",
+        "Yer maydoni",
+        "Iqlim sharoiti"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Iqtisodiy faollikni tavsiflovchi qaysi ko‘rsatkich sikl fazalarini ajratishda asosiy mezon hisoblanadi?",
+      "options": [
+        "Inflyatsiya darajasi",
+        "Eksport hajmi",
+        "Real YaIM hajmi",
+        "Soliq stavkasi"
       ],
       "correct": 2
     },
     {
       "text": "Tarkibiy inqirozlarni keltirib chiqaruvchi omilni aniqlang.",
       "options": [
-        "110 mlrd. so'm",
-        "125 mlrd. so'm",
-        "100 mlrd. so'm",
-        "80 mlrd. so'm"
+        "Narxlarning pasayishi",
+        "Iqtisodiyot tarkibidagi nomutanosibliklar",
+        "Soliqning kamayishi",
+        "Kredit hajmining oshishi"
       ],
-      "correct": 2
+      "correct": 1
     },
     {
       "text": "Iqtisodiyotdagi turg‘unlik tufayli yuzaga kelgan ishsizlikni aniqlang.",
       "options": [
-        "110 mlrd. so'm",
-        "100 mlrd. so'm",
-        "80 mlrd. so'm",
-        "125 mlrd. so'm"
+        "Friksion ishsizlik",
+        "Tarkibiy ishsizlik",
+        "Siklik ishsizlik",
+        "Mavsumiy ishsizlik"
       ],
-      "correct": 1
+      "correct": 2
     },
     {
       "text": "Ouken koeffitsiyentini belgilang.",
       "options": [
-        "Ishlab chiqarish hajmini cheklash va narxlarni oshirish",
-        "Import hajmini maksimal darajada oshirish",
-        "Davlat monopoliyasini kengaytirish",
-        "Iqtisodiy samaradorlikni oshirish va resurslarni optimal taqsimlash"
+        "1 %",
+        "2,5 %",
+        "5 %",
+        "10 %"
       ],
-      "correct": 3
+      "correct": 1
     },
     {
       "text": "Fillips egri chizig‘i nimalar o‘rtasidagi bog‘liqlikni ifodalaydi?",
       "options": [
-        "Import hajmini maksimal darajada oshirish",
-        "Davlat monopoliyasini kengaytirish",
-        "Iqtisodiy samaradorlikni oshirish va resurslarni optimal taqsimlash",
-        "Ishlab chiqarish hajmini cheklash va narxlarni oshirish"
+        "YaIM va eksport",
+        "Soliq va daromad",
+        "Ishsizlik va inflyatsiya",
+        "Talab va taklif"
       ],
       "correct": 2
     },
     {
-      "text": "Fillips egri chizig‘i bо‘yicha quyidagicha xulosa chiqarish mumkin:",
+      "text": "Fillips egri chizig‘i bo‘yicha quyidagicha xulosa chiqarish mumkin:",
       "options": [
-        "Davlat monopoliyasini kengaytirish",
-        "Iqtisodiy samaradorlikni oshirish va resurslarni optimal taqsimlash",
-        "Import hajmini maksimal darajada oshirish",
-        "Ishlab chiqarish hajmini cheklash va narxlarni oshirish"
+        "Ishsizlik va inflyatsiya bir xil yo‘nalishda o‘zgaradi",
+        "Ishsizlik kamayganda inflyatsiya oshadi",
+        "Inflyatsiya kamayganda eksport ortadi",
+        "Soliq oshganda inflyatsiya kamayadi"
       ],
       "correct": 1
     },
     {
-      "text": "Iqtisodiy faol aholi 6,7 mln. kishini, ishsizlar 0,5 mln. kishini tashkil qilsa, bandlik darajasi necha foizni tashkil qiladi?",
+      "text": "Iqtisodiy faol aholi 6,7 mln kishi, ishsizlar 0,5 mln kishi bo‘lsa, bandlik darajasi necha foizni tashkil qiladi?",
       "options": [
-        "0.8%",
-        "0.5%",
-        "0.4%",
-        "0.6%"
-      ],
-      "correct": 1
-    },
-    {
-      "text": "Ishsizlikning tabiiy darajasi 5%ni, haqiqiy darajasi 8,5% ni tashkil qilsa, Ouken qonuni bо‘yicha YaMM ning orqada qolishi necha foizni tashkil qiladi?",
-      "options": [
-        "12.8%",
-        "6.4%",
-        "10.2%",
-        "8.5%"
-      ],
-      "correct": 3
-    },
-    {
-      "text": "Agar nominal YaMM 330 mlrd. sо‘mni, ishsizlikning tabiiy darajadan ortiqligi tufayli YaMMning orqada qolishi 8,75%ni tashkil qilsa, iqtisodiyot qancha mahsulot yо‘qotgan bо‘ladi?",
-      "options": [
-        "13.1%",
-        "10.5%",
-        "8.8%",
-        "6.6%"
+        "82,5 %",
+        "88,2 %",
+        "92,5 %",
+        "97,5 %"
       ],
       "correct": 2
     },
     {
-      "text": "Tо‘liq bandlilik sharoitida sikllik ishsizlik darajasi qanday miqdorga teng?",
+      "text": "Ishsizlikning tabiiy darajasi 5 %, haqiqiy darajasi 8,5 %ni tashkil qilsa, Ouken qonuni bo‘yicha YaMMning orqada qolishi necha foizni tashkil qiladi?",
       "options": [
-        "Mehnat bozoridagi talab va taklif muvozanati",
-        "Ishlaydigan aholining umumiy aholi soniga nisbati",
-        "Iqtisodiy faol aholining ishsizlar soniga nisbati",
-        "Ish qidiruvchilar soni va bo'sh ish o'rinlari nisbati"
-      ],
-      "correct": 0
-    },
-    {
-      "text": "Ouken qonuniga binoan siklli ishsizlik darajasi tabiiy darajasidan 2% ga ko‘proq oshganda, yalpi ichki mahsulotning hajmi necha foizga kamayadi?",
-      "options": [
-        "2.0%",
-        "3.0%",
-        "1.5%",
-        "2.4%"
-      ],
-      "correct": 0
-    },
-    {
-      "text": "Universitetni bitirgan, ish qidirayotgan talaba ishsizlikning qanday turiga kiradi?",
-      "options": [
-        "Ishlaydigan aholining umumiy aholi soniga nisbati",
-        "Mehnat bozoridagi talab va taklif muvozanati",
-        "Ish qidiruvchilar soni va bo'sh ish o'rinlari nisbati",
-        "Iqtisodiy faol aholining ishsizlar soniga nisbati"
-      ],
-      "correct": 1
-    },
-    {
-      "text": "Tо‘liq bandlilik sharoitida tabiiy ishsizlik nimada namoyon bо‘ladi?",
-      "options": [
-        "Ishlaydigan aholining umumiy aholi soniga nisbati",
-        "Iqtisodiy faol aholining ishsizlar soniga nisbati",
-        "Ish qidiruvchilar soni va bo'sh ish o'rinlari nisbati",
-        "Mehnat bozoridagi talab va taklif muvozanati"
-      ],
-      "correct": 3
-    },
-    {
-      "text": "Yangi yashash joyiga kо‘chib о‘tish natijasida asosiy ish joyini vaqtincha yо‘qotib, faol ish izlayotganlik holati ishsizlikning qaysi turiga kiradi?",
-      "options": [
-        "Ish qidiruvchilar soni va bo'sh ish o'rinlari nisbati",
-        "Iqtisodiy faol aholining ishsizlar soniga nisbati",
-        "Ishlaydigan aholining umumiy aholi soniga nisbati",
-        "Mehnat bozoridagi talab va taklif muvozanati"
-      ],
-      "correct": 3
-    },
-    {
-      "text": "Ishchi kuchiga bo‘lgan talabning о‘zgarishi natijasida kelib chiqadigan ishsizlik turini belgilang.",
-      "options": [
-        "Iqtisodiy faol aholining ishsizlar soniga nisbati",
-        "Ish qidiruvchilar soni va bo'sh ish o'rinlari nisbati",
-        "Mehnat bozoridagi talab va taklif muvozanati",
-        "Ishlaydigan aholining umumiy aholi soniga nisbati"
+        "5 %",
+        "6,5 %",
+        "8,75 %",
+        "10 %"
       ],
       "correct": 2
     },
     {
-      "text": "Boshqarish tizimidagi о‘zgarishlar natijasida kelib chiqadigan ishsizlikning turi nima deb nomlanadi?",
+      "text": "Agar nominal YaMM 330 mlrd so‘mni, ishsizlikning tabiiy darajadan ortiqligi tufayli YaMMning orqada qolishi 8,75 %ni tashkil qilsa, iqtisodiyot qancha mahsulot yo‘qotgan bo‘ladi?",
       "options": [
-        "Ishlaydigan aholining umumiy aholi soniga nisbati",
-        "Ish qidiruvchilar soni va bo'sh ish o'rinlari nisbati",
-        "Iqtisodiy faol aholining ishsizlar soniga nisbati",
-        "Mehnat bozoridagi talab va taklif muvozanati"
+        "18 mlrd so‘m",
+        "22 mlrd so‘m",
+        "28,9 mlrd so‘m",
+        "35 mlrd so‘m"
       ],
-      "correct": 3
+      "correct": 2
     },
     {
-      "text": "Iqtisodiy faol aholining ish kuni yoki haftasi davomida tо‘liq band bо‘lmagan qismi qanday ishsizlik turiga kiradi?",
+      "text": "To‘liq bandlilik sharoitida siklik ishsizlik darajasi qanday miqdorga teng?",
       "options": [
-        "Iqtisodiy faol aholining ishsizlar soniga nisbati",
-        "Ish qidiruvchilar soni va bo'sh ish o'rinlari nisbati",
-        "Mehnat bozoridagi talab va taklif muvozanati",
-        "Ishlaydigan aholining umumiy aholi soniga nisbati"
+        "2 %",
+        "5 %",
+        "0 %",
+        "10 %"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Ouken qonuniga binoan siklik ishsizlik darajasi 2 %ga ko‘proq oshganda, yalpi ichki mahsulot hajmi necha foizga kamayadi?",
+      "options": [
+        "2 %",
+        "3 %",
+        "5 %",
+        "10 %"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "To‘liq bandlik sharoitida tabiiy ishsizlik nimada namoyon bo‘ladi?",
+      "options": [
+        "Faqat siklik ishsizlikda",
+        "Friksion va tarkibiy ishsizlik yig‘indisida",
+        "Yashirin ishsizlikda",
+        "Mavsumiy ishsizlikda"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Yangi yashash joyiga ko‘chib o‘tish natijasida asosiy ish joyini vaqtincha yo‘qotib, faol ish izlayotgan holat ishsizlikning qaysi turiga kiradi?",
+      "options": [
+        "Tarkibiy ishsizlik",
+        "Siklik ishsizlik",
+        "Friksion ishsizlik",
+        "Majburiy ishsizlik"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Ishchi kuchiga bo‘lgan talabning o‘zgarishi natijasida kelib chiqadigan ishsizlik turini belgilang.",
+      "options": [
+        "Friksion ishsizlik",
+        "Tarkibiy ishsizlik",
+        "Mavsumiy ishsizlik",
+        "Yashirin ishsizlik"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Boshqarish tizimidagi o‘zgarishlar natijasida kelib chiqadigan ishsizlik turi nima deb nomlanadi?",
+      "options": [
+        "Friksion ishsizlik",
+        "Tarkibiy ishsizlik",
+        "Siklik ishsizlik",
+        "Mavsumiy ishsizlik"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Iqtisodiy faol aholining ish kuni yoki hafta davomida to‘liq band bo‘lmagan qismi qanday ishsizlik turiga kiradi?",
+      "options": [
+        "Siklik ishsizlik",
+        "Tarkibiy ishsizlik",
+        "Yashirin ishsizlik",
+        "Friksion ishsizlik"
       ],
       "correct": 2
     },
     {
       "text": "Quyidagilarning qaysi biri ishsizlikning tabiiy, ya’ni muqarrar darajasini ifodalaydi?",
       "options": [
-        "Ish qidiruvchilar soni va bo'sh ish o'rinlari nisbati",
-        "Mehnat bozoridagi talab va taklif muvozanati",
-        "Iqtisodiy faol aholining ishsizlar soniga nisbati",
-        "Ishlaydigan aholining umumiy aholi soniga nisbati"
+        "Siklik ishsizlik",
+        "Friksion va tarkibiy ishsizlik yig‘indisi",
+        "Mavsumiy ishsizlik",
+        "Yashirin ishsizlik"
       ],
       "correct": 1
     },
     {
       "text": "Ishsizlik darajasi qanday aniqlanadi?",
       "options": [
-        "Ish qidiruvchilar soni va bo'sh ish o'rinlari nisbati",
-        "Mehnat bozoridagi talab va taklif muvozanati",
-        "Iqtisodiy faol aholining ishsizlar soniga nisbati",
-        "Ishlaydigan aholining umumiy aholi soniga nisbati"
+        "Ishsizlar sonining jami aholiga nisbati bilan",
+        "Ishsizlar sonining iqtisodiy faol aholiga nisbatining foizdagi ifodasi bilan",
+        "Ishchilar sonining aholiga nisbati bilan",
+        "Bandlar sonining jami aholiga nisbati bilan"
       ],
       "correct": 1
     },
     {
-      "text": "Qaysi qonun ishsizlik darajasi bilan YaIM hajmi о‘rtasidagi bog‘liqlikni kо‘rsatadi?",
+      "text": "Qaysi qonun ishsizlik darajasi bilan YaIM hajmi o‘rtasidagi bog‘liqlikni ko‘rsatadi?",
       "options": [
-        "YaIM = Milliy daromad + Amortizatsiya + Soliqlar",
-        "YaIM = Iste'mol + Investitsiya + Davlat xaridi + Sof eksport",
-        "YaIM = Iste'mol + Sof eksport - Davlat xaridi",
-        "YaIM = Iste'mol + Investitsiya + Importdan tushum"
+        "Fillips qonuni",
+        "Laffer qonuni",
+        "Ouken qonuni",
+        "Engel qonuni"
       ],
-      "correct": 1
+      "correct": 2
     },
     {
       "text": "Qachon haqiqiy YaIM hajmi uning potensial YaIM hajmidan ortib ketadi?",
       "options": [
-        "YaIM = Iste'mol + Investitsiya + Importdan tushum",
-        "YaIM = Iste'mol + Sof eksport - Davlat xaridi",
-        "YaIM = Milliy daromad + Amortizatsiya + Soliqlar",
-        "YaIM = Iste'mol + Investitsiya + Davlat xaridi + Sof eksport"
-      ],
-      "correct": 3
-    },
-    {
-      "text": "Agar dividend 800 sо‘m, foiz stavkasi 8% bо‘lsa, aksiya kursi necha sо‘m bо‘ladi?",
-      "options": [
-        "12.0%",
-        "8.0%",
-        "9.6%",
-        "6.0%"
+        "Retsession farqda",
+        "Inflyatsion farqda",
+        "Deflyatsiya davrida",
+        "Turg‘unlik davrida"
       ],
       "correct": 1
     },
     {
       "text": "Davlat qachon rag‘batlantiruvchi fiskal siyosat yuritayotgan bo‘ladi?",
       "options": [
-        "Kredit foiz stavkalarini o'zgartirish",
-        "Markaziy bank orqali pul massasini boshqarish",
-        "Davlat xarajatlari va soliq siyosati vositasida iqtisodiyotni tartibga solish",
-        "Eksport-import operatsiyalarini tartibga solish"
+        "Soliqlarni oshirib, xarajatlarni kamaytirganda",
+        "Davlat xarajatlarini oshirib, soliqlarni kamaytirganda",
+        "Kreditlarni qisqartirganda",
+        "Foiz stavkalarini oshirganda"
       ],
-      "correct": 2
+      "correct": 1
     },
     {
-      "text": "Davlat qachon faol rag‘batlantiruvchi fiskal siyosat yuritayotgan bо‘ladi?",
+      "text": "Davlat qachon faol rag‘batlantiruvchi fiskal siyosat yuritayotgan bo‘ladi?",
       "options": [
-        "Eksport-import operatsiyalarini tartibga solish",
-        "Davlat xarajatlari va soliq siyosati vositasida iqtisodiyotni tartibga solish",
-        "Markaziy bank orqali pul massasini boshqarish",
-        "Kredit foiz stavkalarini o'zgartirish"
+        "Byudjet xarajatlari qisqarganda",
+        "Soliqlar kamayib, davlat xarajatlari oshganda",
+        "Pul massasi qisqarganda",
+        "Eksport kamayganda"
       ],
       "correct": 1
     },
     {
       "text": "Quyidagi soliqlardan qaysilari “iste’mol” soliqlari hisoblanadi?",
       "options": [
-        "Aktsiz soliq — faqat import tovarlarga qo'llaniladi",
-        "Regressiv soliq — daromad ortishi bilan stavka kamayadi",
-        "Proporsional soliq — stavka doimiy qoladi",
-        "Progressiv soliq — daromad ortishi bilan stavka ham oshadi"
+        "Daromad solig‘i",
+        "Foyda solig‘i",
+        "Qo‘shilgan qiymat solig‘i va aksiz soliqlari",
+        "Yer solig‘i"
       ],
-      "correct": 3
+      "correct": 2
     },
     {
       "text": "Quyidagilarning qaysi biri davlat qarzining real muammolaridan birini ifodalaydi?",
       "options": [
-        "Ishlab chiqarish hajmini cheklash va narxlarni oshirish",
-        "Import hajmini maksimal darajada oshirish",
-        "Iqtisodiy samaradorlikni oshirish va resurslarni optimal taqsimlash",
-        "Davlat monopoliyasini kengaytirish"
+        "Soliq stavkasining kamayishi",
+        "Kelajak avlod zimmasiga yuk tushishi",
+        "Eksport hajmining oshishi",
+        "Narxlarning pasayishi"
       ],
-      "correct": 2
+      "correct": 1
     },
     {
       "text": "Byudjet taqchilligi qachon vujudga keladi?",
       "options": [
-        "Kredit foiz stavkalarini o'zgartirish",
-        "Markaziy bank orqali pul massasini boshqarish",
-        "Davlat xarajatlari va soliq siyosati vositasida iqtisodiyotni tartibga solish",
-        "Eksport-import operatsiyalarini tartibga solish"
+        "Davlat daromadlari xarajatlardan ortganda",
+        "Davlat xarajatlari daromadlardan ortganda",
+        "Eksport importdan ortganda",
+        "Soliq kamayganda"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Quyidagi hollardan qaysi biri progressiv soliqlarni xarakterlaydi?",
+      "options": [
+        "Daromad oshsa soliq stavkasi kamayadi",
+        "Soliq stavkasi o‘zgarmaydi",
+        "Daromad oshishi bilan soliq stavkasi ham oshadi",
+        "Soliq faqat korxonalarga solinadi"
       ],
       "correct": 2
     },
     {
-      "text": "Quyidagi hollardan qaysi biri regressiv soliqlarni xarakterlaydi?",
-      "options": [
-        "Progressiv soliq — daromad ortishi bilan stavka ham oshadi",
-        "Aktsiz soliq — faqat import tovarlarga qo'llaniladi",
-        "Proporsional soliq — stavka doimiy qoladi",
-        "Regressiv soliq — daromad ortishi bilan stavka kamayadi"
-      ],
-      "correct": 0
-    },
-    {
       "text": "Byudjet taqchilligini bartaraf qilishga erishish uchun qanday mutanosiblik ta’minlanishi kerak?",
       "options": [
-        "Markaziy bank orqali pul massasini boshqarish",
-        "Davlat xarajatlari va soliq siyosati vositasida iqtisodiyotni tartibga solish",
-        "Eksport-import operatsiyalarini tartibga solish",
-        "Kredit foiz stavkalarini o'zgartirish"
+        "Eksport va import tengligi",
+        "Davlat daromadlari va xarajatlari muvozanati",
+        "Ish haqi va foyda tengligi",
+        "Talab va taklif tengligi"
       ],
       "correct": 1
     },
     {
       "text": "Markazlashgan pul fondlarining shakllantirilishi jarayonida vujudga keladigan munosabatlar nima deyiladi?",
       "options": [
-        "Davlat byudjeti xarajatlarini oshirish",
-        "Soliq stavkalarini kamaytirish",
-        "Tashqi savdo balansini tartibga solish",
-        "Markaziy bank tomonidan pul taklifi va foiz stavkasini boshqarish"
+        "Kredit munosabatlari",
+        "Moliya munosabatlari",
+        "Sug‘urta munosabatlari",
+        "Investitsion munosabatlar"
       ],
-      "correct": 3
-    },
-    {
-      "text": "Sug‘urtaning qaysi turi iqtisodiy faollikni rag‘batlantiradi?",
-      "options": [
-        "Davlat monopoliyasini kengaytirish",
-        "Import hajmini maksimal darajada oshirish",
-        "Ishlab chiqarish hajmini cheklash va narxlarni oshirish",
-        "Iqtisodiy samaradorlikni oshirish va resurslarni optimal taqsimlash"
-      ],
-      "correct": 3
+      "correct": 1
     },
     {
       "text": "Byudjet taqchilligini to‘ldirish usullarining qaysi biri inflyatsiya jarayonining kuchayishi bilan birga boradi?",
       "options": [
-        "Pul massasining kamayishi",
-        "Ishsizlik darajasining oshishi",
-        "Narxlar umumiy darajasining ko'tarilishi",
-        "Eksportning importdan oshib ketishi"
+        "Soliq tushumlarini oshirish",
+        "Davlat obligatsiyalarini chiqarish",
+        "Qo‘shimcha pul emissiyasi",
+        "Xarajatlarni qisqartirish"
       ],
       "correct": 2
     },
     {
-      "text": "Byudjet taqchilligini to‘ldirishning qaysi usulida milliy daromadning bir qismi foiz tо‘lovlari shaklida chetga chiqib ketish xavfi mavjud bо‘ladi?",
+      "text": "Byudjet taqchilligini to‘ldirishning qaysi usulida milliy daromadning bir qismi foiz to‘lovlari shaklida chetga chiqib ketish xavfi mavjud bo‘ladi?",
       "options": [
-        "150.0%",
-        "100.0%",
-        "120.0%",
-        "75.0%"
+        "Qo‘shimcha pul emissiyasi",
+        "Ichki qarz olish",
+        "Tashqi qarz olish",
+        "Soliqlarni oshirish"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Soliqning qaysi tamoyili teng miqdorda daromad oluvchilar bir xil miqdorda soliq to‘lashi lozimligini bildiradi?",
+      "options": [
+        "Majburiylik tamoyili",
+        "Adolatlilik tamoyili",
+        "Barqarorlik tamoyili",
+        "Oshkoralik tamoyili"
       ],
       "correct": 1
     },
     {
-      "text": "Soliqning qaysi tamoyili iqtisodiyotning barcha subyektlari belgilangan miqdorda va muddatda soliqlarni tо‘lash shartligini ifodalaydi?",
+      "text": "Qaysi soliq turida daromadlar ortishi bilan soliqlarning o‘rtacha stavkasi ham o‘sib boradi?",
       "options": [
-        "Regressiv soliq — daromad ortishi bilan stavka kamayadi",
-        "Aktsiz soliq — faqat import tovarlarga qo'llaniladi",
-        "Progressiv soliq — daromad ortishi bilan stavka ham oshadi",
-        "Proporsional soliq — stavka doimiy qoladi"
+        "Proporsional soliq",
+        "Regressiv soliq",
+        "Progressiv soliq",
+        "Egri soliq"
       ],
       "correct": 2
     },
     {
-      "text": "Soliqning qaysi tamoyili teng miqdorda daromad oluvchilar bir xil miqdorda soliq tо‘lashi lozimligini bildiradi?",
+      "text": "Qaysi soliq turida soliq stavkasi daromad hajmiga bog‘liq bo‘lmagan holda o‘zgarmay qoladi?",
       "options": [
-        "Aktsiz soliq — faqat import tovarlarga qo'llaniladi",
-        "Proporsional soliq — stavka doimiy qoladi",
-        "Regressiv soliq — daromad ortishi bilan stavka kamayadi",
-        "Progressiv soliq — daromad ortishi bilan stavka ham oshadi"
-      ],
-      "correct": 3
-    },
-    {
-      "text": "Qaysi soliq turida daromadlar ortishi bilan soliqlarning о‘rtacha stavkasi ham о‘sib boradi?",
-      "options": [
-        "Aktsiz soliq — faqat import tovarlarga qo'llaniladi",
-        "Proporsional soliq — stavka doimiy qoladi",
-        "Progressiv soliq — daromad ortishi bilan stavka ham oshadi",
-        "Regressiv soliq — daromad ortishi bilan stavka kamayadi"
+        "Progressiv soliq",
+        "Regressiv soliq",
+        "Proporsional soliq",
+        "Egri soliq"
       ],
       "correct": 2
     },
     {
-      "text": "Qaysi soliq turida soliq stavkasi daromad hajmiga bog‘liq bо‘lmagan holda о‘zgarishsiz qoladi?",
+      "text": "Qaysi soliq turida daromadlar ortib borgani sari soliqlarning o‘rtacha stavkasi ham pasayib boradi?",
       "options": [
-        "Proporsional soliq — stavka doimiy qoladi",
-        "Progressiv soliq — daromad ortishi bilan stavka ham oshadi",
-        "Aktsiz soliq — faqat import tovarlarga qo'llaniladi",
-        "Regressiv soliq — daromad ortishi bilan stavka kamayadi"
+        "Progressiv soliq",
+        "Proporsional soliq",
+        "Regressiv soliq",
+        "To‘g‘ri soliq"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Amal qilish darajasi (iqtisodiyot ko‘lami)ga ko‘ra turkumlangan soliq turlarini aniqlang.",
+      "options": [
+        "To‘g‘ri va egri soliqlar",
+        "Umumdavlat va mahalliy soliqlar",
+        "Progressiv va regressiv soliqlar",
+        "Mulk va daromad soliqlari"
       ],
       "correct": 1
     },
     {
-      "text": "Qaysi soliq turida daromadlar ortib borishi bilan soliqlarning о‘rtacha stavkasi ham pasayib boradi?",
+      "text": "Soliqqa tortish subyektlari bo‘yicha turkumlangan soliq turini aniqlang.",
       "options": [
-        "Progressiv soliq — daromad ortishi bilan stavka ham oshadi",
-        "Aktsiz soliq — faqat import tovarlarga qo'llaniladi",
-        "Proporsional soliq — stavka doimiy qoladi",
-        "Regressiv soliq — daromad ortishi bilan stavka kamayadi"
-      ],
-      "correct": 0
-    },
-    {
-      "text": "Amal qilish darajasi (iqtisodiyot kо‘lami)ga kо‘ra turkumlangan soliq turlarini aniqlang.",
-      "options": [
-        "110 mlrd. so'm",
-        "100 mlrd. so'm",
-        "80 mlrd. so'm",
-        "125 mlrd. so'm"
+        "Egri soliqlar",
+        "Jismoniy va yuridik shaxslardan olinadigan soliqlar",
+        "Mahalliy soliqlar",
+        "Progressiv soliqlar"
       ],
       "correct": 1
     },
     {
-      "text": "Soliqqa tortish subyektlari bо‘yicha turkumlangan soliq turini aniqlang.",
+      "text": "Olinadigan soliq summasining soliq solinadigan daromad miqdoriga nisbatining foizdagi ifodasi qanday ko‘rsatkich hisoblanadi?",
       "options": [
-        "110 mlrd. so'm",
-        "125 mlrd. so'm",
-        "100 mlrd. so'm",
-        "80 mlrd. so'm"
-      ],
-      "correct": 2
-    },
-    {
-      "text": "Olinadigan soliq summasining soliq solinadigan daromad miqdoriga nisbatining foizdagi ifodasi qanday kо‘rsatkich hisoblanadi?",
-      "options": [
-        "75.0%",
-        "120.0%",
-        "100.0%",
-        "150.0%"
-      ],
-      "correct": 2
-    },
-    {
-      "text": "Davlat byudjetiga daromadlar tushumi va soliq stavkasi о‘rtasidagi bog‘liqlikni qaysi iqtisodchi olim asoslab bergan?",
-      "options": [
-        "Eksport-import operatsiyalarini tartibga solish",
-        "Kredit foiz stavkalarini o'zgartirish",
-        "Davlat xarajatlari va soliq siyosati vositasida iqtisodiyotni tartibga solish",
-        "Markaziy bank orqali pul massasini boshqarish"
-      ],
-      "correct": 2
-    },
-    {
-      "text": "Sug‘urtaning qaysi vazifasi uning mohiyatini tо‘laroq ifodalaydi?",
-      "options": [
-        "Import hajmini maksimal darajada oshirish",
-        "Iqtisodiy samaradorlikni oshirish va resurslarni optimal taqsimlash",
-        "Ishlab chiqarish hajmini cheklash va narxlarni oshirish",
-        "Davlat monopoliyasini kengaytirish"
+        "Soliq bazasi",
+        "Soliq stavkasi",
+        "Soliq obyekti",
+        "Soliq imtiyozi"
       ],
       "correct": 1
     },
     {
-      "text": "Davlat moliya siyosatini amalga oshirishning qaysi dastagi ishlab chiqaruvchilar faoliyatining barqarorligini ta’minlash va ijtimoiy himoyalash maqsadini kо‘zlaydi?",
+      "text": "Davlat byudjetiga daromadlar tushumi va soliq stavkasi o‘rtasidagi bog‘liqlikni qaysi iqtisodchi olim asoslab bergan?",
       "options": [
-        "Import hajmini maksimal darajada oshirish",
-        "Davlat monopoliyasini kengaytirish",
-        "Iqtisodiy samaradorlikni oshirish va resurslarni optimal taqsimlash",
-        "Ishlab chiqarish hajmini cheklash va narxlarni oshirish"
+        "Keynes",
+        "Fridman",
+        "Artur Laffer",
+        "Rikardo"
       ],
       "correct": 2
     },
     {
-      "text": "Davlatning obligatsiyalarini chiqarib, aholi va xususiy biznesdan qarz olishi nima deyiladi?",
+      "text": "Sug‘urtaning qaysi vazifasi uning mohiyatini to‘laroq ifodalaydi?",
       "options": [
-        "Iqtisodiy samaradorlikni oshirish va resurslarni optimal taqsimlash",
-        "Davlat monopoliyasini kengaytirish",
-        "Ishlab chiqarish hajmini cheklash va narxlarni oshirish",
-        "Import hajmini maksimal darajada oshirish"
+        "Nazorat qilish",
+        "Riskni qoplash",
+        "Jamg‘arish",
+        "Rag‘batlantirish"
       ],
-      "correct": 0
+      "correct": 1
+    },
+    {
+      "text": "Davlat moliya siyosatini amalga oshirishning qaysi dastagi ishlab chiqaruvchilar faoliyatining barqarorligini ta’minlash va ijtimoiy himoyalash maqsadini ko‘zlaydi?",
+      "options": [
+        "Kredit",
+        "Soliq",
+        "Sug‘urta",
+        "Subsidiyalar"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Davlatning obligatsiyalar chiqarib, aholi va xususiy biznesdan qarz olishi nima deb deyiladi?",
+      "options": [
+        "Pul emissiyasi",
+        "Davlat qarzi",
+        "Subsidiyalash",
+        "Dotatsiya"
+      ],
+      "correct": 1
     },
     {
       "text": "Foiz stavkasiga ta’sir qiluvchi asosiy omilni toping.",
       "options": [
-        "Import hajmini maksimal darajada oshirish",
-        "Davlat monopoliyasini kengaytirish",
-        "Ishlab chiqarish hajmini cheklash va narxlarni oshirish",
-        "Iqtisodiy samaradorlikni oshirish va resurslarni optimal taqsimlash"
+        "Iqlim sharoiti",
+        "Pulga talab va taklif",
+        "Aholi soni",
+        "Yer maydoni"
       ],
-      "correct": 3
+      "correct": 1
     },
     {
       "text": "Qaysi kredit muassasasi “Davlat banki”, “Banklar banki” va “Ijtimoiy bank” deb nomlanadi?",
       "options": [
-        "Iqtisodiy samaradorlikni oshirish va resurslarni optimal taqsimlash",
-        "Ishlab chiqarish hajmini cheklash va narxlarni oshirish",
-        "Davlat monopoliyasini kengaytirish",
-        "Import hajmini maksimal darajada oshirish"
+        "Tijorat banki",
+        "Investitsion bank",
+        "Markaziy bank",
+        "Ipoteka banki"
       ],
-      "correct": 0
+      "correct": 2
     },
     {
       "text": "Quyidagilarning qaysi biri tijorat banklarining vazifasiga kirmaydi?",
       "options": [
-        "Davlat monopoliyasini kengaytirish",
-        "Ishlab chiqarish hajmini cheklash va narxlarni oshirish",
-        "Import hajmini maksimal darajada oshirish",
-        "Iqtisodiy samaradorlikni oshirish va resurslarni optimal taqsimlash"
+        "Kredit berish",
+        "Omonatlarni qabul qilish",
+        "Hisob-kitob xizmatlari",
+        "Pul emissiyasi"
       ],
       "correct": 3
     },
     {
-      "text": "Quyidagilarning qaysi biri ixtisoslashgan aksiodorlik tijorat banki tarkibiga kirmaydi?",
+      "text": "Quyidagilarning qaysi biri ixtisoslashgan aksiyadorlik tijorat banki tarkibiga kirmaydi?",
       "options": [
-        "Iqtisodiy samaradorlikni oshirish va resurslarni optimal taqsimlash",
-        "Import hajmini maksimal darajada oshirish",
-        "Davlat monopoliyasini kengaytirish",
-        "Ishlab chiqarish hajmini cheklash va narxlarni oshirish"
-      ],
-      "correct": 0
-    },
-    {
-      "text": "Banklarning moliyaviy resurslarini jalb qilish bilan bog‘liq operatsiyalari nima deb nomlanadi?",
-      "options": [
-        "Davlat monopoliyasini kengaytirish",
-        "Ishlab chiqarish hajmini cheklash va narxlarni oshirish",
-        "Import hajmini maksimal darajada oshirish",
-        "Iqtisodiy samaradorlikni oshirish va resurslarni optimal taqsimlash"
+        "Ipoteka banki",
+        "Investitsiya banki",
+        "Innovatsion bank",
+        "Markaziy bank"
       ],
       "correct": 3
     },
     {
-      "text": "Banklarning moliyaviy resurslarini joylashtirish bilan bog‘liq operatsiyalari nima deb nomlanadi?",
+      "text": "Banklarning moliyaviy resurslarni jalb qilib bilan bog‘liq operatsiyalari nima deb nomlanadi?",
       "options": [
-        "Iqtisodiy samaradorlikni oshirish va resurslarni optimal taqsimlash",
-        "Ishlab chiqarish hajmini cheklash va narxlarni oshirish",
-        "Import hajmini maksimal darajada oshirish",
-        "Davlat monopoliyasini kengaytirish"
+        "Aktiv operatsiyalar",
+        "Passiv operatsiyalar",
+        "Valyuta operatsiyalari",
+        "Fond operatsiyalari"
       ],
-      "correct": 0
+      "correct": 1
+    },
+    {
+      "text": "Banklarning moliyaviy resurslarni joylashtirish bilan bog‘liq operatsiyalari nima deb nomlanadi?",
+      "options": [
+        "Passiv operatsiyalar",
+        "Aktiv operatsiyalar",
+        "Emission operatsiyalar",
+        "Valyuta operatsiyalari"
+      ],
+      "correct": 1
     },
     {
       "text": "Quyidagilarning qaysi biri bank foyda normasini aniqlab beradi?",
       "options": [
-        "Ishlab chiqarish hajmini cheklash va narxlarni oshirish",
-        "Iqtisodiy samaradorlikni oshirish va resurslarni optimal taqsimlash",
-        "Davlat monopoliyasini kengaytirish",
-        "Import hajmini maksimal darajada oshirish"
+        "Soliq stavkasi",
+        "Foiz marjasi",
+        "Inflyatsiya darajasi",
+        "Valyuta kursi"
       ],
       "correct": 1
     },
     {
-      "text": "Banklarning pul hosil qilish, ya’ni pul taklifini kо‘paytirish layoqati nima deyiladi?",
+      "text": "Banklarning pul olib, ya’ni pul taklifini ko‘paytirish layoqati nima deyiladi?",
       "options": [
-        "Davlat byudjeti xarajatlarini oshirish",
-        "Markaziy bank tomonidan pul taklifi va foiz stavkasini boshqarish",
-        "Soliq stavkalarini kamaytirish",
-        "Tashqi savdo balansini tartibga solish"
+        "Multiplikator samarasi",
+        "Kredit multiplikatori",
+        "Diskontlash",
+        "Monetizatsiya"
       ],
       "correct": 1
     },
     {
-      "text": "Markaziy bankning muomaladagi pul massasini о‘zgartirish maqsadida qimmatli qog‘ozlar bozorida davlatning qisqa muddatli obligatsiyalarni sotishi va sotib olishi nima deyiladi?",
+      "text": "Markaziy bankning tijorat banklarining majburiy ehtiyot normalarini o‘zgartirish orqali pul taklifiga ta’sir ko‘rsatishi nima deb nomlanadi?",
       "options": [
-        "Tashqi savdo balansini tartibga solish",
-        "Davlat byudjeti xarajatlarini oshirish",
-        "Markaziy bank tomonidan pul taklifi va foiz stavkasini boshqarish",
-        "Soliq stavkalarini kamaytirish"
-      ],
-      "correct": 2
-    },
-    {
-      "text": "Markaziy bankning tijorat banklarining majburiy ehtiyot normalarini о‘zgartirish orqali pul taklifiga ta’sir kо‘rsatishi nima deb nomlanadi?",
-      "options": [
-        "Davlat byudjeti xarajatlarini oshirish",
-        "Tashqi savdo balansini tartibga solish",
-        "Soliq stavkalarini kamaytirish",
-        "Markaziy bank tomonidan pul taklifi va foiz stavkasini boshqarish"
-      ],
-      "correct": 3
-    },
-    {
-      "text": "Markaziy bankning tijorat banklarning kreditlarga bо‘lgan talabiga va investitsion faolikka ta’sir kо‘rsatish usulini belgilang.",
-      "options": [
-        "Import hajmini maksimal darajada oshirish",
-        "Iqtisodiy samaradorlikni oshirish va resurslarni optimal taqsimlash",
-        "Ishlab chiqarish hajmini cheklash va narxlarni oshirish",
-        "Davlat monopoliyasini kengaytirish"
+        "Diskont siyosati",
+        "Majburiy rezerv siyosati",
+        "Ochiq bozor siyosati",
+        "Subsidiyalash"
       ],
       "correct": 1
     },
     {
-      "text": "Markaziy bankning pul taklifini kо‘paytirish va shu orqali foiz stavkasini pasaytirish hamda investitsiyalar о‘sishini rag‘batlantirishga qaratilgan siyosati nima deb nomlanadi?",
+      "text": "Markaziy bankning tijorat banklarining kreditlarga bo‘lgan talab va investitsion faollikka ta’sir ko‘rsatish usulini belgilang.",
       "options": [
-        "100.0%",
-        "120.0%",
-        "150.0%",
-        "75.0%"
+        "Ochiq bozor operatsiyalari",
+        "Diskont siyosati",
+        "Subsidiyalash",
+        "Soliq siyosati"
       ],
-      "correct": 0
+      "correct": 1
     },
     {
-      "text": "Markaziy bankning pul taklifini qisqartirishi va u orqali foiz stavkasini kо‘tarishi hamda investitsion faollikni cheklashga qaratilgan siyosati nima deyiladi?",
+      "text": "Markaziy bankning pul taklifini ko‘paytirish va shu orqali foiz stavkasini pasaytirish hamda investitsiyalar o‘sishini rag‘batlantirishga qaratilgan siyosati nima deb nomlanadi?",
       "options": [
-        "150.0%",
-        "120.0%",
-        "75.0%",
-        "100.0%"
+        "Restriktiv siyosat",
+        "Ekspansion monetar siyosat",
+        "Fiskal siyosat",
+        "Deflyatsion siyosat"
       ],
-      "correct": 3
+      "correct": 1
+    },
+    {
+      "text": "Markaziy bankning pul taklifini qisqartirish va orqali foiz stavkasini ko‘tarish hamda investitsion faollikni cheklashga qaratilgan siyosati nima deyiladi?",
+      "options": [
+        "Ekspansion siyosat",
+        "Restriktiv monetar siyosat",
+        "Rag‘batlantiruvchi siyosat",
+        "Subsidiyalash siyosati"
+      ],
+      "correct": 1
     },
     {
       "text": "Inflyatsiya kuchayganda monetizatsiya koeffitsiyentida qanday o‘zgarish bo‘ladi?",
       "options": [
-        "Narxlar umumiy darajasining ko'tarilishi",
-        "Pul massasining kamayishi",
-        "Eksportning importdan oshib ketishi",
-        "Ishsizlik darajasining oshishi"
+        "Ortadi",
+        "Pasayadi",
+        "O‘zgarmaydi",
+        "Nolga tenglashadi"
       ],
-      "correct": 0
+      "correct": 1
     },
     {
       "text": "Quyidagi ta’riflarning qaysi biri “pulga talab” iqtisodiy tushunchasini to‘g‘ri ifodalaydi?",
       "options": [
-        "Markaziy bank tomonidan pul taklifi va foiz stavkasini boshqarish",
-        "Tashqi savdo balansini tartibga solish",
-        "Davlat byudjeti xarajatlarini oshirish",
-        "Soliq stavkalarini kamaytirish"
+        "Banklarning kredit berish hajmi",
+        "Aholi va firmalarning pul saqlashga bo‘lgan ehtiyoji",
+        "Davlatning pul emissiyasi",
+        "Oltin zaxiralari hajmi"
       ],
-      "correct": 0
+      "correct": 1
     },
     {
-      "text": "Bitimlar uchun zarur bо‘lgan pulga talab qanday о‘zgaradi:",
+      "text": "Bitimlar uchun zarur bo‘lgan pulga talab qanday o‘zgaradi?",
       "options": [
-        "Soliq stavkalarini kamaytirish",
-        "Tashqi savdo balansini tartibga solish",
-        "Markaziy bank tomonidan pul taklifi va foiz stavkasini boshqarish",
-        "Davlat byudjeti xarajatlarini oshirish"
-      ],
-      "correct": 2
-    },
-    {
-      "text": "Pul va tovar massasi о‘zgarmagani holda pulning aylanish tezligining ortishi nimaga olib keladi?",
-      "options": [
-        "Davlat byudjeti xarajatlarini oshirish",
-        "Markaziy bank tomonidan pul taklifi va foiz stavkasini boshqarish",
-        "Soliq stavkalarini kamaytirish",
-        "Tashqi savdo balansini tartibga solish"
+        "Foiz stavkasiga teskari o‘zgaradi",
+        "Daromad hajmiga to‘g‘ri mutanosib o‘zgaradi",
+        "Narxlar pasayganda ortadi",
+        "Eksport hajmiga bog‘liq bo‘ladi"
       ],
       "correct": 1
     },
     {
       "text": "Quyidagi ta’riflarning qaysi biri “denominatsiya” iqtisodiy tushunchasini to‘g‘ri ifodalaydi?",
       "options": [
-        "Import hajmini maksimal darajada oshirish",
-        "Iqtisodiy samaradorlikni oshirish va resurslarni optimal taqsimlash",
-        "Ishlab chiqarish hajmini cheklash va narxlarni oshirish",
-        "Davlat monopoliyasini kengaytirish"
+        "Milliy valyuta kursining pasayishi",
+        "Pul birliklarini yiriklashtirish",
+        "Pul massasining ko‘payishi",
+        "Soliqlarning kamayishi"
       ],
       "correct": 1
     },
     {
       "text": "Pul tizimining tarkibiga quyidagilardan qaysi biri kiradi?",
       "options": [
-        "Tashqi savdo balansini tartibga solish",
-        "Markaziy bank tomonidan pul taklifi va foiz stavkasini boshqarish",
-        "Davlat byudjeti xarajatlarini oshirish",
-        "Soliq stavkalarini kamaytirish"
+        "Faqat kreditlar",
+        "Milliy valyuta tizimi elementlari",
+        "Faqat oltin zaxiralari",
+        "Aholi daromadlari"
       ],
       "correct": 1
     },
     {
       "text": "Qaysi nazariya pulga maxsus tovar sifatida qaraydi?",
       "options": [
-        "Markaziy bank tomonidan pul taklifi va foiz stavkasini boshqarish",
-        "Davlat byudjeti xarajatlarini oshirish",
-        "Soliq stavkalarini kamaytirish",
-        "Tashqi savdo balansini tartibga solish"
+        "Monetarizm",
+        "Nominalistik nazariya",
+        "Metall nazariyasi",
+        "Keyneschilik"
       ],
-      "correct": 0
+      "correct": 2
     },
     {
-      "text": "Iste’mol tovarlariga narx indeksi 2024-yilda 120, 2025-yilda 126 ga teng bо‘lsa, inflyatsiya sur’ati nechchi foizni tashkil qiladi?",
+      "text": "Respublikamizda faqatgina naqd pul ta’rifini qaysi pul agregati belgilab beradi?",
       "options": [
-        "126.0%",
-        "94.5%",
-        "151.2%",
-        "189.0%"
+        "M1",
+        "M2",
+        "M0",
+        "M3"
       ],
-      "correct": 0
+      "correct": 2
     },
     {
-      "text": "Respublikamizda faqatgina naqd pul taklifini qaysi pul agregati belgilab beradi?",
+      "text": "Tovarlar hajmiga nisbatan pul miqdorining muomalada ko‘payishi qanday oqibatlarga olib kelishi mumkin?",
       "options": [
-        "Markaziy bank tomonidan pul taklifi va foiz stavkasini boshqarish",
-        "Tashqi savdo balansini tartibga solish",
-        "Soliq stavkalarini kamaytirish",
-        "Davlat byudjeti xarajatlarini oshirish"
-      ],
-      "correct": 0
-    },
-    {
-      "text": "Tovarlar hajmiga nisbatan pul miqdorining muomalada kо‘payishi qanday oqibatlarga olib kelishi mumkin?",
-      "options": [
-        "Tashqi savdo balansini tartibga solish",
-        "Markaziy bank tomonidan pul taklifi va foiz stavkasini boshqarish",
-        "Soliq stavkalarini kamaytirish",
-        "Davlat byudjeti xarajatlarini oshirish"
+        "Deflyatsiyaga",
+        "Inflyatsiyaga",
+        "Ishsizlik kamayishiga",
+        "Narxlar pasayishiga"
       ],
       "correct": 1
     },
     {
       "text": "Quyidagi ta’riflarning qaysi biri “devalvatsiya” iqtisodiy tushunchasini to‘g‘ri ifodalaydi?",
       "options": [
-        "Iqtisodiy samaradorlikni oshirish va resurslarni optimal taqsimlash",
-        "Ishlab chiqarish hajmini cheklash va narxlarni oshirish",
-        "Import hajmini maksimal darajada oshirish",
-        "Davlat monopoliyasini kengaytirish"
+        "Pul birliklarini yiriklashtirish",
+        "Milliy valyuta kursining pasayishi",
+        "Soliqlarning oshishi",
+        "Narxlarning tushishi"
       ],
-      "correct": 0
+      "correct": 1
     },
     {
       "text": "Quyidagilardan qaysi biri pul tizimi tarkibiga kirmaydi?",
       "options": [
-        "Soliq stavkalarini kamaytirish",
-        "Davlat byudjeti xarajatlarini oshirish",
-        "Tashqi savdo balansini tartibga solish",
-        "Markaziy bank tomonidan pul taklifi va foiz stavkasini boshqarish"
+        "Pul birligi",
+        "Emissiya tizimi",
+        "Pul agregatlari",
+        "Soliq stavkalari"
       ],
       "correct": 3
     },
     {
-      "text": "Qayd qilinganlardan qaysi biri pul bozori turini anglatmaydi?",
+      "text": "Qayd qilingan qaysi biri pul bozori turini anglatmaydi?",
       "options": [
-        "Tashqi savdo balansini tartibga solish",
-        "Soliq stavkalarini kamaytirish",
-        "Markaziy bank tomonidan pul taklifi va foiz stavkasini boshqarish",
-        "Davlat byudjeti xarajatlarini oshirish"
-      ],
-      "correct": 2
-    },
-    {
-      "text": "Ayirboshlash vositasi sifatidagi pulga talab miqdori qaysi kо‘rsatkichga tо‘g‘ri mutanosiblikda о‘zgaradi?",
-      "options": [
-        "Davlat byudjeti xarajatlarini oshirish",
-        "Soliq stavkalarini kamaytirish",
-        "Tashqi savdo balansini tartibga solish",
-        "Markaziy bank tomonidan pul taklifi va foiz stavkasini boshqarish"
+        "Kredit bozori",
+        "Valyuta bozori",
+        "Qimmatli qog‘ozlar bozori",
+        "Mehnat bozori"
       ],
       "correct": 3
     },
     {
-      "text": "Investitsiyalar uchun pulga talab miqdori qaysi kо‘rsatkichga teskari mutanosiblikda о‘zgaradi?",
+      "text": "Ayirboshlash vositasi sifatida pulga talab miqdori qaysi ko‘rsatkichga to‘g‘ri mutanosiblikda o‘zgaradi?",
       "options": [
-        "Davlat byudjeti xarajatlarini oshirish",
-        "Markaziy bank tomonidan pul taklifi va foiz stavkasini boshqarish",
-        "Soliq stavkalarini kamaytirish",
-        "Tashqi savdo balansini tartibga solish"
+        "Foiz stavkasiga",
+        "Bitimlar hajmiga",
+        "Ishsizlik darajasiga",
+        "Valyuta kursiga"
       ],
       "correct": 1
     },
     {
-      "text": "Joriy va bazis davrdagi narxlar nisbati qanday kо‘rsatkich hisoblanadi?",
+      "text": "Investitsiyalar uchun pulga talab miqdori qaysi ko‘rsatkichga teskari mutanosiblikda o‘zgaradi?",
       "options": [
-        "Davlat monopoliyasini kengaytirish",
-        "Iqtisodiy samaradorlikni oshirish va resurslarni optimal taqsimlash",
-        "Ishlab chiqarish hajmini cheklash va narxlarni oshirish",
-        "Import hajmini maksimal darajada oshirish"
-      ],
-      "correct": 1
-    },
-    {
-      "text": "Inflyatsiyaning iqtisodiy oqibatlaridan qaysi birida natural xо‘jalikning rivojlanish xavfi mavjud bо‘ladi?",
-      "options": [
-        "Narxlar umumiy darajasining ko'tarilishi",
-        "Ishsizlik darajasining oshishi",
-        "Pul massasining kamayishi",
-        "Eksportning importdan oshib ketishi"
-      ],
-      "correct": 0
-    },
-    {
-      "text": "Inflyatsiya sharoitida davlatning tashqi omillar ta’sirini kamaytirishga qaratilgan chora-tadbirlari nimani kо‘zda tutadi?",
-      "options": [
-        "Eksportning importdan oshib ketishi",
-        "Ishsizlik darajasining oshishi",
-        "Narxlar umumiy darajasining ko'tarilishi",
-        "Pul massasining kamayishi"
+        "Daromadga",
+        "Narx darajasiga",
+        "Foiz stavkasiga",
+        "Eksport hajmiga"
       ],
       "correct": 2
     },
     {
-      "text": "Inflyatsiyaning kelib chiqishiga sabab bо‘lmaydigan omilni belgilang",
+      "text": "Joriy va bazis davrdagi narxlar nisbati qanday ko‘rsatkich hisoblanadi?",
       "options": [
-        "Ishsizlik darajasining oshishi",
-        "Eksportning importdan oshib ketishi",
-        "Pul massasining kamayishi",
-        "Narxlar umumiy darajasining ko'tarilishi"
+        "Multiplikator",
+        "Narx indeksi",
+        "Diskont",
+        "Real daromad"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Inflyatsiya sharoitida davlatning tashqi omillar ta’sirini kamaytirishga qaratilgan choralardan birini ko‘rsating.",
+      "options": [
+        "Importni rag‘batlantirish",
+        "Milliy ishlab chiqarishni qo‘llab-quvvatlash",
+        "Soliqlarni bekor qilish",
+        "Pul emissiyasini oshirish"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Inflyatsiyaning kelib chiqishiga sabab bo‘lmaydigan omilni belgilang.",
+      "options": [
+        "Pul emissiyasi",
+        "Xarajatlarning oshishi",
+        "Talabning ortishi",
+        "Mehnat unumdorligining oshishi"
       ],
       "correct": 3
     },
     {
       "text": "Davlat qarzi deb nimaga aytiladi?",
       "options": [
-        "Iqtisodiy samaradorlikni oshirish va resurslarni optimal taqsimlash",
-        "Import hajmini maksimal darajada oshirish",
-        "Davlat monopoliyasini kengaytirish",
-        "Ishlab chiqarish hajmini cheklash va narxlarni oshirish"
-      ],
-      "correct": 0
-    },
-    {
-      "text": "Quyidagilarning qaysi biri davlat tomonidan tartibga solishning bevosita usullariga mos kelmaydi?",
-      "options": [
-        "Ishlab chiqarish hajmini cheklash va narxlarni oshirish",
-        "Import hajmini maksimal darajada oshirish",
-        "Davlat monopoliyasini kengaytirish",
-        "Iqtisodiy samaradorlikni oshirish va resurslarni optimal taqsimlash"
-      ],
-      "correct": 3
-    },
-    {
-      "text": "Davlat byudjet daromadlarini qayta taqsimlashni qanday amalga oshiradi?",
-      "options": [
-        "Eksport-import operatsiyalarini tartibga solish",
-        "Kredit foiz stavkalarini o'zgartirish",
-        "Markaziy bank orqali pul massasini boshqarish",
-        "Davlat xarajatlari va soliq siyosati vositasida iqtisodiyotni tartibga solish"
-      ],
-      "correct": 3
-    },
-    {
-      "text": "Qaysi oqim davlatning iqtisodiyotga faol aralashuvi g‘oyasini himoya qilishni davom ettiradi?",
-      "options": [
-        "Iqtisodiy samaradorlikni oshirish va resurslarni optimal taqsimlash",
-        "Ishlab chiqarish hajmini cheklash va narxlarni oshirish",
-        "Davlat monopoliyasini kengaytirish",
-        "Import hajmini maksimal darajada oshirish"
-      ],
-      "correct": 0
-    },
-    {
-      "text": "Qaysi oqim davlatning iqtisodiyotga eng kam darajada aralashuvi pul muomalasi doirasida bо‘lishi kerak deb ta’kidlaydi?",
-      "options": [
-        "Markaziy bank tomonidan pul taklifi va foiz stavkasini boshqarish",
-        "Davlat byudjeti xarajatlarini oshirish",
-        "Soliq stavkalarini kamaytirish",
-        "Tashqi savdo balansini tartibga solish"
-      ],
-      "correct": 0
-    },
-    {
-      "text": "Iqtisodiyotni davlat tomonidan tartibga solish (IDTTS) usullari qanday xarakterdagi tadbirlar tizimidan iborat?",
-      "options": [
-        "Davlat monopoliyasini kengaytirish",
-        "Ishlab chiqarish hajmini cheklash va narxlarni oshirish",
-        "Iqtisodiy samaradorlikni oshirish va resurslarni optimal taqsimlash",
-        "Import hajmini maksimal darajada oshirish"
-      ],
-      "correct": 2
-    },
-    {
-      "text": "Quydagilardan qaysi biri davlatning iqtisodiy о‘sishini rag‘batlantirish vazifasiga kirmaydi?",
-      "options": [
-        "Davlat monopoliyasini kengaytirish",
-        "Iqtisodiy samaradorlikni oshirish va resurslarni optimal taqsimlash",
-        "Ishlab chiqarish hajmini cheklash va narxlarni oshirish",
-        "Import hajmini maksimal darajada oshirish"
+        "Korxonalarning qarzi",
+        "Davlatning ichki va tashqi qarzlari yig‘indisi",
+        "Aholining bank kreditlari",
+        "Soliq qarzlari"
       ],
       "correct": 1
     },
     {
-      "text": "Davlatning iqtisodiyotni tartibga solishga qaratilgan bilvosita usullaridan qaysi biri yalpi talabni kengaytiradi?",
+      "text": "Quyidagilarning qaysi biri davlat tomonidan tartibga solishning bevosita usullariga mos kelmaydi?",
       "options": [
-        "Iqtisodiy samaradorlikni oshirish va resurslarni optimal taqsimlash",
-        "Ishlab chiqarish hajmini cheklash va narxlarni oshirish",
-        "Import hajmini maksimal darajada oshirish",
-        "Davlat monopoliyasini kengaytirish"
+        "Litsenziyalash",
+        "Narxlarni nazorat qilish",
+        "Soliq stavkasini o‘zgartirish",
+        "Kvotalash"
       ],
-      "correct": 0
+      "correct": 2
     },
     {
-      "text": "Davlatning iqtisodiyotiga ta’sir kо‘rsatishning tashqi iqtisodiy dastagi nima deb ataladi?",
+      "text": "Davlat byudjet daromadlarini qayta taqsimlashni qanday amalga oshiradi?",
       "options": [
-        "Iqtisodiy samaradorlikni oshirish va resurslarni optimal taqsimlash",
-        "Davlat monopoliyasini kengaytirish",
-        "Import hajmini maksimal darajada oshirish",
-        "Ishlab chiqarish hajmini cheklash va narxlarni oshirish"
+        "Faqat eksport orqali",
+        "Soliqlar va transfert to‘lovlari orqali",
+        "Faqat kreditlar orqali",
+        "Valyuta kursi orqali"
       ],
-      "correct": 0
+      "correct": 1
     },
     {
-      "text": "Jinni koeffitsiyenti 0,35dan 0,55ga о‘sganda qanday iqtisodiy o‘zgarish yuz beradi?",
+      "text": "Qaysi oqim davlatning iqtisodiyotga faol aralashuvi g‘oyasini himoya qilishni davom ettiradi?",
       "options": [
-        "Import hajmini maksimal darajada oshirish",
-        "Ishlab chiqarish hajmini cheklash va narxlarni oshirish",
-        "Davlat monopoliyasini kengaytirish",
-        "Iqtisodiy samaradorlikni oshirish va resurslarni optimal taqsimlash"
+        "Monetarizm",
+        "Klassik maktab",
+        "Keyneschilik",
+        "Fiziokratlar"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Iqtisodiyotni davlat tomonidan tartibga solish (IDTS) usullari qanday xarakterdagi tadbirlar tizimidan iborat?",
+      "options": [
+        "Faqat ma’muriy",
+        "Faqat iqtisodiy",
+        "Iqtisodiy, huquqiy va ma’muriy tadbirlar",
+        "Faqat siyosiy"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Quyidagilardan qaysi biri davlatning iqtisodiy o‘sishni rag‘batlantirish vazifasiga kirmaydi?",
+      "options": [
+        "Investitsiyalarni qo‘llab-quvvatlash",
+        "Innovatsiyalarni rag‘batlantirish",
+        "Bandlikni oshirish",
+        "Narxlarni sun’iy oshirish"
       ],
       "correct": 3
     },
     {
-      "text": "Pareto qonuniga kо‘ra:",
+      "text": "Davlatning iqtisodiyotni tartibga solishga qaratilgan bilvosita usullaridan qaysi biri yalpi talabni kengaytiradi?",
       "options": [
-        "Iqtisodiy samaradorlikni oshirish va resurslarni optimal taqsimlash",
-        "Davlat monopoliyasini kengaytirish",
-        "Import hajmini maksimal darajada oshirish",
-        "Ishlab chiqarish hajmini cheklash va narxlarni oshirish"
+        "Soliqlarni oshirish",
+        "Davlat xarajatlarini ko‘paytirish",
+        "Kreditlarni cheklash",
+        "Foiz stavkasini oshirish"
       ],
-      "correct": 0
+      "correct": 1
     },
     {
-      "text": "Lorens egri chizig‘i bissektrisa о‘qidan ancha uzoqlashishi nimani bildiradi?",
+      "text": "Davlatning iqtisodiyotga ta’sir ko‘rsatishning tashqi iqtisodiy dastagi nima deb ataladi?",
       "options": [
-        "Ishlab chiqarish hajmini cheklash va narxlarni oshirish",
-        "Iqtisodiy samaradorlikni oshirish va resurslarni optimal taqsimlash",
-        "Import hajmini maksimal darajada oshirish",
-        "Davlat monopoliyasini kengaytirish"
+        "Monetar siyosat",
+        "Fiskal siyosat",
+        "Tashqi iqtisodiy siyosat",
+        "Kredit siyosati"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Jini koeffitsiyenti 0,35 dan 0,55 ga o‘sganda qanday iqtisodiy o‘zgarish yuz beradi?",
+      "options": [
+        "Daromadlar tengligi kuchayadi",
+        "Daromadlar tengsizligi ortadi",
+        "Ishsizlik kamayadi",
+        "Inflyatsiya pasayadi"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Pareto qonuniga ko‘ra:",
+      "options": [
+        "Barcha daromadlar teng taqsimlanadi",
+        "Boylikning katta qismi aholining kichik qismi qo‘lida to‘planadi",
+        "Ishsizlik yo‘qoladi",
+        "Narxlar doimiy bo‘ladi"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Lorens egri chizig‘i bissektrisadan qanchalik uzoqlashishi nimani bildiradi?",
+      "options": [
+        "Bandlik oshishini",
+        "Daromadlar tengsizligi kuchayishini",
+        "Inflyatsiya kamayishini",
+        "Soliq stavkasi pasayishini"
       ],
       "correct": 1
     },
     {
       "text": "Qaysi vaqtda ishchining real ish haqi oshadi?",
       "options": [
-        "Import hajmini maksimal darajada oshirish",
-        "Davlat monopoliyasini kengaytirish",
-        "Iqtisodiy samaradorlikni oshirish va resurslarni optimal taqsimlash",
-        "Ishlab chiqarish hajmini cheklash va narxlarni oshirish"
-      ],
-      "correct": 2
-    },
-    {
-      "text": "О‘zbekistonda aholining ma’naviy ruhiy tiklanishi qanday umumbashariy negizga asoslanadi?",
-      "options": [
-        "Ishlab chiqarish hajmini cheklash va narxlarni oshirish",
-        "Iqtisodiy samaradorlikni oshirish va resurslarni optimal taqsimlash",
-        "Davlat monopoliyasini kengaytirish",
-        "Import hajmini maksimal darajada oshirish"
+        "Nominal ish haqi kamayganda",
+        "Nominal ish haqi narxlar o‘sishidan tezroq oshganda",
+        "Narxlar oshganda",
+        "Inflyatsiya kuchayganda"
       ],
       "correct": 1
     },
     {
-      "text": "Nominal daromaddan soliqlar va boshqa majburiy tо‘lovlar chiqarib tashlangandan keyin qolgan qismiga nima deyiladi?",
+      "text": "O‘zbekistonda aholining ma’naviy ruhiy tiklanishi qanday umumbashariy negizga asoslanadi?",
       "options": [
-        "Proporsional soliq — stavka doimiy qoladi",
-        "Aktsiz soliq — faqat import tovarlarga qo'llaniladi",
-        "Progressiv soliq — daromad ortishi bilan stavka ham oshadi",
-        "Regressiv soliq — daromad ortishi bilan stavka kamayadi"
-      ],
-      "correct": 2
-    },
-    {
-      "text": "Nominal daromadning sotib olish layoqati yoki unga xarid qilish mumkin bо‘lgan tovarlar va xizmatlar miqdoriga nima deyiladi?",
-      "options": [
-        "Iqtisodiy samaradorlikni oshirish va resurslarni optimal taqsimlash",
-        "Davlat monopoliyasini kengaytirish",
-        "Ishlab chiqarish hajmini cheklash va narxlarni oshirish",
-        "Import hajmini maksimal darajada oshirish"
-      ],
-      "correct": 0
-    },
-    {
-      "text": "Quyidalarning qaysi biri orqali oilalarning turli qatlamlari о‘rtasidagi daromadlar tengsizligini miqdoriy aniqlash mumkin:",
-      "options": [
-        "Ishlab chiqarish hajmini cheklash va narxlarni oshirish",
-        "Davlat monopoliyasini kengaytirish",
-        "Iqtisodiy samaradorlikni oshirish va resurslarni optimal taqsimlash",
-        "Import hajmini maksimal darajada oshirish"
-      ],
-      "correct": 2
-    },
-    {
-      "text": "“Turmush sifati indeksi”da qaysi kо‘rsatkich aholining iqtisodiy faolligini aks ettiradi?",
-      "options": [
-        "Davlat monopoliyasini kengaytirish",
-        "Iqtisodiy samaradorlikni oshirish va resurslarni optimal taqsimlash",
-        "Ishlab chiqarish hajmini cheklash va narxlarni oshirish",
-        "Import hajmini maksimal darajada oshirish"
+        "Faqat iqtisodiy islohotlarga",
+        "Milliy va umuminsoniy qadriyatlarga",
+        "Faqat texnologik taraqqiyotga",
+        "Siyosiy raqobatga"
       ],
       "correct": 1
     },
     {
-      "text": "О‘zbekistonda tashqi iqtisodiy aloqalar qanday hamkorlik asosida olib boriladi?",
+      "text": "Nominal daromaddan soliqlar va boshqa majburiy to‘lovlar chiqarib tashlangandan keyin qolgan qismiga nima deyiladi?",
       "options": [
-        "Davlat monopoliyasini kengaytirish",
-        "Iqtisodiy samaradorlikni oshirish va resurslarni optimal taqsimlash",
-        "Ishlab chiqarish hajmini cheklash va narxlarni oshirish",
-        "Import hajmini maksimal darajada oshirish"
+        "Real daromad",
+        "Ixtiyordagi daromad",
+        "Milliy daromad",
+        "Sof foyda"
       ],
       "correct": 1
     },
     {
-      "text": "О‘zbekistonda tashqi iqtisodiy aloqalar qanday tamoyillarga asoslanadi?",
+      "text": "Nominal daromadning sotib olish layoqati yoki unga xarid qilish mumkin bo‘lgan tovarlar va xizmatlar miqdoriga nima deyiladi?",
       "options": [
-        "Iqtisodiy samaradorlikni oshirish va resurslarni optimal taqsimlash",
-        "Import hajmini maksimal darajada oshirish",
-        "Ishlab chiqarish hajmini cheklash va narxlarni oshirish",
-        "Davlat monopoliyasini kengaytirish"
+        "Ixtiyordagi daromad",
+        "Real daromad",
+        "Milliy daromad",
+        "Foyda normasi"
       ],
-      "correct": 0
+      "correct": 1
+    },
+    {
+      "text": "Quyidagilarning qaysi biri orqali oilalarning turli qatlamlari o‘rtasidagi daromadlar tengsizligini miqdoriy aniqlash mumkin?",
+      "options": [
+        "Fillips egri chizig‘i",
+        "Ouken qonuni",
+        "Jini koeffitsiyenti",
+        "Multiplikator"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "“Turmush sifati indeksi”da qaysi ko‘rsatkich aholining iqtisodiy faolligini aks ettiradi?",
+      "options": [
+        "Tug‘ilish darajasi",
+        "Bandlik darajasi",
+        "O‘lim darajasi",
+        "Savodxonlik"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "O‘zbekistonda tashqi iqtisodiy aloqalar qanday hamkorlik asosida olib boriladi?",
+      "options": [
+        "Faqat ikki tomonlama",
+        "O‘zaro manfaatli hamkorlik asosida",
+        "Faqat davlatlararo",
+        "Faqat xususiy sektor orqali"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "O‘zbekistonda tashqi iqtisodiy aloqalar qanday tamoyillarga asoslanadi?",
+      "options": [
+        "Yakkalanish tamoyiliga",
+        "Teng huquqlilik va o‘zaro manfaatdorlik tamoyiliga",
+        "Monopoliyaga",
+        "Proteksionizmga"
+      ],
+      "correct": 1
     },
     {
       "text": "Shanxay hamkorlik tashkiloti (SHOS) qachon tuzilgan?",
       "options": [
-        "Ishlab chiqarish hajmini cheklash va narxlarni oshirish",
-        "Iqtisodiy samaradorlikni oshirish va resurslarni optimal taqsimlash",
-        "Davlat monopoliyasini kengaytirish",
-        "Import hajmini maksimal darajada oshirish"
-      ],
-      "correct": 1
-    },
-    {
-      "text": "Xalqaro iqtisodiy integratsiyaning eng oddiy shakli nima deb nomlanadi?",
-      "options": [
-        "Davlat monopoliyasini kengaytirish",
-        "Ishlab chiqarish hajmini cheklash va narxlarni oshirish",
-        "Iqtisodiy samaradorlikni oshirish va resurslarni optimal taqsimlash",
-        "Import hajmini maksimal darajada oshirish"
+        "1991-yil",
+        "1996-yil",
+        "2001-yil",
+        "2005-yil"
       ],
       "correct": 2
     },
     {
-      "text": "Jahon xо‘jaligining vujudga kelish shart-sharoitlarining qaysi biri birlamchi va tarixiy davr nuqtai nazardan dastlabki hisoblanadi?",
+      "text": "Xalqaro iqtisodiy integratsiyaning eng oddiy shakli nima deb nomlanadi?",
       "options": [
-        "Davlat monopoliyasini kengaytirish",
-        "Iqtisodiy samaradorlikni oshirish va resurslarni optimal taqsimlash",
-        "Ishlab chiqarish hajmini cheklash va narxlarni oshirish",
-        "Import hajmini maksimal darajada oshirish"
+        "Bojxona ittifoqi",
+        "Umumiy bozor",
+        "Erkin savdo hududi",
+        "Valyuta ittifoqi"
       ],
-      "correct": 1
+      "correct": 2
     },
     {
-      "text": "Kapitali milliy va faoliyat qilish doirasi xalqaro kо‘lamdagi kompaniyalar qanday nomlanadi?",
+      "text": "Jahon xo‘jaligining vujudga kelish shart-sharoitlarining qaysi biri birlamchi va tarixiy davr nuqtai nazardan dastlabki hisoblanadi?",
       "options": [
-        "Iqtisodiy samaradorlikni oshirish va resurslarni optimal taqsimlash",
-        "Davlat monopoliyasini kengaytirish",
-        "Ishlab chiqarish hajmini cheklash va narxlarni oshirish",
-        "Import hajmini maksimal darajada oshirish"
+        "Kapital eksporti",
+        "Xalqaro mehnat taqsimoti",
+        "Valyuta bozori",
+        "Integratsiya"
       ],
-      "correct": 0
+      "correct": 1
     },
     {
       "text": "Makroiqtisodiy nazariyada “sterilizatsiya” qanday iqtisodiy chora hisoblanadi?",
       "options": [
-        "Davlat monopoliyasini kengaytirish",
-        "Iqtisodiy samaradorlikni oshirish va resurslarni optimal taqsimlash",
-        "Import hajmini maksimal darajada oshirish",
-        "Ishlab chiqarish hajmini cheklash va narxlarni oshirish"
+        "Soliqni kamaytirish",
+        "Pul massasidagi ortiqcha o‘zgarishni neytrallashtirish",
+        "Subsidiyalar berish",
+        "Importni oshirish"
       ],
       "correct": 1
     },
     {
-      "text": "Qaysi nazariyaga ko‘ra, har bir mamlakat o‘zida kamroq xarajat sarflanadigan mahsulotlarni ishlab chiqarishi, nisbatan yuqori xarajatlarni taqozo qiladigan tovarlarni esa chetdan sotib olishi lozim?",
+      "text": "Qaysi nazariyaga ko‘ra, har bir mamlakat o‘zida kamroq xarajat sarflanadigan mahsulotni ishlab chiqarishi, nisbatan yuqori xarajatlarni taqozo qiladigan tovarlarni esa chetdan sotib olishi lozim?",
       "options": [
-        "Davlat monopoliyasini kengaytirish",
-        "Import hajmini maksimal darajada oshirish",
-        "Ishlab chiqarish hajmini cheklash va narxlarni oshirish",
-        "Iqtisodiy samaradorlikni oshirish va resurslarni optimal taqsimlash"
+        "Mutlaq ustunlik nazariyasi",
+        "Nisbiy ustunlik nazariyasi",
+        "Keynes nazariyasi",
+        "Monetarizm"
       ],
-      "correct": 3
+      "correct": 1
     },
     {
       "text": "Qaysi nazariyada, xarajatlar nisbatidagi farq aynan olingan mamlakatda qaysi tovarlarni ishlab chiqarish, qaysilarini ayirboshlash orqali chetdan sotib olish lozimligiga asoslanadi?",
       "options": [
-        "Import hajmini maksimal darajada oshirish",
-        "Ishlab chiqarish hajmini cheklash va narxlarni oshirish",
-        "Davlat monopoliyasini kengaytirish",
-        "Iqtisodiy samaradorlikni oshirish va resurslarni optimal taqsimlash"
+        "Monetar nazariya",
+        "Nisbiy ustunlik nazariyasi",
+        "Multiplikator nazariyasi",
+        "Keyneschilik"
       ],
-      "correct": 3
+      "correct": 1
     },
     {
       "text": "Jamiyat ehtiyojlari, uning iqtisodiy imkoniyatlari va ishlab chiqarish natijalarining miqdoran hamda tarkiban mos kelishlik darajasi nima deb ataladi?",
       "options": [
-        "Davlat monopoliyasini kengaytirish",
-        "Iqtisodiy samaradorlikni oshirish va resurslarni optimal taqsimlash",
-        "Import hajmini maksimal darajada oshirish",
-        "Ishlab chiqarish hajmini cheklash va narxlarni oshirish"
+        "Integratsiya",
+        "Iqtisodiy mutanosiblik",
+        "Modernizatsiya",
+        "Diversifikatsiya"
       ],
       "correct": 1
     },
     {
       "text": "Quyidagilarning qaysi biri iqtisodiy beqarorlikni anglatmaydi?",
       "options": [
-        "Import hajmini maksimal darajada oshirish",
-        "Davlat monopoliyasini kengaytirish",
-        "Ishlab chiqarish hajmini cheklash va narxlarni oshirish",
-        "Iqtisodiy samaradorlikni oshirish va resurslarni optimal taqsimlash"
+        "Ishsizlik",
+        "Inflyatsiya",
+        "Inqiroz",
+        "Barqaror iqtisodiy o‘sish"
       ],
       "correct": 3
     },
     {
-      "text": "Ishlab chiqarish zanjirida quyidagi ma’lumotlar mavjud: xom ashyo – 800 mlrd. so‘m, qayta ishlash – 1300 mlrd. so‘m, yakuniy mahsulot – 1900 mlrd. so‘m YaIMni qo‘shilgan qiymat usuli orqali hisoblang.",
+      "text": "Aholining soliqlardan keyingi daromadi 3000 mlrd so‘mni, iste’mol xarajatlari 2400 mlrd so‘mni tashkil etsa, iste’molga o‘rtacha moyillik (O‘M)ni aniqlang.",
       "options": [
-        "2375 mlrd. so'm",
-        "2090 mlrd. so'm",
-        "1900 mlrd. so'm",
-        "1520 mlrd. so'm"
-      ],
-      "correct": 2
-    },
-    {
-      "text": "Quyidagi ko‘rsatkichlar (mlrd. so‘mda) berilgan bo‘lib, ulardan foydalanib, yalpi ichki mahsulot (YaIM)ni xarajatlar oqimi bo‘yicha hisoblang. Iste’mol – 5000, ish haqi – 4000, renta – 600, investitsiya – 1500, foiz – 400, amortizatsiya – 500, davlat xaridi – 2000, eksport – 800, egri soliqlar – 300, import – 1300.",
-      "options": [
-        "1300.0%",
-        "1950.0%",
-        "1560.0%",
-        "975.0%"
-      ],
-      "correct": 0
-    },
-    {
-      "text": "Quyidagi ko‘rsatkichlar (mlrd. so‘mda) berilgan bo‘lib, ulardan foydalanib, yalpi ichki mahsulot (YaIM)ni daromadlar oqimi bo‘yicha hisoblang. Iste’mol – 5000, ish haqi – 4000, renta – 600, investitsiya – 1500, foiz – 400, amortizatsiya – 500, davlat xaridi – 2000, eksport – 800, egri soliqlar – 300, import – 1300.",
-      "options": [
-        "1300.0%",
-        "1950.0%",
-        "1560.0%",
-        "975.0%"
-      ],
-      "correct": 0
-    },
-    {
-      "text": "Mamlakatda nominal yalpi ichki mahsulot (Nominal YaIM) – 12000 mlrd. so‘mga, narx indeksi (P) – 1,20ga teng bo‘lsa, real yalpi ichki mahsulot (real YaIM)ni hisoblang.",
-      "options": [
-        "1 mlrd. so'm",
-        "2 mlrd. so'm",
-        "1 mlrd. so'm",
-        "1 mlrd. so'm"
-      ],
-      "correct": 3
-    },
-    {
-      "text": "Mamlakatda bazis yilda narx – 250 ming so‘mga, joriy yilda narx esa – 300 ming so‘mga teng bo‘lsa, narx indeksi (P)ni aniqlang.",
-      "options": [
-        "240 mlrd. so'm",
-        "375 mlrd. so'm",
-        "330 mlrd. so'm",
-        "300 mlrd. so'm"
-      ],
-      "correct": 3
-    },
-    {
-      "text": "Mamlakatning yalpi ichki mahsulot (YaIM)i – 9000 mlrd. so‘mga, iste’mol qilingan kapital hajmi – 1200 mlrd. so‘mga teng bo‘lsa, mamlakatning sof milliy mahsulot (SMM)ini hisoblang.",
-      "options": [
-        "1320 mlrd. so'm",
-        "1500 mlrd. so'm",
-        "960 mlrd. so'm",
-        "1200 mlrd. so'm"
-      ],
-      "correct": 3
-    },
-    {
-      "text": "Mamlakatda sof milliy mahsulot (SMM) hajmi – 7800 mlrd. so‘mga, egri soliqlar – 800 mlrd. so‘mga teng bo‘lsa, mamlaktning milliy daromadini hisoblang.",
-      "options": [
-        "880 mlrd. so'm",
-        "640 mlrd. so'm",
-        "1000 mlrd. so'm",
-        "800 mlrd. so'm"
-      ],
-      "correct": 3
-    },
-    {
-      "text": "Nominal yalpi ichki mahsulot (Nominal YaIM) – 12000 mlrd. so‘mga, real yalpi ichki mahsulot (real YaIM) – 10000 mlrd. so‘mga teng bo‘lsa, deflyatorni hisoblang.",
-      "options": [
-        "11000 mlrd. so'm",
-        "12500 mlrd. so'm",
-        "8000 mlrd. so'm",
-        "10000 mlrd. so'm"
-      ],
-      "correct": 3
-    },
-    {
-      "text": "Mamlakatda yalpi investitsiyalar hajmi – 2000 mlrd. so‘mga, iste’mol qilingan kapital hajmi esa – 1500 mlrd. so‘mga teng bo‘lsa, hosil bo‘lgan sof investitsiyalar hajmini aniqlang.",
-      "options": [
-        "1200 mlrd. so'm",
-        "1875 mlrd. so'm",
-        "1500 mlrd. so'm",
-        "1650 mlrd. so'm"
-      ],
-      "correct": 2
-    },
-    {
-      "text": "Yalpi ichki mahsulot (YaIM) hajmi – 15000 mlrd. so‘mni, chet eldan olingan daromadlar hajmi – 1200 mlrd. so‘mni, chet elga chiqarilgan daromadlar hajmi esa – 800 mlrd. so‘mni tashkil etsa, yalpi milliy daromad (YaMD)ni aniqlang.",
-      "options": [
-        "880 mlrd. so'm",
-        "1000 mlrd. so'm",
-        "640 mlrd. so'm",
-        "800 mlrd. so'm"
-      ],
-      "correct": 3
-    },
-    {
-      "text": "Aholining soliqlardan keyingi daromadi 3000 mlrd. so‘mni, iste’mol xarajatlari 2400 mlrd. so‘mni tashkil etsa, iste’molga o‘rtacha moyillik (IO‘M)ni aniqlang.",
-      "options": [
-        "2400 mlrd. so'm",
-        "2640 mlrd. so'm",
-        "1920 mlrd. so'm",
-        "3000 mlrd. so'm"
-      ],
-      "correct": 0
-    },
-    {
-      "text": "Aholining shaxsiy daromadlari 5000 mlrd. so‘mni, iste’mol xarajatlari esa 3500 mlrd. so‘mni tashkil etsa, jamg‘armaga o‘rtacha moyillik (JO‘M)ni aniqlang.",
-      "options": [
-        "3850 mlrd. so'm",
-        "4375 mlrd. so'm",
-        "3500 mlrd. so'm",
-        "2800 mlrd. so'm"
-      ],
-      "correct": 2
-    },
-    {
-      "text": "Aholining 2024-yildagi shaxsiy daromadlari 2000 mlrd. so‘mni, iste’mol xarajatlari 1600 mlrd. so‘mni tashkil qildi. 2025-yilda esa aholining shaxsiy daromadlari 2500 mlrd. so‘m, iste’mol xarajalari 1900 mlrd. so‘m bo‘ldi Iste’molga keyingi moyillik (IKM)ni aniqlang.",
-      "options": [
-        "1520 mlrd. so'm",
-        "1900 mlrd. so'm",
-        "2375 mlrd. so'm",
-        "2090 mlrd. so'm"
-      ],
-      "correct": 1
-    },
-    {
-      "text": "Mamlakatning milliy daromadi 8000 mlrd. so‘mni, uning jamg‘arish fondi esa 2000 mlrd. so‘mni tashkil etsa, mamlakatning jamg‘arish normasi nechaga teng bo‘ladi?",
-      "options": [
-        "2500 mlrd. so'm",
-        "1600 mlrd. so'm",
-        "2200 mlrd. so'm",
-        "2000 mlrd. so'm"
-      ],
-      "correct": 3
-    },
-    {
-      "text": "Yalpi ichki mahsulot hajmi 1200 mlrd. so‘mga, mamlakatga kiritilgan investitsiyalar hajmi esa, 300 mlrd. so‘mga ko‘paygan bo‘lsa, investitsiyalar qaytimi (Ik)ni hisoblang.",
-      "options": [
-        "330 mlrd. so'm",
-        "300 mlrd. so'm",
-        "240 mlrd. so'm",
-        "375 mlrd. so'm"
-      ],
-      "correct": 1
-    },
-    {
-      "text": "Korxona 900 mlrd. so‘mlik investitsiya kiritib, u 150 mlrd. so‘mlik yillik sof foydaga erishgan bo‘lsa, korxona tomonidan kiritilgan ivestitsiyaning qoplanish muddatini aniqlang.",
-      "options": [
-        "165 mlrd. so'm",
-        "188 mlrd. so'm",
-        "120 mlrd. so'm",
-        "150 mlrd. so'm"
-      ],
-      "correct": 3
-    },
-    {
-      "text": "Mamlakatga kiritilan investitsiyalar hajmi 8 mlrd. so‘mga oshganidan so‘ng, mamlakatning sof milliy mahsulot hajmi esa 32 mlrd. so‘mga ko‘paygan bo‘lsa, multiplikator miqdorini aniqlang.",
-      "options": [
-        "40 mlrd. so'm",
-        "35 mlrd. so'm",
-        "26 mlrd. so'm",
-        "32 mlrd. so'm"
-      ],
-      "correct": 3
-    },
-    {
-      "text": "O‘tgan yilda mamlakatning milliy daromad hajmi 300 mlrd. so‘mga o‘sishi hisobiga, joriy yilda mamlakatga kiritilgan investitsiyalar hajmi 600 mlrd. so‘mga oshdi. Mamlakatning akselerator koeffitsiyentini aniqlang",
-      "options": [
-        "660 mlrd. so'm",
-        "750 mlrd. so'm",
-        "480 mlrd. so'm",
-        "600 mlrd. so'm"
-      ],
-      "correct": 3
-    },
-    {
-      "text": "Yillik diskont foiz stavkasi 10 % hisoblab, 1 ta investitsion loyihani amalga oshirish natijasida korxona kelgusi 2 yildan keyin 1210 mlrd. so‘mlik mablag‘ni qo‘lga kiritdi. Ushbu mablag‘ning bugungi kundagi qiymatini hisoblang.",
-      "options": [
-        "1210.0%",
-        "1452.0%",
-        "1815.0%",
-        "907.5%"
-      ],
-      "correct": 0
-    },
-    {
-      "text": "Korxonalar tomonidan qarzga berilgan kapital hajmi 500 mlrd. so‘mga, ularning qo‘lga kiritgan daromad hajmi esa 80 mlrd. so‘mga teng bo‘lsa, mamlakatdagi foiz normasi qanchaga teng bo‘ladi?",
-      "options": [
-        "120.0%",
-        "96.0%",
-        "80.0%",
-        "60.0%"
-      ],
-      "correct": 2
-    },
-    {
-      "text": "Bazis yilda mamlakatning real yalpi ichki mahsuloti (real YaIM) hajmi 500 mlrd. so‘mni, joriy yilda esa 575 mlrd. so‘mni tashkil qilsa, mamlakat iqtisodiyotining iqtisodiy o‘sish sur’atini aniqlang.",
-      "options": [
-        "719 mlrd. so'm",
-        "460 mlrd. so'm",
-        "632 mlrd. so'm",
-        "575 mlrd. so'm"
-      ],
-      "correct": 3
-    },
-    {
-      "text": "2025-yilda mamlakatning real yalpi ichki mahsuloti (Real YaIM) hajmi 1634000 mlrd. so‘m, aholi soni 38 mln. kishi bo‘lsa, mamlakat aholi jon boshiga to‘g‘ri keladigan real YaIMni aniqlang.",
-      "options": [
-        "48 mlrd. so'm",
-        "30 mlrd. so'm",
-        "42 mlrd. so'm",
-        "38 mlrd. so'm"
-      ],
-      "correct": 3
-    },
-    {
-      "text": "Agar korxonada ishlab chiqarish hajmi 900 mlrd. so‘m, ishchilar soni 300 kishi bo‘lsa, ishlab chiqarish unumdorligini hisoblang.",
-      "options": [
-        "330 mlrd. so'm",
-        "300 mlrd. so'm",
-        "240 mlrd. so'm",
-        "375 mlrd. so'm"
-      ],
-      "correct": 1
-    },
-    {
-      "text": "Agar korxonada asosiy kapital hajmi 1000 mlrd. so‘m, ishchilar soni 250 kishi bo‘lsa, bir kapital unumdorligini aniqlang.",
-      "options": [
-        "200 mlrd. so'm",
-        "275 mlrd. so'm",
-        "250 mlrd. so'm",
-        "312 mlrd. so'm"
+        "60 %",
+        "70 %",
+        "80 %",
+        "90 %"
       ],
       "correct": 2
     },
     {
       "text": "Agar mamlakatda ishlab chiqarish hajmi 20 %ga, mehnat resurslari soni 20 %ga ortsa-da, lekin texnologiya sur’ati o‘zgarmasa, ushbu holatdagi iqtisodiy o‘sish turini aniqlang.",
       "options": [
-        "20.0%",
-        "15.0%",
-        "24.0%",
-        "30.0%"
-      ],
-      "correct": 0
-    },
-    {
-      "text": "Mamlakatda nomoliyaviy aktivlar 900 mlrd. so‘mni, moliyaviy aktivlar 400 mlrd. so‘mni, majburiyatlar esa 500 mlrd. so‘mni tashkil etsa, mamlakatdagi sof kapital qiymatini hisoblang.",
-      "options": [
-        "625 mlrd. so'm",
-        "500 mlrd. so'm",
-        "550 mlrd. so'm",
-        "400 mlrd. so'm"
+        "Intensiv o‘sish",
+        "Ekstensiv o‘sish",
+        "Aralash o‘sish",
+        "Innovatsion o‘sish"
       ],
       "correct": 1
     },
     {
-      "text": "Mamlakat milliy daromad hajmi 2000 mlrd. so‘m, jamg‘arish 400 mlrd. so‘m bo‘lsa, mamlakatning jamg‘arish normasini aniqlang.",
+      "text": "Qisqa muddatda ishsizlik darajasining 7 %dan 5 %ga tushirilishi mamlakatda qanday makroiqtisodiy natijaga olib keladi?",
       "options": [
-        "500 mlrd. so'm",
-        "320 mlrd. so'm",
-        "440 mlrd. so'm",
-        "400 mlrd. so'm"
-      ],
-      "correct": 3
-    },
-    {
-      "text": "Korxonada yangi texnologiya joriy etilib, ishchilar soni o‘zgarmasa, ishlab chiqarish hajmi 1000 mlrd. so‘mdan 1300 mlrd. so‘mga oshsa, mehnat unumdorligi o‘sish sur’atini hisoblang.",
-      "options": [
-        "1300 mlrd. so'm",
-        "1040 mlrd. so'm",
-        "1625 mlrd. so'm",
-        "1430 mlrd. so'm"
-      ],
-      "correct": 0
-    },
-    {
-      "text": "Mamlakatda nominal yalpi ichki mahsulot (Nominal YaIM) hajmi 2400 mlrd. so‘mni, narx indeksi (P) 1,20ni tashkil etsa, real yalpi ichki mahsulot (Real YaIM) hajmini aniqlang.",
-      "options": [
-        "2 mlrd. so'm",
-        "1 mlrd. so'm",
-        "1 mlrd. so'm",
-        "1 mlrd. so'm"
-      ],
-      "correct": 2
-    },
-    {
-      "text": "Mamlakatda moddiy boylik 1500 mlrd. so‘m, nomoddiy boylik 300 mlrd. so‘m, tabiiy boylik 700 mlrd. so‘mga teng bo‘lsa, umumiy milliy boylikni hisoblang.",
-      "options": [
-        "875 mlrd. so'm",
-        "770 mlrd. so'm",
-        "700 mlrd. so'm",
-        "560 mlrd. so'm"
-      ],
-      "correct": 2
-    },
-    {
-      "text": "Mamlakatda ishsizlikning tabiiy darajasi 5 %, haqiqiy darajasi 8 %ni tashkil etsa, Ouken qonuniga ko‘ra yalpi ichki mahsulot (YaIM)ning foizdagi yo‘qotilishini aniqlang.",
-      "options": [
-        "8.0%",
-        "6.0%",
-        "12.0%",
-        "9.6%"
-      ],
-      "correct": 0
-    },
-    {
-      "text": "Mamlakatda band aholi soni 18 mln. kishini, ishsizlar soni 2 mln. kishini tashkil etsa, mamlakatdagi ishsizlik darajasini aniqlang.",
-      "options": [
-        "2 mlrd. so'm",
-        "2 mlrd. so'm",
-        "2 mlrd. so'm",
-        "2 mlrd. so'm"
-      ],
-      "correct": 0
-    },
-    {
-      "text": "Mamlakatda potensial yalpi ichki mahsulot (Potensial YaIM) 1000 mlrd. so‘mga, haqiqiy yalpi ichki mahsulot (haqiqiy YaIM) 920 mlrd. so‘mga teng bo‘lsa, mamlakat yalpi ichki mahsulotining uzilish hajmini aniqlang.",
-      "options": [
-        "1012 mlrd. so'm",
-        "1150 mlrd. so'm",
-        "736 mlrd. so'm",
-        "920 mlrd. so'm"
-      ],
-      "correct": 3
-    },
-    {
-      "text": "Mamlakatda bazis yilda narx indeksi (P) 110, joriy yilda esa narx indeksi (P) 121 bo‘lsa, mamlakat inflyatsiya sur’atini aniqlang.",
-      "options": [
-        "97 mlrd. so'm",
-        "133 mlrd. so'm",
-        "151 mlrd. so'm",
-        "121 mlrd. so'm"
-      ],
-      "correct": 3
-    },
-    {
-      "text": "Mamlakat yalpi ichki mahsuloti (YaIM) 2000 mlrd. so‘mga, tashqi qarzi 300 mlrd. so‘mga teng bo‘lsa, tashqi qarzning YaIMga nisbatan ulushini aniqlang.",
-      "options": [
-        "330 mlrd. so'm",
-        "300 mlrd. so'm",
-        "240 mlrd. so'm",
-        "375 mlrd. so'm"
+        "Narxlar pasayadi",
+        "Inflyatsion bosim kuchayadi",
+        "Eksport kamayadi",
+        "Foiz stavkasi pasayadi"
       ],
       "correct": 1
     },
     {
-      "text": "Agar pul massasi real ishlab chiqarish hajmidan 5 baravar ortiq bo‘lsa, mamlakatda qanday makroiqtisodiy holat yuz beradi?",
+      "text": "Jismoniy shaxslarning daromadi 10 mln so‘mdan 20 mln so‘mga, daromad solig‘i stavkasi esa 10 %dan 15 %ga oshsa, bu holat qanday soliq turiga misol bo‘ladi?",
       "options": [
-        "Markaziy bank tomonidan pul taklifi va foiz stavkasini boshqarish",
-        "Davlat byudjeti xarajatlarini oshirish",
-        "Soliq stavkalarini kamaytirish",
-        "Tashqi savdo balansini tartibga solish"
-      ],
-      "correct": 0
-    },
-    {
-      "text": "Qisqa muddatda ishsizlik darajasining 7 % dan 5 % ga tushirilishi mamlakatda qanday makroiqtisodiy natijaga olib keladi?",
-      "options": [
-        "6.0%",
-        "3.8%",
-        "5.0%",
-        "7.5%"
+        "Proporsional soliq",
+        "Regressiv soliq",
+        "Progressiv soliq",
+        "Egri soliq"
       ],
       "correct": 2
     },
     {
-      "text": "Mamlakatda haqiqiy ishsizlik darajasi 9 %, friksion ishsizlik darajasi 3 %, tarkibiy ishsizlik darajasi 2 %ni tashkil etsa, siklik ishsizlik darajasini aniqlang.",
+      "text": "Iqtisodiy pasayish sharoitida xarajatlarni 200 mlrd so‘mga oshirsa va soliqlarni esa kamaytirsa, davlat bu holatda qanday fiskal siyosat olib borgan hisoblanadi?",
       "options": [
-        "3.0%",
-        "2.4%",
-        "2.0%",
-        "1.5%"
-      ],
-      "correct": 2
-    },
-    {
-      "text": "Mamlakatda narx indeksi (P) 2022-yilda 125ga, 2023-yilda esa narx indeksi (P) 150 ga teng bo‘lsa, mamlakat inflyatsiya sur’atini hisoblang.",
-      "options": [
-        "150 mlrd. so'm",
-        "120 mlrd. so'm",
-        "188 mlrd. so'm",
-        "165 mlrd. so'm"
-      ],
-      "correct": 0
-    },
-    {
-      "text": "Mamlakatda jami soliq tushumlari 500 mlrd. so‘mga, yalpi ichki mahsulot (YaIM) hajmi esa 2000 mlrd. so‘mga teng bo‘lsa, soliq yukini hisoblang.",
-      "options": [
-        "2000 mlrd. so'm",
-        "2200 mlrd. so'm",
-        "1600 mlrd. so'm",
-        "2500 mlrd. so'm"
-      ],
-      "correct": 0
-    },
-    {
-      "text": "Davlat byudjeti daromadlari 900 mlrd. so‘m, xarajatlari 1050 mlrd. so‘m Byudjet taqchilligini aniqlang.",
-      "options": [
-        "1050 mlrd. so'm",
-        "1155 mlrd. so'm",
-        "840 mlrd. so'm",
-        "1312 mlrd. so'm"
-      ],
-      "correct": 0
-    },
-    {
-      "text": "Davlat byudjeti daromadlari 1200 mlrd. so‘mni, xarajatlari esa 1050 mlrd. so‘mni tashkil etsa, byudjet natijasini aniqlang.",
-      "options": [
-        "1050 mlrd. so'm",
-        "1155 mlrd. so'm",
-        "1312 mlrd. so'm",
-        "840 mlrd. so'm"
-      ],
-      "correct": 0
-    },
-    {
-      "text": "Jismoniy shaxslarning daromadi 10 mln. so‘mdan 20 mln. so‘mga, daromad soliq stavkasi esa 10 % dan 15 % ga oshsa, bu holat qanday soliq turiga misol bo‘ladi?",
-      "options": [
-        "15.0%",
-        "22.5%",
-        "18.0%",
-        "11.2%"
-      ],
-      "correct": 0
-    },
-    {
-      "text": "Iqtisodiy pasayish sharoitida xarajatlarni 200 mlrd. so‘mga oshirsa va soliqlarni esa kamaytirsa, davlat bu holatda qanday fiskal siyosatni olib brogan hisoblanadi?",
-      "options": [
-        "250 mlrd. so'm",
-        "160 mlrd. so'm",
-        "200 mlrd. so'm",
-        "220 mlrd. so'm"
-      ],
-      "correct": 2
-    },
-    {
-      "text": "Yalpi ichki mahsulot (YaIM)ni oshirish maqsadida davlat ongli ravishda investitsiyalarini ko‘paytirsa, bu qaysi fiskal siyosat turiga misol bo‘la oladi?",
-      "options": [
-        "YaIM = Iste'mol + Investitsiya + Importdan tushum",
-        "YaIM = Iste'mol + Sof eksport - Davlat xaridi",
-        "YaIM = Iste'mol + Investitsiya + Davlat xaridi + Sof eksport",
-        "YaIM = Milliy daromad + Amortizatsiya + Soliqlar"
-      ],
-      "correct": 2
-    },
-    {
-      "text": "Agar mamlakatda soliq stavkasi 100 % ga yetkazilsa, byudjet tushumlarida qanday o‘zgarish bo‘ladi?",
-      "options": [
-        "75.0%",
-        "150.0%",
-        "100.0%",
-        "120.0%"
-      ],
-      "correct": 2
-    },
-    {
-      "text": "Davlat byudjeti daromadlari yalpi ichki mahsulot (YaIM)ga nisbatan 22,6 %, xarajatlari 26,6 % bo‘lsa, byudjet taqchilligi YaIMga nisbatan qanchaga teng?",
-      "options": [
-        "26.6%",
-        "31.9%",
-        "39.9%",
-        "20.0%"
-      ],
-      "correct": 0
-    },
-    {
-      "text": "Q=5000 birlik mahsulot, P=4 ming so‘m, V=2 Fisher tenglamasi asosida muomala uchun zarur pul miqdorini hisoblang.",
-      "options": [
-        "2 mlrd. so'm",
-        "2 mlrd. so'm",
-        "2 mlrd. so'm",
-        "2 mlrd. so'm"
-      ],
-      "correct": 3
-    },
-    {
-      "text": "Bank deposit uchun foiz stavkani 8 %, kredit uchun foiz stavkani 14 % qilib belgiladi. Bank marja miqdorini aniqlang.",
-      "options": [
-        "10.5%",
-        "14.0%",
-        "21.0%",
-        "16.8%"
+        "Restriktiv siyosat",
+        "Rag‘batlantiruvchi fiskal siyosat",
+        "Monetar siyosat",
+        "Deflyatsion siyosat"
       ],
       "correct": 1
     },
     {
-      "text": "Bank depozitlari 300000 mln. so‘m, ehtiyot normasi 15 % bo‘lsa, majburiy ehtiyot summasini aniqlang.",
+      "text": "Yalpi ichki mahsulot (YaIM)ni oshirish maqsadida davlat ongli ravishda investitsiyalarni oshirsa, bu qaysi fiskal siyosat turiga misol bo‘ladi?",
       "options": [
-        "18.0%",
-        "22.5%",
-        "15.0%",
-        "11.2%"
-      ],
-      "correct": 2
-    },
-    {
-      "text": "Agar aholining nominal daromadlari 24 mln. so‘mni, deflyator ko‘rsatkichi 1,20 ni tashkil etsa, aholining real daromadlari hajmini hisoblang.",
-      "options": [
-        "1 mlrd. so'm",
-        "2 mlrd. so'm",
-        "1 mlrd. so'm",
-        "1 mlrd. so'm"
-      ],
-      "correct": 2
-    },
-    {
-      "text": "Agar shaxsning nominal daromadlari 18 mln. so‘m, soliqlar va majburiy to‘lovlar 3 mln. so‘m bo‘lsa, aholining ixtiyorida bo‘lgan daromadlari hajmini aniqlang.",
-      "options": [
-        "3 mlrd. so'm",
-        "3 mlrd. so'm",
-        "4 mlrd. so'm",
-        "2 mlrd. so'm"
+        "Restriktiv fiskal siyosat",
+        "Ekspansion fiskal siyosat",
+        "Neytral siyosat",
+        "Monetar siyosat"
       ],
       "correct": 1
     },
     {
-      "text": "Aholining eng yuqori 10 %i o‘rtacha 24 mln. so‘m daromad olsa, aholining eng past 10 %i o‘rtacha 3 mln. so‘m daromad olsa, ditsel koeffitsiyentini hisoblang.",
+      "text": "Agar mamlakatda soliq stavkasi 100 %ga yetkazilsa, byudjet tushumlarida qanday o‘zgarish bo‘ladi?",
       "options": [
-        "3.6%",
-        "2.2%",
-        "3.0%",
-        "4.5%"
+        "Keskin ortadi",
+        "Nolga yaqinlashadi",
+        "O‘zgarmaydi",
+        "Ikki baravar ortadi"
       ],
-      "correct": 2
-    },
-    {
-      "text": "Aholi nominal daromadi 15 %ga, narxlar darajasi 9 %ga oshsa, aholi real daromadining taxminiy o‘sish sur’atini hisoblang.",
-      "options": [
-        "9.0%",
-        "13.5%",
-        "10.8%",
-        "6.8%"
-      ],
-      "correct": 0
+      "correct": 1
     },
     {
       "text": "Agar Djini koeffitsiyenti 0,25 dan 0,40 ga o‘zgarsa, bunda qanday iqtisodiy holat yuz beradi?",
       "options": [
-        "Davlat monopoliyasini kengaytirish",
-        "Iqtisodiy samaradorlikni oshirish va resurslarni optimal taqsimlash",
-        "Ishlab chiqarish hajmini cheklash va narxlarni oshirish",
-        "Import hajmini maksimal darajada oshirish"
+        "Daromadlar tengligi kuchayadi",
+        "Daromadlar tengsizligi ortadi",
+        "Ishsizlik kamayadi",
+        "Inflyatsiya pasayadi"
       ],
       "correct": 1
-    },
-    {
-      "text": "Mamlakat eksporti 28 mlrd. AQSh dollari, importi esa 34 mlrd. AQSh dollarini tashkil etsa, tashqi iqtisodiy faoliyatning saldo hajmini hisoblang.",
-      "options": [
-        "42 mlrd. so'm",
-        "27 mlrd. so'm",
-        "37 mlrd. so'm",
-        "34 mlrd. so'm"
-      ],
-      "correct": 3
-    },
-    {
-      "text": "Mamlakat eksporti 18 mlrd. dollarga, importi esa 22 mlrd. dollarga teng bo‘lsa, tashqi savdo aylanmasi hajmini aniqlang.",
-      "options": [
-        "18 mlrd. so'm",
-        "24 mlrd. so'm",
-        "28 mlrd. so'm",
-        "22 mlrd. so'm"
-      ],
-      "correct": 3
-    },
-    {
-      "text": "Mamlakat 5 mln. dollarlik tovarni import qilib, 6 mln. dollarga uchinchi davlatga sotdi. Reeksportdan olingan sof daromadni hisoblang.",
-      "options": [
-        "7 mlrd. so'm",
-        "5 mlrd. so'm",
-        "6 mlrd. so'm",
-        "8 mlrd. so'm"
-      ],
-      "correct": 2
-    },
-    {
-      "text": "Mamlakatning tashqi to‘lov balansida eksport hajmi – 55 mlrd. dollar, import hajmi – 48 mlrd. dollar, investitsiyalardan olinadigan sof daromad hajmi – 4 mlrd. dollar, sof transfertlar hajmi – (–3) mlrd. dollar qayd qilingan bo‘lsa, mamlakatning joriy operatsiyalar balansi qoldig‘ini hisoblang.",
-      "options": [
-        "2 mlrd. so'm",
-        "4 mlrd. so'm",
-        "3 mlrd. so'm",
-        "3 mlrd. so'm"
-      ],
-      "correct": 2
-    },
-    {
-      "text": "Buyuk Britaniyaning Funt sterlingi taklifi 250 mlrd. dan 300 mlrd. ga oshdi, natijada ushbu valyutaning kursi 1,18 AQSh dollaridan 1,00 AQSh dollariga tushdi. Buyuk Britaniyaning Funt sterling valyuta kursining pasayish foizini hisoblang.",
-      "options": [
-        "1.2%",
-        "0.8%",
-        "1.5%",
-        "1.0%"
-      ],
-      "correct": 3
     }
   ]
 }
