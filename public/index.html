@@ -1,0 +1,626 @@
+<!DOCTYPE html>
+<html lang="uz">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Online Test Tizimi</title>
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+:root{
+  --bg:#0f172a;--card:#1e293b;--border:#334155;
+  --text:#f1f5f9;--muted:#94a3b8;--accent:#3b82f6;
+  --success:#22c55e;--error:#ef4444;--warn:#f59e0b;--radius:12px;
+}
+body{font-family:'Segoe UI',system-ui,sans-serif;background:var(--bg);color:var(--text);min-height:100vh}
+.hidden{display:none!important}
+
+/* LOGIN */
+#loginPage{min-height:100vh;display:flex;align-items:center;justify-content:center;
+  background:linear-gradient(135deg,#0f172a 0%,#1e1b4b 50%,#0f172a 100%);padding:20px}
+.loginBox{background:var(--card);border:1px solid var(--border);border-radius:20px;
+  padding:48px 40px;width:100%;max-width:400px;box-shadow:0 25px 60px rgba(0,0,0,.5)}
+.loginBox h1{font-size:26px;font-weight:700;margin-bottom:8px;
+  background:linear-gradient(135deg,#60a5fa,#a78bfa);-webkit-background-clip:text;-webkit-text-fill-color:transparent}
+.loginBox p{color:var(--muted);margin-bottom:28px;font-size:14px}
+.formGroup{margin-bottom:18px}
+.formGroup label{display:block;font-size:12px;font-weight:600;color:var(--muted);
+  margin-bottom:7px;text-transform:uppercase;letter-spacing:.5px}
+.formGroup input{width:100%;background:#0f172a;border:1.5px solid var(--border);
+  border-radius:10px;padding:12px 16px;color:var(--text);font-size:15px;outline:none;transition:.2s}
+.formGroup input:focus{border-color:var(--accent)}
+.btnLogin{width:100%;background:linear-gradient(135deg,#3b82f6,#6366f1);border:none;
+  border-radius:10px;padding:13px;color:#fff;font-size:16px;font-weight:600;cursor:pointer;transition:.2s}
+.btnLogin:hover:not(:disabled){opacity:.9;transform:translateY(-1px)}
+.btnLogin:disabled{opacity:.6;cursor:not-allowed;transform:none}
+.loginError{color:var(--error);font-size:13px;margin-top:10px;text-align:center;display:none;
+  padding:8px;background:rgba(239,68,68,.1);border-radius:8px;border:1px solid rgba(239,68,68,.2)}
+
+/* NAVBAR */
+.navbar{background:var(--card);border-bottom:1px solid var(--border);
+  padding:0 24px;height:62px;display:flex;align-items:center;justify-content:space-between;
+  position:sticky;top:0;z-index:100;gap:10px}
+.logo{font-size:17px;font-weight:700;
+  background:linear-gradient(135deg,#60a5fa,#a78bfa);-webkit-background-clip:text;-webkit-text-fill-color:transparent}
+.navRight{display:flex;align-items:center;gap:8px}
+.avatar{width:33px;height:33px;border-radius:50%;flex-shrink:0;
+  background:linear-gradient(135deg,#3b82f6,#6366f1);
+  display:flex;align-items:center;justify-content:center;font-weight:700;font-size:13px}
+.navName{font-size:13px;font-weight:500;white-space:nowrap}
+.btnNav{background:transparent;border:1px solid var(--border);border-radius:7px;
+  padding:5px 11px;color:var(--muted);cursor:pointer;font-size:12px;transition:.2s;white-space:nowrap}
+.btnNav:hover{border-color:var(--accent);color:var(--accent)}
+.btnNavDanger:hover{border-color:var(--error)!important;color:var(--error)!important}
+.adminBadge{background:rgba(245,158,11,.15);border:1px solid rgba(245,158,11,.3);
+  color:var(--warn);border-radius:6px;padding:2px 7px;font-size:11px;font-weight:600}
+
+/* PAGE */
+.pageWrap{padding:32px 24px;max-width:1060px;margin:0 auto}
+.pageTitle{font-size:22px;font-weight:700;margin-bottom:6px}
+.pageSubtitle{color:var(--muted);margin-bottom:28px;font-size:14px}
+
+/* SUBJECTS */
+.subjectsGrid{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:18px}
+.subjectCard{background:var(--card);border:1.5px solid var(--border);border-radius:var(--radius);
+  padding:26px 22px;cursor:pointer;transition:.25s}
+.subjectCard:hover{transform:translateY(-4px);box-shadow:0 16px 40px rgba(0,0,0,.4)}
+.subjectIcon{font-size:36px;margin-bottom:12px;display:block}
+.subjectName{font-size:16px;font-weight:600;margin-bottom:4px}
+.subjectCount{color:var(--muted);font-size:13px}
+.subjectBar{height:3px;border-radius:2px;margin-top:16px}
+
+/* ADMIN */
+.tabs{display:flex;gap:3px;margin-bottom:22px;background:var(--card);border-radius:10px;
+  padding:4px;border:1px solid var(--border);width:fit-content}
+.tab{padding:7px 18px;border-radius:7px;cursor:pointer;font-size:13px;font-weight:500;
+  color:var(--muted);transition:.2s;border:none;background:transparent}
+.tab.active{background:var(--accent);color:#fff}
+.tab:hover:not(.active){color:var(--text)}
+.tableWrap{overflow-x:auto;border-radius:var(--radius);border:1px solid var(--border)}
+table{width:100%;border-collapse:collapse;font-size:13px}
+th{background:#0f172a;padding:11px 14px;text-align:left;font-size:11px;color:var(--muted);
+  text-transform:uppercase;letter-spacing:.5px;font-weight:600}
+td{padding:11px 14px;border-top:1px solid var(--border)}
+tr:hover td{background:rgba(255,255,255,.02)}
+.badge{display:inline-flex;align-items:center;padding:2px 9px;border-radius:20px;font-size:11px;font-weight:600}
+.badge-admin{background:rgba(245,158,11,.15);color:var(--warn);border:1px solid rgba(245,158,11,.25)}
+.badge-student{background:rgba(59,130,246,.15);color:#60a5fa;border:1px solid rgba(59,130,246,.25)}
+.formCard{background:var(--card);border:1px solid var(--border);border-radius:var(--radius);padding:22px;margin-bottom:18px}
+.formCard h3{font-size:15px;font-weight:600;margin-bottom:16px}
+.formRow{display:grid;grid-template-columns:1fr 1fr 1fr auto;gap:10px;align-items:end}
+.fg label{display:block;font-size:11px;color:var(--muted);margin-bottom:5px;font-weight:600;
+  text-transform:uppercase;letter-spacing:.3px}
+.fg input,.fg select{width:100%;background:#0f172a;border:1.5px solid var(--border);
+  border-radius:8px;padding:9px 12px;color:var(--text);font-size:13px;outline:none;transition:.2s}
+.fg input:focus,.fg select:focus{border-color:var(--accent)}
+.btnAdd{background:linear-gradient(135deg,#3b82f6,#6366f1);border:none;border-radius:8px;
+  padding:9px 18px;color:#fff;font-size:13px;font-weight:600;cursor:pointer;transition:.2s;white-space:nowrap}
+.btnAdd:hover:not(:disabled){opacity:.9}
+.btnAdd:disabled{opacity:.5;cursor:not-allowed}
+.btnDel{background:transparent;border:1px solid rgba(239,68,68,.3);border-radius:6px;
+  padding:4px 10px;color:var(--error);cursor:pointer;font-size:11px;transition:.2s}
+.btnDel:hover{background:rgba(239,68,68,.1);border-color:var(--error)}
+.emptyState{text-align:center;padding:40px;color:var(--muted);font-size:14px}
+
+/* TEST */
+.subjectHeader{background:var(--card);border-bottom:1px solid var(--border);
+  padding:16px 24px;display:flex;align-items:center;gap:12px}
+.btnBack{background:transparent;border:1px solid var(--border);border-radius:8px;
+  padding:7px 13px;color:var(--muted);cursor:pointer;font-size:13px;transition:.2s}
+.btnBack:hover{border-color:var(--accent);color:var(--accent)}
+.subjectHeaderInfo h2{font-size:17px;font-weight:600}
+.subjectHeaderInfo p{color:var(--muted);font-size:12px;margin-top:2px}
+.subjectContent{padding:26px;max-width:820px;margin:0 auto}
+.testProgress{background:var(--card);border-bottom:1px solid var(--border);
+  padding:9px 24px;display:flex;align-items:center;gap:12px;font-size:13px;color:var(--muted)}
+.pFill{flex:1;height:5px;background:var(--border);border-radius:3px;overflow:hidden}
+.pInner{height:100%;border-radius:3px;background:linear-gradient(90deg,#3b82f6,#6366f1);transition:width .3s}
+.testControls{display:flex;align-items:center;gap:10px;margin-bottom:22px;flex-wrap:wrap}
+.countSelect{background:var(--card);border:1.5px solid var(--border);border-radius:8px;
+  padding:9px 13px;color:var(--text);font-size:13px;cursor:pointer;outline:none}
+.btnStart{background:linear-gradient(135deg,#3b82f6,#6366f1);border:none;border-radius:9px;
+  padding:9px 22px;color:#fff;font-size:14px;font-weight:600;cursor:pointer;transition:.2s}
+.btnStart:hover:not(:disabled){opacity:.9}
+.btnStart:disabled{opacity:.5;cursor:not-allowed}
+.totalBadge{background:var(--card);border:1px solid var(--border);border-radius:8px;
+  padding:8px 13px;font-size:13px;color:var(--muted)}
+.questionsList{display:flex;flex-direction:column;gap:14px}
+.questionCard{background:var(--card);border:1.5px solid var(--border);border-radius:var(--radius);padding:20px}
+.questionCard.answered-correct{border-color:rgba(34,197,94,.35)}
+.questionCard.answered-wrong{border-color:rgba(239,68,68,.35)}
+.qHeader{display:flex;align-items:flex-start;gap:11px;margin-bottom:14px}
+.qNum{background:var(--accent);color:#fff;min-width:26px;height:26px;border-radius:50%;
+  display:flex;align-items:center;justify-content:center;font-size:11px;font-weight:700;flex-shrink:0;margin-top:2px}
+.qNum.correct{background:var(--success)}.qNum.wrong{background:var(--error)}
+.qText{font-size:14px;line-height:1.65;font-weight:500}
+.optionsList{display:flex;flex-direction:column;gap:7px}
+.optionBtn{background:#0f172a;border:1.5px solid var(--border);border-radius:8px;
+  padding:10px 14px;color:var(--text);font-size:13px;cursor:pointer;text-align:left;transition:.2s;width:100%;line-height:1.4}
+.optionBtn:hover:not(:disabled){border-color:var(--accent);background:#1e293b}
+.optionBtn.correct{border-color:var(--success)!important;background:rgba(34,197,94,.12)!important;color:var(--success)!important}
+.optionBtn.wrong{border-color:var(--error)!important;background:rgba(239,68,68,.12)!important;color:var(--error)!important}
+.optionBtn:disabled{cursor:default;opacity:.85}
+.resultWrap{background:var(--card);border:1px solid var(--border);border-radius:var(--radius);
+  padding:36px;text-align:center;margin-bottom:20px}
+.resultScore{font-size:64px;font-weight:800;line-height:1;
+  background:linear-gradient(135deg,#60a5fa,#a78bfa);-webkit-background-clip:text;-webkit-text-fill-color:transparent}
+.resultLabel{font-size:18px;font-weight:600;margin:10px 0 4px}
+.progressBar{height:9px;background:var(--border);border-radius:5px;overflow:hidden;margin:16px 0}
+.progressFill{height:100%;border-radius:5px;background:linear-gradient(90deg,#3b82f6,#6366f1);transition:width .8s ease}
+.resultStats{display:flex;justify-content:center;gap:24px;margin-top:8px;flex-wrap:wrap}
+.rStat{text-align:center}
+.rStat b{display:block;font-size:24px;font-weight:700}
+.rStat span{font-size:11px;color:var(--muted);text-transform:uppercase;letter-spacing:.5px}
+.btnRetry{background:linear-gradient(135deg,#3b82f6,#6366f1);border:none;border-radius:9px;
+  padding:11px 28px;color:#fff;font-size:14px;font-weight:600;cursor:pointer;margin-top:18px;transition:.2s}
+.btnRetry:hover{opacity:.9}
+.submitWrap{text-align:center;padding:28px 0}
+.btnSubmit{background:linear-gradient(135deg,#059669,#10b981);border:none;border-radius:11px;
+  padding:13px 48px;color:#fff;font-size:15px;font-weight:700;cursor:pointer;transition:.2s}
+.btnSubmit:hover{opacity:.9;transform:translateY(-1px)}
+.loading{display:flex;align-items:center;justify-content:center;gap:10px;
+  padding:48px;color:var(--muted);font-size:14px}
+.spinner{display:inline-block;width:18px;height:18px;border:2px solid var(--border);
+  border-top-color:var(--accent);border-radius:50%;animation:spin .7s linear infinite}
+@keyframes spin{to{transform:rotate(360deg)}}
+
+/* TOAST */
+.toast{position:fixed;bottom:20px;right:20px;background:var(--card);border:1px solid var(--border);
+  border-radius:10px;padding:11px 16px;font-size:13px;z-index:9999;
+  transform:translateY(80px);opacity:0;transition:.3s;box-shadow:0 8px 24px rgba(0,0,0,.3);max-width:280px}
+.toast.show{transform:translateY(0);opacity:1}
+.toast.success{border-color:rgba(34,197,94,.4);color:var(--success)}
+.toast.error{border-color:rgba(239,68,68,.4);color:var(--error)}
+.toast.info{border-color:rgba(59,130,246,.4);color:#60a5fa}
+
+@media(max-width:600px){
+  .navbar,.subjectHeader{padding:0 12px}
+  .pageWrap{padding:18px 12px}.subjectContent{padding:14px 12px}
+  .loginBox{padding:32px 20px}.formRow{grid-template-columns:1fr 1fr;gap:8px}
+  .navName{display:none}
+}
+</style>
+</head>
+<body>
+
+<!-- LOGIN -->
+<div id="loginPage">
+  <div class="loginBox">
+    <h1>&#127891; Online Test</h1>
+    <p>Login va parolni kiriting</p>
+    <div class="formGroup"><label>Login</label>
+      <input type="text" id="loginInput" placeholder="login" autocomplete="username"></div>
+    <div class="formGroup"><label>Parol</label>
+      <input type="password" id="passInput" placeholder="parol" autocomplete="current-password"></div>
+    <button class="btnLogin" id="loginBtn" onclick="doLogin()">Kirish &#8594;</button>
+    <div class="loginError" id="loginError"></div>
+  </div>
+</div>
+
+<!-- STUDENT DASH -->
+<div id="studentDash" class="hidden">
+  <nav class="navbar">
+    <div class="logo">&#127891; Online Test</div>
+    <div class="navRight">
+      <div class="avatar" id="stdAvatar">T</div>
+      <span class="navName" id="stdName"></span>
+      <button class="btnNav btnNavDanger" onclick="doLogout()">Chiqish</button>
+    </div>
+  </nav>
+  <div class="pageWrap">
+    <div class="pageTitle">Fanlarni tanlang</div>
+    <div class="pageSubtitle">Test ishlash uchun fan tanlang</div>
+    <div id="subjectsGrid" class="subjectsGrid"></div>
+  </div>
+</div>
+
+<!-- ADMIN DASH -->
+<div id="adminDash" class="hidden">
+  <nav class="navbar">
+    <div class="logo">&#127891; Online Test</div>
+    <div class="navRight">
+      <span class="adminBadge">ADMIN</span>
+      <div class="avatar" id="admAvatar">A</div>
+      <span class="navName" id="admName"></span>
+      <button class="btnNav btnNavDanger" onclick="doLogout()">Chiqish</button>
+    </div>
+  </nav>
+  <div class="pageWrap">
+    <div class="tabs">
+      <button class="tab active" id="tab-users" onclick="showAdminTab('users')">&#128100; Foydalanuvchilar</button>
+      <button class="tab" id="tab-logs" onclick="showAdminTab('logs')">&#128203; Kirish tarixi</button>
+    </div>
+    <!-- USERS -->
+    <div id="adminUsers">
+      <div class="formCard">
+        <h3>&#10010; Yangi foydalanuvchi qo&#39;shish</h3>
+        <div class="formRow">
+          <div class="fg"><label>To&#39;liq ism</label><input type="text" id="newName" placeholder="Ism Familiya"></div>
+          <div class="fg"><label>Login</label><input type="text" id="newLogin" placeholder="login123"></div>
+          <div class="fg"><label>Parol</label><input type="password" id="newPass" placeholder="parol123"></div>
+          <button class="btnAdd" id="addUserBtn" onclick="addUser()">&#10010; Qo&#39;shish</button>
+        </div>
+      </div>
+      <div class="tableWrap">
+        <table><thead><tr><th>#</th><th>Ism</th><th>Login</th><th>Rol</th><th>So&#39;nggi kirish</th><th>Amal</th></tr></thead>
+        <tbody id="usersTbody"></tbody></table>
+      </div>
+    </div>
+    <!-- LOGS -->
+    <div id="adminLogs" class="hidden">
+      <div style="display:flex;align-items:center;justify-content:space-between;margin-bottom:14px;flex-wrap:wrap;gap:10px">
+        <div>
+          <div class="pageTitle" style="font-size:17px;margin-bottom:2px">Kirish tarixi</div>
+          <div style="color:var(--muted);font-size:13px">Barcha qurilmalardan kirishlar</div>
+        </div>
+        <button class="btnNav" onclick="clearLogs()" style="color:var(--error);border-color:rgba(239,68,68,.3)">&#128465; Tozalash</button>
+      </div>
+      <div class="tableWrap">
+        <table><thead><tr><th>#</th><th>Ism</th><th>Login</th><th>Sana va vaqt</th><th>IP</th><th>Rol</th></tr></thead>
+        <tbody id="logsTbody"></tbody></table>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- SUBJECT/TEST PAGE -->
+<div id="subjectPage" class="hidden">
+  <nav class="navbar">
+    <div class="logo">&#127891; Online Test</div>
+    <div class="navRight">
+      <div class="avatar" id="testAvatar">T</div>
+      <span class="navName" id="testName"></span>
+      <button class="btnNav btnNavDanger" onclick="doLogout()">Chiqish</button>
+    </div>
+  </nav>
+  <div id="testProgressBar" class="testProgress hidden">
+    <span id="progressText">0/0</span>
+    <div class="pFill"><div class="pInner" id="progressInner" style="width:0%"></div></div>
+    <span style="color:var(--success);font-weight:600" id="scoreText">&#10003; 0</span>
+    <span style="color:var(--error);font-weight:600" id="wrongText">&#10007; 0</span>
+  </div>
+  <div class="subjectHeader">
+    <button class="btnBack" onclick="goBack()">&#8592; Orqaga</button>
+    <div class="subjectHeaderInfo">
+      <h2 id="subjectTitle"></h2><p id="subjectDesc"></p>
+    </div>
+  </div>
+  <div class="subjectContent">
+    <div id="resultSection" class="hidden"></div>
+    <div id="testSetupSection">
+      <div class="testControls">
+        <select class="countSelect" id="countSelect">
+          <option value="10">10 ta savol</option>
+          <option value="20">20 ta savol</option>
+          <option value="30">30 ta savol</option>
+          <option value="50">50 ta savol</option>
+          <option value="100">100 ta savol</option>
+          <option value="-1">Barcha savollar</option>
+        </select>
+        <button class="btnStart" id="startBtn" onclick="startTest()">&#9654; Boshlash</button>
+        <div class="totalBadge" id="totalBadge"></div>
+      </div>
+    </div>
+    <div id="questionsContainer" class="questionsList"></div>
+    <div id="submitSection" class="hidden submitWrap">
+      <button class="btnSubmit" onclick="submitTest()">&#10003; Testni yakunlash</button>
+    </div>
+  </div>
+</div>
+
+<div class="toast" id="toast"></div>
+
+<script>
+// ===== API =====
+const API = '';  // same origin
+let TOKEN = localStorage.getItem('ott_token') || '';
+
+async function api(method, url, body) {
+  const opts = {
+    method,
+    headers: { 'Content-Type': 'application/json' }
+  };
+  if (TOKEN) opts.headers['Authorization'] = 'Bearer ' + TOKEN;
+  if (body) opts.body = JSON.stringify(body);
+  const r = await fetch(API + url, opts);
+  const data = await r.json();
+  if (!r.ok) throw new Error(data.error || 'Server xatosi');
+  return data;
+}
+
+// ===== STATE =====
+let currentUser = null, currentSubject = null;
+let testQuestions = [], answered = 0, correct = 0, wrong = 0;
+let currentAdminTab = 'users';
+let subjectsMeta = [];
+
+// ===== AUTH =====
+async function doLogin() {
+  const u = document.getElementById('loginInput').value.trim();
+  const p = document.getElementById('passInput').value.trim();
+  if (!u || !p) { showLoginError('Login va parolni kiriting!'); return; }
+  const btn = document.getElementById('loginBtn');
+  btn.disabled = true; btn.textContent = 'Kirish...';
+  document.getElementById('loginError').style.display = 'none';
+  try {
+    const res = await api('POST', '/api/auth/login', { username: u, password: p });
+    TOKEN = res.token;
+    localStorage.setItem('ott_token', TOKEN);
+    currentUser = res.user;
+    if (currentUser.role === 'admin') showAdminDash();
+    else showStudentDash();
+  } catch(e) {
+    showLoginError(e.message);
+  } finally {
+    btn.disabled = false; btn.innerHTML = 'Kirish &#8594;';
+  }
+}
+function showLoginError(msg) {
+  const el = document.getElementById('loginError');
+  el.textContent = msg; el.style.display = 'block';
+}
+document.getElementById('loginInput').addEventListener('keydown', e => { if(e.key==='Enter') doLogin(); });
+document.getElementById('passInput').addEventListener('keydown', e => { if(e.key==='Enter') doLogin(); });
+
+function doLogout() {
+  TOKEN = ''; localStorage.removeItem('ott_token');
+  currentUser = null; currentSubject = null; testQuestions = [];
+  show('loginPage');
+  document.getElementById('loginInput').value = '';
+  document.getElementById('passInput').value = '';
+}
+
+// ===== NAV =====
+function show(id) {
+  ['loginPage','studentDash','adminDash','subjectPage'].forEach(x => {
+    document.getElementById(x).classList.toggle('hidden', x !== id);
+  });
+}
+function setNavUser(aId, nId) {
+  document.getElementById(aId).textContent = currentUser.name[0].toUpperCase();
+  document.getElementById(nId).textContent = currentUser.name;
+}
+
+// ===== STUDENT DASH =====
+async function showStudentDash() {
+  show('studentDash'); setNavUser('stdAvatar','stdName');
+  const grid = document.getElementById('subjectsGrid');
+  grid.innerHTML = '<div class="loading"><span class="spinner"></span>Fanlar yuklanmoqda...</div>';
+  try {
+    subjectsMeta = await api('GET', '/api/questions/subjects');
+    grid.innerHTML = '';
+    subjectsMeta.forEach(s => {
+      const card = document.createElement('div');
+      card.className = 'subjectCard';
+      card.innerHTML = `<span class="subjectIcon">${s.icon}</span><div class="subjectName">${esc(s.name)}</div><div class="subjectCount">${s.count} ta savol</div><div class="subjectBar" style="background:${s.color}"></div>`;
+      card.onclick = () => openSubject(s);
+      grid.appendChild(card);
+    });
+  } catch(e) { grid.innerHTML = '<div class="emptyState">Xato: ' + esc(e.message) + '</div>'; }
+}
+
+// ===== ADMIN DASH =====
+async function showAdminDash() {
+  show('adminDash'); setNavUser('admAvatar','admName');
+  showAdminTab(currentAdminTab);
+}
+
+function showAdminTab(tab) {
+  currentAdminTab = tab;
+  document.getElementById('adminUsers').classList.toggle('hidden', tab !== 'users');
+  document.getElementById('adminLogs').classList.toggle('hidden', tab !== 'logs');
+  document.getElementById('tab-users').classList.toggle('active', tab === 'users');
+  document.getElementById('tab-logs').classList.toggle('active', tab === 'logs');
+  if (tab === 'users') loadUsers();
+  else loadLogs();
+}
+
+async function loadUsers() {
+  const tbody = document.getElementById('usersTbody');
+  tbody.innerHTML = '<tr><td colspan="6" class="loading"><span class="spinner"></span>Yuklanmoqda...</td></tr>';
+  try {
+    const users = await api('GET', '/api/admin/users');
+    tbody.innerHTML = '';
+    users.forEach((u, i) => {
+      const ll = u.lastLogin ? formatDate(u.lastLogin) : '<span style="color:var(--muted)">Kirmagan</span>';
+      const rb = u.role==='admin' ? '<span class="badge badge-admin">Admin</span>' : '<span class="badge badge-student">Talaba</span>';
+      const db = u.role==='admin' ? '<span style="color:var(--muted);font-size:12px">&#128274;</span>' :
+        `<button class="btnDel" onclick="deleteUser('${u.id}')">&#128465; O'chir</button>`;
+      const tr = document.createElement('tr');
+      tr.innerHTML = `<td style="color:var(--muted)">${i+1}</td><td><b>${esc(u.name)}</b></td><td><code style="background:#0f172a;padding:2px 8px;border-radius:4px;font-size:12px">${esc(u.username)}</code></td><td>${rb}</td><td>${ll}</td><td>${db}</td>`;
+      tbody.appendChild(tr);
+    });
+  } catch(e) { tbody.innerHTML = `<tr><td colspan="6" class="emptyState">Xato: ${esc(e.message)}</td></tr>`; }
+}
+
+async function addUser() {
+  const name  = document.getElementById('newName').value.trim();
+  const login = document.getElementById('newLogin').value.trim();
+  const pass  = document.getElementById('newPass').value.trim();
+  if (!name || !login || !pass) { showToast("Barcha maydonlarni to'ldiring!", 'error'); return; }
+  const btn = document.getElementById('addUserBtn');
+  btn.disabled = true; btn.textContent = 'Saqlanmoqda...';
+  try {
+    await api('POST', '/api/admin/users', { name, username: login, password: pass });
+    document.getElementById('newName').value = '';
+    document.getElementById('newLogin').value = '';
+    document.getElementById('newPass').value = '';
+    await loadUsers();
+    showToast('&#10003; ' + name + " qo'shildi!", 'success');
+  } catch(e) { showToast(e.message, 'error'); }
+  finally { btn.disabled = false; btn.innerHTML = '&#10010; Qo&#39;shish'; }
+}
+
+async function deleteUser(id) {
+  if (!confirm("Bu foydalanuvchini o'chirishni tasdiqlaysizmi?")) return;
+  try {
+    await api('DELETE', '/api/admin/users/' + id);
+    await loadUsers();
+    showToast("O'chirildi", 'success');
+  } catch(e) { showToast(e.message, 'error'); }
+}
+
+async function loadLogs() {
+  const tbody = document.getElementById('logsTbody');
+  tbody.innerHTML = '<tr><td colspan="6" class="loading"><span class="spinner"></span>Yuklanmoqda...</td></tr>';
+  try {
+    const logs = await api('GET', '/api/admin/logs');
+    tbody.innerHTML = '';
+    if (!logs.length) {
+      tbody.innerHTML = '<tr><td colspan="6" class="emptyState">&#128203; Hali hech kim kirmagan</td></tr>';
+      return;
+    }
+    logs.forEach((log, i) => {
+      const rb = log.role==='admin' ? '<span class="badge badge-admin">Admin</span>' : '<span class="badge badge-student">Talaba</span>';
+      const tr = document.createElement('tr');
+      tr.innerHTML = `<td style="color:var(--muted)">${i+1}</td><td><b>${esc(log.name)}</b></td><td><code style="background:#0f172a;padding:2px 8px;border-radius:4px;font-size:12px">${esc(log.username)}</code></td><td>${formatDate(log.time)}</td><td style="color:var(--muted);font-size:12px">${esc(log.ip||'-')}</td><td>${rb}</td>`;
+      tbody.appendChild(tr);
+    });
+  } catch(e) { tbody.innerHTML = `<tr><td colspan="6" class="emptyState">Xato: ${esc(e.message)}</td></tr>`; }
+}
+
+async function clearLogs() {
+  if (!confirm("Barcha kirish tarixini o'chirishni tasdiqlaysizmi?")) return;
+  try { await api('DELETE', '/api/admin/logs'); await loadLogs(); showToast("Tozalandi", 'success'); }
+  catch(e) { showToast(e.message, 'error'); }
+}
+
+// ===== TEST =====
+function openSubject(s) {
+  currentSubject = s; testQuestions = []; answered = 0; correct = 0; wrong = 0;
+  document.getElementById('subjectTitle').textContent = s.icon + ' ' + s.name;
+  document.getElementById('subjectDesc').textContent = (s.count || s.total || '?') + ' ta savol mavjud';
+  document.getElementById('totalBadge').textContent = 'Jami: ' + (s.count || '?') + ' ta savol';
+  document.getElementById('questionsContainer').innerHTML = '';
+  document.getElementById('submitSection').classList.add('hidden');
+  document.getElementById('resultSection').classList.add('hidden');
+  document.getElementById('testSetupSection').classList.remove('hidden');
+  document.getElementById('testProgressBar').classList.add('hidden');
+  setNavUser('testAvatar','testName');
+  show('subjectPage'); window.scrollTo(0,0);
+}
+
+async function startTest() {
+  const count = document.getElementById('countSelect').value;
+  const btn = document.getElementById('startBtn');
+  btn.disabled = true; btn.textContent = 'Yuklanmoqda...';
+  try {
+    const res = await api('GET', `/api/questions/${currentSubject.id}?count=${count}`);
+    testQuestions = res.questions.map(q => ({...q, answered:false, userAnswer:-1}));
+    answered = 0; correct = 0; wrong = 0;
+    document.getElementById('testSetupSection').classList.add('hidden');
+    document.getElementById('resultSection').classList.add('hidden');
+    document.getElementById('submitSection').classList.remove('hidden');
+    document.getElementById('testProgressBar').classList.remove('hidden');
+    updateProgress(); renderQuestions();
+  } catch(e) { showToast('Savollarni yuklashda xato: ' + e.message, 'error'); }
+  finally { btn.disabled = false; btn.innerHTML = '&#9654; Boshlash'; }
+}
+
+function goBack() {
+  if (currentUser.role === 'admin') showAdminDash(); else showStudentDash();
+}
+
+function updateProgress() {
+  const total = testQuestions.length, pct = total ? Math.round(answered/total*100) : 0;
+  document.getElementById('progressText').textContent = answered+'/'+total;
+  document.getElementById('progressInner').style.width = pct+'%';
+  document.getElementById('scoreText').textContent = '\u2713 '+correct;
+  document.getElementById('wrongText').textContent = '\u2717 '+wrong;
+}
+
+function renderQuestions() {
+  const container = document.getElementById('questionsContainer');
+  container.innerHTML = '';
+  const labels = ['A','B','C','D'];
+  testQuestions.forEach((q, idx) => {
+    const card = document.createElement('div');
+    card.className = 'questionCard'; card.id = 'qcard_'+idx;
+    const optHtml = q.options.map((opt,oi) =>
+      `<button class="optionBtn" id="opt_${idx}_${oi}" onclick="selectAnswer(${idx},${oi})"><b>${labels[oi]})</b> ${esc(opt)}</button>`
+    ).join('');
+    card.innerHTML = `<div class="qHeader"><div class="qNum" id="qnum_${idx}">${idx+1}</div><div class="qText">${esc(q.text)}</div></div><div class="optionsList">${optHtml}</div>`;
+    container.appendChild(card);
+  });
+}
+
+function selectAnswer(qIdx, optIdx) {
+  const q = testQuestions[qIdx];
+  if (q.answered) return;
+  q.answered = true; q.userAnswer = optIdx; answered++;
+  const isCorrect = optIdx === q.correct;
+  if (isCorrect) correct++; else wrong++;
+  for (let oi = 0; oi < q.options.length; oi++) {
+    const btn = document.getElementById(`opt_${qIdx}_${oi}`);
+    if (!btn) continue; btn.disabled = true;
+    if (oi === q.correct) btn.classList.add('correct');
+    else if (oi === optIdx && !isCorrect) btn.classList.add('wrong');
+  }
+  const card = document.getElementById('qcard_'+qIdx), num = document.getElementById('qnum_'+qIdx);
+  if (isCorrect) { card.classList.add('answered-correct'); num.classList.add('correct'); }
+  else { card.classList.add('answered-wrong'); num.classList.add('wrong'); }
+  updateProgress();
+}
+
+function submitTest() {
+  testQuestions.forEach((q, idx) => {
+    if (!q.answered) {
+      for (let oi = 0; oi < q.options.length; oi++) {
+        const btn = document.getElementById(`opt_${idx}_${oi}`);
+        if (btn) { btn.disabled = true; if (oi === q.correct) btn.classList.add('correct'); }
+      }
+    }
+  });
+  document.getElementById('submitSection').classList.add('hidden');
+  document.getElementById('testProgressBar').classList.add('hidden');
+  showResult();
+}
+
+function showResult() {
+  const total = testQuestions.length, unanswered = testQuestions.filter(q=>!q.answered).length;
+  const pct = total ? Math.round(correct/total*100) : 0;
+  const label = pct>=90?'\uD83C\uDFC6 Mukammal!':pct>=75?'\uD83D\uDC4D Yaxshi!':pct>=60?'\u2714 Qoniqarli':pct>=40?'\uD83D\uDCDA Ko\'proq o\'qing':'\u2757 Kam ball';
+  const rEl = document.getElementById('resultSection');
+  rEl.innerHTML = `<div class="resultWrap"><div class="resultScore">${pct}%</div><div class="resultLabel">${label}</div><div class="progressBar"><div class="progressFill" style="width:${pct}%"></div></div><div class="resultStats"><div class="rStat"><b style="color:var(--accent)">${total}</b><span>Jami</span></div><div class="rStat"><b style="color:var(--success)">${correct}</b><span>To'g'ri</span></div><div class="rStat"><b style="color:var(--error)">${wrong}</b><span>Xato</span></div><div class="rStat"><b style="color:var(--warn)">${unanswered}</b><span>Javobsiz</span></div></div><button class="btnRetry" onclick="retryTest()">&#8635; Qayta yechish</button></div>`;
+  rEl.classList.remove('hidden');
+  rEl.scrollIntoView({behavior:'smooth'});
+}
+function retryTest() { openSubject(currentSubject); }
+
+// ===== AUTO LOGIN (agar token saqlangan bo'lsa) =====
+(async function autoLogin() {
+  if (!TOKEN) return;
+  try {
+    // Token tekshirish uchun subjects so'rov
+    const meta = await api('GET', '/api/questions/subjects');
+    // Token hali amal qiladi — foydalanuvchini localStorageda qidiramiz
+    const saved = localStorage.getItem('ott_user');
+    if (saved) {
+      currentUser = JSON.parse(saved);
+      subjectsMeta = meta;
+      if (currentUser.role === 'admin') showAdminDash();
+      else showStudentDash();
+    }
+  } catch(e) {
+    TOKEN = ''; localStorage.removeItem('ott_token'); localStorage.removeItem('ott_user');
+  }
+})();
+
+// User ni saqlash login vaqtida
+const origLogin = doLogin;
+
+// ===== UTILS =====
+function esc(s) {
+  return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+}
+function formatDate(iso) {
+  const d = new Date(iso), pad = n => n<10?'0'+n:n;
+  return d.getFullYear()+'-'+pad(d.getMonth()+1)+'-'+pad(d.getDate())+' '+pad(d.getHours())+':'+pad(d.getMinutes())+':'+pad(d.getSeconds());
+}
+function showToast(msg, type) {
+  const t = document.getElementById('toast');
+  t.innerHTML = msg; t.className = 'toast '+(type||''); t.classList.add('show');
+  setTimeout(() => t.classList.remove('show'), 3000);
+}
+</script>
+</body>
+</html>

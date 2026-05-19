@@ -1,0 +1,3558 @@
+{
+  "id": "dinshunoslik",
+  "name": "Dinshunoslik",
+  "icon": "📖",
+  "color": "#dc2626",
+  "questions": [
+    {
+      "text": "Dinning mohiyati nimada namoyon bo‘ladi?",
+      "options": [
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Din jamiyatda qaysi funksiyani bajaradi?",
+      "options": [
+        "Harbiy va diplomatik funksiyalar",
+        "Texnik va ilmiy funksiyalar",
+        "Dunyoqarash, madaniy-ma'rifiy, birlashtiruvchi va qo'llab-quvvatlash funksiyalari",
+        "Faqat iqtisodiy va siyosiy funksiyalar"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Dinshunoslik fanining predmeti nima?",
+      "options": [
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Dinshunoslik quyidagi qaysi fanlar bilan bog‘liq:",
+      "options": [
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "“E’tiqod” tushunchasi nimani anglatadi?",
+      "options": [
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Dinlarni o‘rganishda qiyosiy metod nimani anglatadi?",
+      "options": [
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Tarixiy metod nimaga asoslanadi?",
+      "options": [
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Sotsiologik yondashuv nimani o‘rganadi?",
+      "options": [
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Psixologik metod nimaga qaratilgan?",
+      "options": [
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Totemizm nima?",
+      "options": [
+        "Barcha narsalar jonli ruhga ega deb ishonish",
+        "Jonsiz narsalarga sig'inish va ularni muqaddas deb bilish",
+        "Qabila yoki urug' bilan hayvon/o'simlik o'rtasidagi muqaddas aloqaga ishonish",
+        "Sehrgarlik va jodugarlik orqali tabiatni boshqarish"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Animizm tushunchasi nimani anglatadi?",
+      "options": [
+        "Tabiat kuchlarini ilohiylashtirish va ularga sajda qilish",
+        "Hamma narsa va hodisalarda ruh (jon) mavjud deb ishonish",
+        "Qabila ajdodlariga sig'inish va ularni muhofizakor deb bilish",
+        "Muayyan buyumlarni muqaddas kuch manbai deb bilish"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Fetishizm nima?",
+      "options": [
+        "Muayyan moddiy buyumlarda g'ayritabiiy kuch bor deb ishonish",
+        "Hamma narsada ruh bor deb e'tiqod qilish",
+        "Ajdodlarga sig'inish va ulardan madad so'rash",
+        "Tabiat hodisalarini ilohiy kuch deb tushunish"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Shamanizmda asosiy shaxs kim hisoblanadi?",
+      "options": [
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Ibtidoiy diniy qarashlar asosan nimaga bog‘liq bo‘lgan?",
+      "options": [
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Dinning asosiy tarixiy tiplari quyidagilardan qaysi biri?",
+      "options": [
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Vijdon erkinligi mohiyati nima?",
+      "options": [
+        "Faqat rasmiy dinlarni qabul qilish majburiyati",
+        "Diniy ta'limni maktablarda majburiy o'qitish",
+        "Har bir insonning ixtiyoriy ravishda din tanlash yoki tanlamas huquqi",
+        "Diniy tashkilotlarning davlat nazoratida bo'lishi"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Olamdagi jonsiz narsalarni ilohiylashtirish qaysi dinning xususiyati?",
+      "options": [
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Qabila boshliqlarining shaxsiga sig’insh qaysi dinlarga xos?",
+      "options": [
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Totemizmning asl mohiyati nima?",
+      "options": [
+        "Qabila yoki urug' bilan hayvon/o'simlik o'rtasidagi muqaddas aloqaga ishonish",
+        "Barcha narsalar jonli ruhga ega deb ishonish",
+        "Sehrgarlik va jodugarlik orqali tabiatni boshqarish",
+        "Jonsiz narsalarga sig'inish va ularni muqaddas deb bilish"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "“Animizm”ning ma’nosi nima?",
+      "options": [
+        "Qabila ajdodlariga sig'inish va ularni muhofizakor deb bilish",
+        "Muayyan buyumlarni muqaddas kuch manbai deb bilish",
+        "Hamma narsa va hodisalarda ruh (jon) mavjud deb ishonish",
+        "Tabiat kuchlarini ilohiylashtirish va ularga sajda qilish"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Feteshizm qaysi tildan olingan?",
+      "options": [
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "“Shomon” so’zining ma’nosi nima degan ma’noni anglatadi?",
+      "options": [
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Yahudiylik dinining muqaddas kitobi qaysi?",
+      "options": [
+        "Islom — Muhammad (s.a.v.) ta'limotiga asoslangan din",
+        "Buddaviylik — Sidxartxa Gautama ta'limoti",
+        "Xristianlik — Iso Masih ta'limotiga asoslangan din",
+        "Yahudiylarning milliy monoteistik dini, Tavrot asosida"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Yahudiylik qaysi hududda shakllangan?",
+      "options": [
+        "Xristianlik — Iso Masih ta'limotiga asoslangan din",
+        "Yahudiylarning milliy monoteistik dini, Tavrot asosida",
+        "Islom — Muhammad (s.a.v.) ta'limotiga asoslangan din",
+        "Buddaviylik — Sidxartxa Gautama ta'limoti"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Yahudiylikda ibodatxona qanday ataladi?",
+      "options": [
+        "Yahudiylarning milliy monoteistik dini, Tavrot asosida",
+        "Islom — Muhammad (s.a.v.) ta'limotiga asoslangan din",
+        "Xristianlik — Iso Masih ta'limotiga asoslangan din",
+        "Buddaviylik — Sidxartxa Gautama ta'limoti"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Yahudiylik dinining asoschisi sifatida kim e’tirof etiladi?",
+      "options": [
+        "Xristianlik — Iso Masih ta'limotiga asoslangan din",
+        "Islom — Muhammad (s.a.v.) ta'limotiga asoslangan din",
+        "Buddaviylik — Sidxartxa Gautama ta'limoti",
+        "Yahudiylarning milliy monoteistik dini, Tavrot asosida"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Vedalar qaysi xalqning qadimiy muqaddas yodgorligi hisoblanadi?",
+      "options": [
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Hinduiylikda asosiy uchlik (Trimurti) kimlardan iborat?",
+      "options": [
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Konfutsiylik ta’limoti asoschisi kim?",
+      "options": [
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Konfutsiylikda asosiy e’tibor nimaga qaratilgan?",
+      "options": [
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Daosizm ta’limoti asoschisi:",
+      "options": [
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Daosizmda “Dao” tushunchasi nima?",
+      "options": [
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Sintoizm qaysi mamlakatning milliy dini?",
+      "options": [
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Zardushtiylik dini asoschisi kim?",
+      "options": [
+        "Zardo'sht tomonidan asos solingan, yaxshilik va yomonlik kurashiga asoslangan din",
+        "Xristianlik dini, Injil asosida shakllangan",
+        "Yahudiy dini, Tavrot asosida shakllangan",
+        "Buddaviylik ta'limoti, nirvana g'oyasiga asoslangan"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Zardushtiylikning muqaddas kitobi:",
+      "options": [
+        "Yahudiy dini, Tavrot asosida shakllangan",
+        "Xristianlik dini, Injil asosida shakllangan",
+        "Buddaviylik ta'limoti, nirvana g'oyasiga asoslangan",
+        "Zardo'sht tomonidan asos solingan, yaxshilik va yomonlik kurashiga asoslangan din"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Zardushtiylikda yaxshilik va yomonlik kurashi g‘oyasi kimlar o‘rtasida kechadi?",
+      "options": [
+        "Zardo'sht tomonidan asos solingan, yaxshilik va yomonlik kurashiga asoslangan din",
+        "Xristianlik dini, Injil asosida shakllangan",
+        "Buddaviylik ta'limoti, nirvana g'oyasiga asoslangan",
+        "Yahudiy dini, Tavrot asosida shakllangan"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Zardushtiylik qaysi hududda keng tarqalgan?",
+      "options": [
+        "Buddaviylik ta'limoti, nirvana g'oyasiga asoslangan",
+        "Xristianlik dini, Injil asosida shakllangan",
+        "Zardo'sht tomonidan asos solingan, yaxshilik va yomonlik kurashiga asoslangan din",
+        "Yahudiy dini, Tavrot asosida shakllangan"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Zardushtiylikda eng muqaddas unsur sifatida nima e’zozlanadi?",
+      "options": [
+        "Zardo'sht tomonidan asos solingan, yaxshilik va yomonlik kurashiga asoslangan din",
+        "Xristianlik dini, Injil asosida shakllangan",
+        "Yahudiy dini, Tavrot asosida shakllangan",
+        "Buddaviylik ta'limoti, nirvana g'oyasiga asoslangan"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Quyidagilarning qaysi biri milliy din hisoblanadi?",
+      "options": [
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Politeizm – qanday din hisoblanadi?",
+      "options": [
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "“Xudo to’g’risidagi ta’limot” deya ifodalanuvchi atama qanday nomlanadi?",
+      "options": [
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Jahon dinlari quyidagilardan qaysilari?",
+      "options": [
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "“Avеsto” so‘zining ma'nosi nima?",
+      "options": [
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Zardushtiylik 3 ta tamoyilga tayanadi, bular qaysilar?",
+      "options": [
+        "Yahudiy dini, Tavrot asosida shakllangan",
+        "Buddaviylik ta'limoti, nirvana g'oyasiga asoslangan",
+        "Zardo'sht tomonidan asos solingan, yaxshilik va yomonlik kurashiga asoslangan din",
+        "Xristianlik dini, Injil asosida shakllangan"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Buddaviylik dini asoschisi kim?",
+      "options": [
+        "Zardo'sht tomonidan miloddan avvalgi X asrda Eronda",
+        "Muhammad (s.a.v.) tomonidan VII asrda Arabistonda",
+        "Sidxartxa Gautama tomonidan miloddan avvalgi VI asrda Hindistonda",
+        "Konfutsiy tomonidan miloddan avvalgi V asrda Xitoyda"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Qaysi hudud buddaviylik markazlaridan biri bo‘lgan?",
+      "options": [
+        "Sidxartxa Gautama tomonidan miloddan avvalgi VI asrda Hindistonda",
+        "Muhammad (s.a.v.) tomonidan VII asrda Arabistonda",
+        "Zardo'sht tomonidan miloddan avvalgi X asrda Eronda",
+        "Konfutsiy tomonidan miloddan avvalgi V asrda Xitoyda"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Buddaviylik Markaziy Osiyoga qaysi davlat davrida keng tarqalgan?",
+      "options": [
+        "Sidxartxa Gautama tomonidan miloddan avvalgi VI asrda Hindistonda",
+        "Zardo'sht tomonidan miloddan avvalgi X asrda Eronda",
+        "Muhammad (s.a.v.) tomonidan VII asrda Arabistonda",
+        "Konfutsiy tomonidan miloddan avvalgi V asrda Xitoyda"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "O‘zbekiston hududida topilgan buddaviy yodgorliklar nimani ko‘rsatadi?",
+      "options": [
+        "Muhammad (s.a.v.) tomonidan VII asrda Arabistonda",
+        "Sidxartxa Gautama tomonidan miloddan avvalgi VI asrda Hindistonda",
+        "Konfutsiy tomonidan miloddan avvalgi V asrda Xitoyda",
+        "Zardo'sht tomonidan miloddan avvalgi X asrda Eronda"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "O‘zbekistonda buddaviylik tarixi qaysi fanlar tomonidan o‘rganiladi?",
+      "options": [
+        "Zardo'sht tomonidan miloddan avvalgi X asrda Eronda",
+        "Sidxartxa Gautama tomonidan miloddan avvalgi VI asrda Hindistonda",
+        "Muhammad (s.a.v.) tomonidan VII asrda Arabistonda",
+        "Konfutsiy tomonidan miloddan avvalgi V asrda Xitoyda"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Buddizm dini qachon paydo bo‘ldi?",
+      "options": [
+        "Konfutsiy tomonidan miloddan avvalgi V asrda Xitoyda",
+        "Sidxartxa Gautama tomonidan miloddan avvalgi VI asrda Hindistonda",
+        "Muhammad (s.a.v.) tomonidan VII asrda Arabistonda",
+        "Zardo'sht tomonidan miloddan avvalgi X asrda Eronda"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Eng qadimgi jahon dini qaysi?",
+      "options": [
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Qaysi bir dinning muqaddas kitobi \"Uch savat\" ma'nosini anglatadi?",
+      "options": [
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Buddizm dinidagi \"Katta arava\" deb nomlanadigan ta’limot.",
+      "options": [
+        "Sidxartxa Gautama tomonidan miloddan avvalgi VI asrda Hindistonda",
+        "Zardo'sht tomonidan miloddan avvalgi X asrda Eronda",
+        "Muhammad (s.a.v.) tomonidan VII asrda Arabistonda",
+        "Konfutsiy tomonidan miloddan avvalgi V asrda Xitoyda"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Buddizm dinidagi \"Kichik arava\" deb nomlanadigan ta’limot.",
+      "options": [
+        "Konfutsiy tomonidan miloddan avvalgi V asrda Xitoyda",
+        "Sidxartxa Gautama tomonidan miloddan avvalgi VI asrda Hindistonda",
+        "Muhammad (s.a.v.) tomonidan VII asrda Arabistonda",
+        "Zardo'sht tomonidan miloddan avvalgi X asrda Eronda"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "O‘zbekiston Respublikasi «Vijdon erkinligi va diniy tashkilotlar to‘g’risida»gi Qonunning yangi tahriri qachon qabul qilindi?",
+      "options": [
+        "Diniy ta'limni maktablarda majburiy o'qitish",
+        "Har bir insonning ixtiyoriy ravishda din tanlash yoki tanlamas huquqi",
+        "Faqat rasmiy dinlarni qabul qilish majburiyati",
+        "Diniy tashkilotlarning davlat nazoratida bo'lishi"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Xristianlik qaysi asrda vujudga kelgan?",
+      "options": [
+        "Yahudiylar milliy dini, Qadimgi Isroilda shakllangan",
+        "Muhammad (s.a.v.) asos solgan din, Arabistonda tarqalgan",
+        "Budda ta'limotiga asoslangan din, Hindistonda paydo bo'lgan",
+        "Iso Masih ta'limotiga asoslangan din, I asrda Falastinda vujudga kelgan"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Xristianlik dini asoschisi kim?",
+      "options": [
+        "Iso Masih ta'limotiga asoslangan din, I asrda Falastinda vujudga kelgan",
+        "Budda ta'limotiga asoslangan din, Hindistonda paydo bo'lgan",
+        "Yahudiylar milliy dini, Qadimgi Isroilda shakllangan",
+        "Muhammad (s.a.v.) asos solgan din, Arabistonda tarqalgan"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Xristianlikning muqaddas kitobi:",
+      "options": [
+        "Yahudiylar milliy dini, Qadimgi Isroilda shakllangan",
+        "Budda ta'limotiga asoslangan din, Hindistonda paydo bo'lgan",
+        "Muhammad (s.a.v.) asos solgan din, Arabistonda tarqalgan",
+        "Iso Masih ta'limotiga asoslangan din, I asrda Falastinda vujudga kelgan"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Xristianlik ta’limotida “Troitsa” nima?",
+      "options": [
+        "Iso Masih ta'limotiga asoslangan din, I asrda Falastinda vujudga kelgan",
+        "Yahudiylar milliy dini, Qadimgi Isroilda shakllangan",
+        "Budda ta'limotiga asoslangan din, Hindistonda paydo bo'lgan",
+        "Muhammad (s.a.v.) asos solgan din, Arabistonda tarqalgan"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Xristianlik dastlab qaysi hududda tarqalgan?",
+      "options": [
+        "Budda ta'limotiga asoslangan din, Hindistonda paydo bo'lgan",
+        "Iso Masih ta'limotiga asoslangan din, I asrda Falastinda vujudga kelgan",
+        "Yahudiylar milliy dini, Qadimgi Isroilda shakllangan",
+        "Muhammad (s.a.v.) asos solgan din, Arabistonda tarqalgan"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "“Injil” nima?",
+      "options": [
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Xristianlikda najot (qutqarilish) g‘oyasi nimani anglatadi?",
+      "options": [
+        "Iso Masih ta'limotiga asoslangan din, I asrda Falastinda vujudga kelgan",
+        "Muhammad (s.a.v.) asos solgan din, Arabistonda tarqalgan",
+        "Budda ta'limotiga asoslangan din, Hindistonda paydo bo'lgan",
+        "Yahudiylar milliy dini, Qadimgi Isroilda shakllangan"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Xristianlik ta’limotining asosiy axloqiy g‘oyasi:",
+      "options": [
+        "Iso Masih ta'limotiga asoslangan din, I asrda Falastinda vujudga kelgan",
+        "Muhammad (s.a.v.) asos solgan din, Arabistonda tarqalgan",
+        "Budda ta'limotiga asoslangan din, Hindistonda paydo bo'lgan",
+        "Yahudiylar milliy dini, Qadimgi Isroilda shakllangan"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Xristianlikning asosiy uch yo‘nalishi:",
+      "options": [
+        "Budda ta'limotiga asoslangan din, Hindistonda paydo bo'lgan",
+        "Yahudiylar milliy dini, Qadimgi Isroilda shakllangan",
+        "Muhammad (s.a.v.) asos solgan din, Arabistonda tarqalgan",
+        "Iso Masih ta'limotiga asoslangan din, I asrda Falastinda vujudga kelgan"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Katolik cherkovining markazi qaysi shaharda joylashgan?",
+      "options": [
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Katolitsizmda oliy diniy rahbar kim?",
+      "options": [
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Pravoslavieda ibodat qaysi tillarda o‘tkazilishi mumkin?",
+      "options": [
+        "Kuniga 5 mahal — bomdod, peshin, asr, shom, xufton",
+        "Haftada bir marta — juma kuni",
+        "Kuniga 3 mahal — ertalab, tushdan keyin, kechqurun",
+        "Oyda bir marta — ramazon oyida"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Protestantlikning o‘ziga xos jihati:",
+      "options": [
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Xristianlik Markaziy Osiyoga qaysi asrlarda kirib kelgan?",
+      "options": [
+        "Muhammad (s.a.v.) asos solgan din, Arabistonda tarqalgan",
+        "Yahudiylar milliy dini, Qadimgi Isroilda shakllangan",
+        "Iso Masih ta'limotiga asoslangan din, I asrda Falastinda vujudga kelgan",
+        "Budda ta'limotiga asoslangan din, Hindistonda paydo bo'lgan"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Hozirgi kunda O‘zbekistonda qaysi xristian konfessiyalari faoliyat yuritadi?",
+      "options": [
+        "Iso Masih ta'limotiga asoslangan din, I asrda Falastinda vujudga kelgan",
+        "Budda ta'limotiga asoslangan din, Hindistonda paydo bo'lgan",
+        "Muhammad (s.a.v.) asos solgan din, Arabistonda tarqalgan",
+        "Yahudiylar milliy dini, Qadimgi Isroilda shakllangan"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Toshkentdagi pravoslav cherkovi qaysi patriarxatga qarashli?",
+      "options": [
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "O‘zbekiston Konstitutsiyasida din masalasi qanday belgilangan?",
+      "options": [
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Xristian jamoalari O‘zbekistonda qaysi tamoyil asosida faoliyat yuritadi?",
+      "options": [
+        "Yahudiylar milliy dini, Qadimgi Isroilda shakllangan",
+        "Budda ta'limotiga asoslangan din, Hindistonda paydo bo'lgan",
+        "Muhammad (s.a.v.) asos solgan din, Arabistonda tarqalgan",
+        "Iso Masih ta'limotiga asoslangan din, I asrda Falastinda vujudga kelgan"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Hozirgi kunda O‘zbekistonda diniy bag‘rikenglik siyosati nimani ko‘zlaydi?",
+      "options": [
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Xristianlik dinidagi bo‘linish qachon sodir bo‘ldi?",
+      "options": [
+        "Iso Masih ta'limotiga asoslangan din, I asrda Falastinda vujudga kelgan",
+        "Yahudiylar milliy dini, Qadimgi Isroilda shakllangan",
+        "Muhammad (s.a.v.) asos solgan din, Arabistonda tarqalgan",
+        "Budda ta'limotiga asoslangan din, Hindistonda paydo bo'lgan"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Katolik oqimining bosh ruhoniysi to‘g‘ri ko‘rsatilgan javobni belgilang?",
+      "options": [
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Xristianlikning asosiy oqimlari qaysi oqimlar hisoblanadi?",
+      "options": [
+        "Yahudiylar milliy dini, Qadimgi Isroilda shakllangan",
+        "Iso Masih ta'limotiga asoslangan din, I asrda Falastinda vujudga kelgan",
+        "Muhammad (s.a.v.) asos solgan din, Arabistonda tarqalgan",
+        "Budda ta'limotiga asoslangan din, Hindistonda paydo bo'lgan"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "«Xristianlik» iborasi qanday ma’noni anglatadi",
+      "options": [
+        "Iso Masih ta'limotiga asoslangan din, I asrda Falastinda vujudga kelgan",
+        "Muhammad (s.a.v.) asos solgan din, Arabistonda tarqalgan",
+        "Budda ta'limotiga asoslangan din, Hindistonda paydo bo'lgan",
+        "Yahudiylar milliy dini, Qadimgi Isroilda shakllangan"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Iso Masihning hayoti va faoliyati Bibliya (Injil)ning qaysi qismida bayon etilgan?",
+      "options": [
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Iso Masihning onasini ismi to‘g‘ri ko‘rsatilgan javobni belgilang?",
+      "options": [
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Isoning 12 shogirdlari qanday nom bilan ataladi?",
+      "options": [
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Xristianlik dinidagi Miro moyi surtish marosimida qaysi mahsulotning yog‘idan foylalanilgan?",
+      "options": [
+        "Yahudiylar milliy dini, Qadimgi Isroilda shakllangan",
+        "Iso Masih ta'limotiga asoslangan din, I asrda Falastinda vujudga kelgan",
+        "Budda ta'limotiga asoslangan din, Hindistonda paydo bo'lgan",
+        "Muhammad (s.a.v.) asos solgan din, Arabistonda tarqalgan"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Injilga koʻra Iso..?",
+      "options": [
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Iso Masihga qaysi muqaddas kitob nozil qilingan?",
+      "options": [
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Islom dini VII asrda qaerda paydo bo‘lgan?",
+      "options": [
+        "Muso payg'ambar tomonidan miloddan avvalgi XV asrda",
+        "Iso Masih tomonidan I asrda Falastinda",
+        "Muhammad (s.a.v.) tomonidan VII asrda Arabiston yarim orolida",
+        "Budda tomonidan miloddan avvalgi VI asrda Hindistonda"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Islom dini paydo bo‘lgan davrda Arabistonda asosan qanday tuzum hukm surgan?",
+      "options": [
+        "Muso payg'ambar tomonidan miloddan avvalgi XV asrda",
+        "Budda tomonidan miloddan avvalgi VI asrda Hindistonda",
+        "Muhammad (s.a.v.) tomonidan VII asrda Arabiston yarim orolida",
+        "Iso Masih tomonidan I asrda Falastinda"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Islomdan oldingi davr arab jamiyati qanday nom bilan ataladi?",
+      "options": [
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Islom dini qaysi shaharda vujudga kelgan?",
+      "options": [
+        "Muhammad (s.a.v.) tomonidan VII asrda Arabiston yarim orolida",
+        "Iso Masih tomonidan I asrda Falastinda",
+        "Muso payg'ambar tomonidan miloddan avvalgi XV asrda",
+        "Budda tomonidan miloddan avvalgi VI asrda Hindistonda"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Islom dinining asoschisi kim?",
+      "options": [
+        "Iso Masih tomonidan I asrda Falastinda",
+        "Muso payg'ambar tomonidan miloddan avvalgi XV asrda",
+        "Muhammad (s.a.v.) tomonidan VII asrda Arabiston yarim orolida",
+        "Budda tomonidan miloddan avvalgi VI asrda Hindistonda"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Islom arafasida Arabistonda asosiy e’tiqod qanday bo‘lgan?",
+      "options": [
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Islom dinining birinchi arkoni nima?",
+      "options": [
+        "Kuniga 3 mahal — ertalab, tushdan keyin, kechqurun",
+        "Oyda bir marta — ramazon oyida",
+        "Haftada bir marta — juma kuni",
+        "Kuniga 5 mahal — bomdod, peshin, asr, shom, xufton"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Quyidagilardan qaysi biri Islomning besh arkoniga kirmaydi?",
+      "options": [
+        "Oyda bir marta — ramazon oyida",
+        "Kuniga 5 mahal — bomdod, peshin, asr, shom, xufton",
+        "Kuniga 3 mahal — ertalab, tushdan keyin, kechqurun",
+        "Haftada bir marta — juma kuni"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Bir kunda necha mahal namoz o‘qish farz qilingan?",
+      "options": [
+        "Haftada bir marta — juma kuni",
+        "Kuniga 3 mahal — ertalab, tushdan keyin, kechqurun",
+        "Kuniga 5 mahal — bomdod, peshin, asr, shom, xufton",
+        "Oyda bir marta — ramazon oyida"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Ramazon oyida tutiladigan ibodat qaysi?",
+      "options": [
+        "Kuniga 5 mahal — bomdod, peshin, asr, shom, xufton",
+        "Kuniga 3 mahal — ertalab, tushdan keyin, kechqurun",
+        "Haftada bir marta — juma kuni",
+        "Oyda bir marta — ramazon oyida"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Mol-mulkdan beriladigan majburiy sadaqa nima deb ataladi?",
+      "options": [
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Qodir bo‘lgan musulmon umrida kamida bir marta ado etishi lozim bo‘lgan amal:",
+      "options": [
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Muhammad (s.a.v.) vafotidan so‘ng rahbarlik masalasi qaysi oqimlarning shakllanishiga sabab bo‘ldi?",
+      "options": [
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "O‘rta darajali test",
+      "options": [
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Dinning integrativ funksiyasi nimani anglatadi?",
+      "options": [
+        "Harbiy va diplomatik funksiyalar",
+        "Dunyoqarash, madaniy-ma'rifiy, birlashtiruvchi va qo'llab-quvvatlash funksiyalari",
+        "Texnik va ilmiy funksiyalar",
+        "Faqat iqtisodiy va siyosiy funksiyalar"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Dinning kompensatorlik funksiyasi nimani bildiradi?",
+      "options": [
+        "Harbiy va diplomatik funksiyalar",
+        "Dunyoqarash, madaniy-ma'rifiy, birlashtiruvchi va qo'llab-quvvatlash funksiyalari",
+        "Texnik va ilmiy funksiyalar",
+        "Faqat iqtisodiy va siyosiy funksiyalar"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Dinning dunyoqarash funksiyasi nimaga xizmat qiladi?",
+      "options": [
+        "Harbiy va diplomatik funksiyalar",
+        "Dunyoqarash, madaniy-ma'rifiy, birlashtiruvchi va qo'llab-quvvatlash funksiyalari",
+        "Texnik va ilmiy funksiyalar",
+        "Faqat iqtisodiy va siyosiy funksiyalar"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Dinshunoslik fanining asosiy vazifasi:",
+      "options": [
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Dinshunoslikning tahliliy funksiyasi nimani ko‘zda tutadi?",
+      "options": [
+        "Harbiy va diplomatik funksiyalar",
+        "Dunyoqarash, madaniy-ma'rifiy, birlashtiruvchi va qo'llab-quvvatlash funksiyalari",
+        "Faqat iqtisodiy va siyosiy funksiyalar",
+        "Texnik va ilmiy funksiyalar"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Fenomenologik metodning maqsadi:",
+      "options": [
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Dinning ijtimoiy ildizlari?",
+      "options": [
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Upanishadlar asosan nimani yoritadi?",
+      "options": [
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Hinduiylikda “karma” tushunchasi nima?",
+      "options": [
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Hinduiylikda ruhning qayta tug‘ilishi qanday ataladi?",
+      "options": [
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "In va Yan ramzi nimani anglatadi?",
+      "options": [
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Sintoizmda “kami” tushunchasi nimani anglatadi?",
+      "options": [
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Sintoizm asosan nimaga tayanadi?",
+      "options": [
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Sinto ibodatxonalari qanday ataladi?",
+      "options": [
+        "Kuniga 3 mahal — ertalab, tushdan keyin, kechqurun",
+        "Haftada bir marta — juma kuni",
+        "Kuniga 5 mahal — bomdod, peshin, asr, shom, xufton",
+        "Oyda bir marta — ramazon oyida"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Sintoizmda muqaddas yozma manbalardan biri:",
+      "options": [
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "“Avеsto”ning 2700 yilligi qachon nishonlangan?",
+      "options": [
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Buddaviylik qaysi asrda vujudga kelgan?",
+      "options": [
+        "Zardo'sht tomonidan miloddan avvalgi X asrda Eronda",
+        "Muhammad (s.a.v.) tomonidan VII asrda Arabistonda",
+        "Sidxartxa Gautama tomonidan miloddan avvalgi VI asrda Hindistonda",
+        "Konfutsiy tomonidan miloddan avvalgi V asrda Xitoyda"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Buddaviylik ta’limotining asosi nimadan iborat?",
+      "options": [
+        "Muhammad (s.a.v.) tomonidan VII asrda Arabistonda",
+        "Sidxartxa Gautama tomonidan miloddan avvalgi VI asrda Hindistonda",
+        "Konfutsiy tomonidan miloddan avvalgi V asrda Xitoyda",
+        "Zardo'sht tomonidan miloddan avvalgi X asrda Eronda"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "“Nirvana” tushunchasi nimani anglatadi?",
+      "options": [
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Buddaviylikning muqaddas manbasi:",
+      "options": [
+        "Zardo'sht tomonidan miloddan avvalgi X asrda Eronda",
+        "Muhammad (s.a.v.) tomonidan VII asrda Arabistonda",
+        "Konfutsiy tomonidan miloddan avvalgi V asrda Xitoyda",
+        "Sidxartxa Gautama tomonidan miloddan avvalgi VI asrda Hindistonda"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Buddaviylikda “karma” nima?",
+      "options": [
+        "Konfutsiy tomonidan miloddan avvalgi V asrda Xitoyda",
+        "Sidxartxa Gautama tomonidan miloddan avvalgi VI asrda Hindistonda",
+        "Zardo'sht tomonidan miloddan avvalgi X asrda Eronda",
+        "Muhammad (s.a.v.) tomonidan VII asrda Arabistonda"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Buddaviylikning asosiy oqimlari:",
+      "options": [
+        "Konfutsiy tomonidan miloddan avvalgi V asrda Xitoyda",
+        "Sidxartxa Gautama tomonidan miloddan avvalgi VI asrda Hindistonda",
+        "Zardo'sht tomonidan miloddan avvalgi X asrda Eronda",
+        "Muhammad (s.a.v.) tomonidan VII asrda Arabistonda"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Sakkiz bosqichli yo‘l nimani ko‘zlaydi?",
+      "options": [
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Maxayana asosan qaysi hududlarda tarqalgan?",
+      "options": [
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Xinayana qaysi mamlakatlarda keng tarqalgan?",
+      "options": [
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Vajrayana yo‘nalishi asosan qaysi hududga xos?",
+      "options": [
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Zen-buddizm qaysi mamlakat bilan bog‘liq?",
+      "options": [
+        "Zardo'sht tomonidan miloddan avvalgi X asrda Eronda",
+        "Konfutsiy tomonidan miloddan avvalgi V asrda Xitoyda",
+        "Sidxartxa Gautama tomonidan miloddan avvalgi VI asrda Hindistonda",
+        "Muhammad (s.a.v.) tomonidan VII asrda Arabistonda"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Dalay Lama qaysi yo‘nalish rahnamosi hisoblanadi?",
+      "options": [
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Global buddaviylikning zamonaviy xususiyati:",
+      "options": [
+        "Sidxartxa Gautama tomonidan miloddan avvalgi VI asrda Hindistonda",
+        "Konfutsiy tomonidan miloddan avvalgi V asrda Xitoyda",
+        "Zardo'sht tomonidan miloddan avvalgi X asrda Eronda",
+        "Muhammad (s.a.v.) tomonidan VII asrda Arabistonda"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Buddaviylikning zamonaviy globallashuviga qaysi omil ta’sir etgan?",
+      "options": [
+        "Sidxartxa Gautama tomonidan miloddan avvalgi VI asrda Hindistonda",
+        "Muhammad (s.a.v.) tomonidan VII asrda Arabistonda",
+        "Zardo'sht tomonidan miloddan avvalgi X asrda Eronda",
+        "Konfutsiy tomonidan miloddan avvalgi V asrda Xitoyda"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Buddaviylikda “bodxisattva” tushunchasi:",
+      "options": [
+        "Konfutsiy tomonidan miloddan avvalgi V asrda Xitoyda",
+        "Muhammad (s.a.v.) tomonidan VII asrda Arabistonda",
+        "Zardo'sht tomonidan miloddan avvalgi X asrda Eronda",
+        "Sidxartxa Gautama tomonidan miloddan avvalgi VI asrda Hindistonda"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Qora-Tepa yodgorligi qaysi viloyatda joylashgan?",
+      "options": [
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Fayoztepa yodgorligi qaysi din bilan bog‘liq?",
+      "options": [
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Markaziy Osiyoda buddaviylikning susayishi qaysi omil bilan bog‘liq?",
+      "options": [
+        "Zardo'sht tomonidan miloddan avvalgi X asrda Eronda",
+        "Muhammad (s.a.v.) tomonidan VII asrda Arabistonda",
+        "Sidxartxa Gautama tomonidan miloddan avvalgi VI asrda Hindistonda",
+        "Konfutsiy tomonidan miloddan avvalgi V asrda Xitoyda"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Dalvarzintepa qaysi davr yodgorligi hisoblanadi?",
+      "options": [
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Buddizmda qayta tug‘ilish zanjiri nima?",
+      "options": [
+        "Sidxartxa Gautama tomonidan miloddan avvalgi VI asrda Hindistonda",
+        "Konfutsiy tomonidan miloddan avvalgi V asrda Xitoyda",
+        "Muhammad (s.a.v.) tomonidan VII asrda Arabistonda",
+        "Zardo'sht tomonidan miloddan avvalgi X asrda Eronda"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Budda ta’limotining asosida qanday g‘oyalar yotadi?",
+      "options": [
+        "Muhammad (s.a.v.) tomonidan VII asrda Arabistonda",
+        "Zardo'sht tomonidan miloddan avvalgi X asrda Eronda",
+        "Konfutsiy tomonidan miloddan avvalgi V asrda Xitoyda",
+        "Sidxartxa Gautama tomonidan miloddan avvalgi VI asrda Hindistonda"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Buddizm Markaziy Osiyoda qachon tarqalgan?",
+      "options": [
+        "Sidxartxa Gautama tomonidan miloddan avvalgi VI asrda Hindistonda",
+        "Muhammad (s.a.v.) tomonidan VII asrda Arabistonda",
+        "Konfutsiy tomonidan miloddan avvalgi V asrda Xitoyda",
+        "Zardo'sht tomonidan miloddan avvalgi X asrda Eronda"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Pravoslavie qachon katoliklikdan ajralib chiqqan?",
+      "options": [
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Protestantizm qaysi voqeadan so‘ng shakllangan?",
+      "options": [
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Protestantizm asoschisi sifatida kim taniladi?",
+      "options": [
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Katolitsizmda oliy diniy rahbar kim?",
+      "options": [
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Pravoslavieda ibodat qaysi tillarda o‘tkazilishi mumkin?",
+      "options": [
+        "Haftada bir marta — juma kuni",
+        "Kuniga 5 mahal — bomdod, peshin, asr, shom, xufton",
+        "Oyda bir marta — ramazon oyida",
+        "Kuniga 3 mahal — ertalab, tushdan keyin, kechqurun"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Protestantlikning o‘ziga xos jihati:",
+      "options": [
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Xristianlik Markaziy Osiyoga qaysi asrlarda kirib kelgan?",
+      "options": [
+        "Yahudiylar milliy dini, Qadimgi Isroilda shakllangan",
+        "Iso Masih ta'limotiga asoslangan din, I asrda Falastinda vujudga kelgan",
+        "Muhammad (s.a.v.) asos solgan din, Arabistonda tarqalgan",
+        "Budda ta'limotiga asoslangan din, Hindistonda paydo bo'lgan"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Qadimda Markaziy Osiyoda qaysi xristian yo‘nalishi mavjud bo‘lgan?",
+      "options": [
+        "Budda ta'limotiga asoslangan din, Hindistonda paydo bo'lgan",
+        "Iso Masih ta'limotiga asoslangan din, I asrda Falastinda vujudga kelgan",
+        "Muhammad (s.a.v.) asos solgan din, Arabistonda tarqalgan",
+        "Yahudiylar milliy dini, Qadimgi Isroilda shakllangan"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Rossiya imperiyasi davrida O‘zbekiston hududida qaysi yo‘nalish keng tarqalgan?",
+      "options": [
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Markaziy Osiyodagi eng qadimiy xristian yodgorliklari qaysi davrga tegishli?",
+      "options": [
+        "Muhammad (s.a.v.) asos solgan din, Arabistonda tarqalgan",
+        "Budda ta'limotiga asoslangan din, Hindistonda paydo bo'lgan",
+        "Yahudiylar milliy dini, Qadimgi Isroilda shakllangan",
+        "Iso Masih ta'limotiga asoslangan din, I asrda Falastinda vujudga kelgan"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Iso Masix dastlab diniy qarashlarini qaysi hududlarda targ‘ib qilishdan boshlagan?",
+      "options": [
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Xristianlikdagi oliy darajadagi ruhoniylik unvoni ?",
+      "options": [
+        "Muhammad (s.a.v.) asos solgan din, Arabistonda tarqalgan",
+        "Budda ta'limotiga asoslangan din, Hindistonda paydo bo'lgan",
+        "Iso Masih ta'limotiga asoslangan din, I asrda Falastinda vujudga kelgan",
+        "Yahudiylar milliy dini, Qadimgi Isroilda shakllangan"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "To‘g‘ri e’tiqod ma’nosini beruvchi xristianlikning sharqiy yo‘nalishi qanday nomlanadi?",
+      "options": [
+        "Yahudiylar milliy dini, Qadimgi Isroilda shakllangan",
+        "Muhammad (s.a.v.) asos solgan din, Arabistonda tarqalgan",
+        "Iso Masih ta'limotiga asoslangan din, I asrda Falastinda vujudga kelgan",
+        "Budda ta'limotiga asoslangan din, Hindistonda paydo bo'lgan"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Xristianlik dini muqaddas manbalarini belgilang?",
+      "options": [
+        "Yahudiylar milliy dini, Qadimgi Isroilda shakllangan",
+        "Muhammad (s.a.v.) asos solgan din, Arabistonda tarqalgan",
+        "Budda ta'limotiga asoslangan din, Hindistonda paydo bo'lgan",
+        "Iso Masih ta'limotiga asoslangan din, I asrda Falastinda vujudga kelgan"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Xristianlik diniga ko‘ra apostollar (havoriylar) soni nechta deb keltiriladi?",
+      "options": [
+        "Yahudiylar milliy dini, Qadimgi Isroilda shakllangan",
+        "Muhammad (s.a.v.) asos solgan din, Arabistonda tarqalgan",
+        "Iso Masih ta'limotiga asoslangan din, I asrda Falastinda vujudga kelgan",
+        "Budda ta'limotiga asoslangan din, Hindistonda paydo bo'lgan"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Xristianlik dinida Rojdestvo Xristovo qanday bayram hisoblanadi?",
+      "options": [
+        "Budda ta'limotiga asoslangan din, Hindistonda paydo bo'lgan",
+        "Yahudiylar milliy dini, Qadimgi Isroilda shakllangan",
+        "Iso Masih ta'limotiga asoslangan din, I asrda Falastinda vujudga kelgan",
+        "Muhammad (s.a.v.) asos solgan din, Arabistonda tarqalgan"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "O‘zbekiston Konstitusiyasining qaysi moddalari din masalalariga bag’ishlangan?",
+      "options": [
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Islomda eng katta yo‘nalish qaysi?",
+      "options": [
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Shialik oqimi asosan kimni qonuniy voris deb biladi?",
+      "options": [
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Islom tarixida ilk siyosiy-diniy guruh sifatida qaysi oqim ajralib chiqqan?",
+      "options": [
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Sunniylikda to‘rt mazhabdan biri qaysi?",
+      "options": [
+        "Hanafiy, Molikiy, Shofe'iy, Hanbaliy — to'rt asosiy sunniy mazhab",
+        "Tasavvuf, Sufizm, Vahhobizm — mistik oqimlar",
+        "Buddaviylik, Xristianlik, Islom — jahon dinlari",
+        "Shia, Sunna, Xorijiy — siyosiy-diniy oqimlar"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "O‘rta Osiyoda keng tarqalgan sunniy mazhab:",
+      "options": [
+        "Buddaviylik, Xristianlik, Islom — jahon dinlari",
+        "Shia, Sunna, Xorijiy — siyosiy-diniy oqimlar",
+        "Tasavvuf, Sufizm, Vahhobizm — mistik oqimlar",
+        "Hanafiy, Molikiy, Shofe'iy, Hanbaliy — to'rt asosiy sunniy mazhab"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Islom dini qachon paydo bo‘ldi?",
+      "options": [
+        "Muso payg'ambar tomonidan miloddan avvalgi XV asrda",
+        "Budda tomonidan miloddan avvalgi VI asrda Hindistonda",
+        "Iso Masih tomonidan I asrda Falastinda",
+        "Muhammad (s.a.v.) tomonidan VII asrda Arabiston yarim orolida"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Hadis nima?",
+      "options": [
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Islom dinining Muqaddas kitobi nima deb ataladi?",
+      "options": [
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Musulmon huquqshunosligidagi Shariat manbalari …",
+      "options": [
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Islomda ro‘za necha kun tutiladi?",
+      "options": [
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Islom ilohiyotining muhim soxasi - musulmon huquqshunosligi qanday nomlanadi?",
+      "options": [
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Marg’inoniyning \"Xidoya\" asarining ma'nosi nima?",
+      "options": [
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Marg’inoniyning qaysi asari XII asrdan buyon mukammal huquqiy manba sifatida o‘z ahamiyatini yo‘qotmagan?",
+      "options": [
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "«Diling Ollohda, qo‘ling mеhnatda bo‘lsin» hikmatining muallifi kim?",
+      "options": [
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "“Tarbiya biz uchun yo hayot – yo mamot, yo najot – yo halokat, yo saodat – yo falokat masalasi” so‘zlari qaysi ma'rifatparvar olim qalamiga mansub?",
+      "options": [
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "“Ribo” soʼzining lugʼaviy maʼnosini aniqlang?",
+      "options": [
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Islom dinida tashqi savdoni moliyalashtirish usuli?",
+      "options": [
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Payg‘ambar vafotidan so‘ng birinchi xalifa kim bo‘lgan?",
+      "options": [
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Din arab tilida qanday ma’noni anglatadi?",
+      "options": [
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Musulmon davlatining to‘rtinchi rahbari etib kim saylangan?",
+      "options": [
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "“Fiqh” so‘zi qanday ma’noni bildiradi?",
+      "options": [
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Fiqhning asosiy manbasiga quyidagi manbalardan qaysi qatordagisi kiradi?",
+      "options": [
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Muqaddas Ka’ba qayerda joylashgan?",
+      "options": [
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Qurbonlik – bu?:",
+      "options": [
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Payg’ambar – bu?",
+      "options": [
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Turkiy xalqlarning qadimgi etiqodi…?",
+      "options": [
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Qur’onda suralarning soni?",
+      "options": [
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Islom dini qayerda vujudga kelgan?",
+      "options": [
+        "Muhammad (s.a.v.) tomonidan VII asrda Arabiston yarim orolida",
+        "Iso Masih tomonidan I asrda Falastinda",
+        "Muso payg'ambar tomonidan miloddan avvalgi XV asrda",
+        "Budda tomonidan miloddan avvalgi VI asrda Hindistonda"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "“Oyat” so‘zining ma’nosi?",
+      "options": [
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Muhammad (s.a.v.) qayerda tavallud topganlar?",
+      "options": [
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "So‘fizm so‘zining m’anosi?",
+      "options": [
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "So‘fizm ta’limotining asosi?",
+      "options": [
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Hadislarni yig’uvchi, sharhlovchi, targ’ib etuvchi shaxslar qanday nomlanadi?",
+      "options": [
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Islomdagi ikki asosiy oqimlar…?",
+      "options": [
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Eng so‘nggi payg’ambar…?",
+      "options": [
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Islomning asosiy arkonlari nechta?",
+      "options": [
+        "Oyda bir marta — ramazon oyida",
+        "Kuniga 3 mahal — ertalab, tushdan keyin, kechqurun",
+        "Kuniga 5 mahal — bomdod, peshin, asr, shom, xufton",
+        "Haftada bir marta — juma kuni"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Abu Bakr, Umar, Usmon, Ali – islom tarixida kim deb tanilganlar?",
+      "options": [
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Islomning tasavvuf ta’limoti qanday ataladi?",
+      "options": [
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Tafsir so‘zining ma’nosi?",
+      "options": [
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Islom olamida “Hadis ilmining oltin asri” deb qaysi davr qayd etilgan?",
+      "options": [
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "“Al Jome as-Sahih” asarining muallifi kim?",
+      "options": [
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Qaysi allomaga “Hadis ilmining amiri” degan sharafli nom berilgan?",
+      "options": [
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Diniy tashkilot nima?",
+      "options": [
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Islomni modernizatsiya (isloh) qilishining mohiyati nima?",
+      "options": [
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Qiyin darajali test",
+      "options": [
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Yovuz g'oya va mafkuralarning eng ko‘p tarqalgan shakli qaysi?",
+      "options": [
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "2007 yili Toshkеnt shahriga qaysi tashkilot tomonidan \"Islom madaniyati poytaxti\" nomi bеrildi?",
+      "options": [
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Prezidentimiz Sh.Mirziyoyev 2017 yil 20 sentyabr kuni BMT Bosh Assambliyasida qanday rezalyutsiyani taqdim qildi?",
+      "options": [
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "O‘zbekistonda islom dini bo‘yicha olib boriladigan tadbirlarni o’tkazish bilan qaysi tashkilot shug’illanadi?",
+      "options": [
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Prezidentimiz Sh.Mirziyoyev 2017 yil 20 sentyabr kuni BMT Bosh Assambliyasida taklif etilgan rezalyutsiya BMT tomonidan qachon qabul qilindi?",
+      "options": [
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Fundamentalizm nima?",
+      "options": [
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Radikalizm nima?",
+      "options": [
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Terrorizm nima?",
+      "options": [
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Qaysi dinda birinchi fundamentalizm g’oyalari namoyon bo’lgan?",
+      "options": [
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Qaysi davlatlar terroristik faoliyatning markazlari?",
+      "options": [
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "\"Ekstremistik tashkilot\" nima?",
+      "options": [
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "“Terrorchilik guruhi” nima?",
+      "options": [
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Bugungi kunda O‘zbekistonda nechta diniy konfessiya mavjud?",
+      "options": [
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Krishnachilik qanday ta’limotga asoslanadi?",
+      "options": [
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Krishnachilar tomonidan missionerlik faoliyati qachon boshlangan?",
+      "options": [
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Missionerlik bu..................?",
+      "options": [
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Islom hamkorlik tashkilotiga qachon va qayerda asos solingan?",
+      "options": [
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Islom hamkorlik tashkilotining bosh qarorgohi qayerda joylashgan?",
+      "options": [
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "IHT mamlakatlari turizm vazirlari tomonidan ........... deb e’lon qilindi.",
+      "options": [
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "“Konfessiya” so‘zi o‘zbek tilida qanday ma’noni anglatadi?",
+      "options": [
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Konfessiya so’zining ma’nosi to’g’ri keltirilgan qatorni aniqlang?",
+      "options": [
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Diniy konfessiyalar nima? .",
+      "options": [
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Diniy tashkilotlarning markaziy boshqaruv organlari qaysi vazirlik tomonidan ro’yxatga olinadi?",
+      "options": [
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Diniy birlikning asosiy belgilarini ko’rsating?",
+      "options": [
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Diniy bag’rikenglik bu…",
+      "options": [
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "«Sekta» so’zining lug’aviy ma’nosi nima?",
+      "options": [
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "YUNESKO ning “Bag’rikenglik tamoyillari Deklaratsiyasi” qachon qabul qilingan?",
+      "options": [
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "“Sekulyarizatsiya” atamasi diniy jihatdan qanday ma’noda ishlatiladi?",
+      "options": [
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Islom dinida tasavvuf ta’limoti qachon vujudga keldi?",
+      "options": [
+        "Muso payg'ambar tomonidan miloddan avvalgi XV asrda",
+        "Budda tomonidan miloddan avvalgi VI asrda Hindistonda",
+        "Muhammad (s.a.v.) tomonidan VII asrda Arabiston yarim orolida",
+        "Iso Masih tomonidan I asrda Falastinda"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Jahon dinlari orasidagi eng tez ko’payotgan dinni aniqlang.",
+      "options": [
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Qur’onda ...... payg‘ambarning nomlari zikr etilgan?",
+      "options": [
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Insonning joni o‘lgandan keyin ko’rinmas ruh bo‘lib yashaydi degan tasavvur ibtidoiy dinning qaysi shaklida uchraydi?",
+      "options": [
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Monoteizm – bu…:",
+      "options": [
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Zardushtiylikning muqaddas manbasi?",
+      "options": [
+        "Buddaviylik ta'limoti, nirvana g'oyasiga asoslangan",
+        "Zardo'sht tomonidan asos solingan, yaxshilik va yomonlik kurashiga asoslangan din",
+        "Yahudiy dini, Tavrot asosida shakllangan",
+        "Xristianlik dini, Injil asosida shakllangan"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Sidxartxa Gautama – qaysi dinga asos solgan?",
+      "options": [
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Diniy urf-odatlar yig‘indisi qanday ataladi?",
+      "options": [
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Narsa va buyumlarga sig‘iniladigan ilk diniy e'tiqod...?",
+      "options": [
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Muhammad (s.a.v.) hayotlari to‘g‘risidagi manba ?",
+      "options": [
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "“Prozelitizm” so’zining ma’nosi?",
+      "options": [
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Markaziy Оsiyo musulmоnlari qaysi g’оyaviy aqidaviy mafkura ta’limоtga amal qilishadi?",
+      "options": [
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Fiqhiy mazhablar shakllanishi asosan qaysi asrlarga to‘g‘ri keladi?",
+      "options": [
+        "Shia, Sunna, Xorijiy — siyosiy-diniy oqimlar",
+        "Hanafiy, Molikiy, Shofe'iy, Hanbaliy — to'rt asosiy sunniy mazhab",
+        "Buddaviylik, Xristianlik, Islom — jahon dinlari",
+        "Tasavvuf, Sufizm, Vahhobizm — mistik oqimlar"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Hanafiy mazhabining asoschisi kim?",
+      "options": [
+        "Hanafiy, Molikiy, Shofe'iy, Hanbaliy — to'rt asosiy sunniy mazhab",
+        "Buddaviylik, Xristianlik, Islom — jahon dinlari",
+        "Tasavvuf, Sufizm, Vahhobizm — mistik oqimlar",
+        "Shia, Sunna, Xorijiy — siyosiy-diniy oqimlar"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Molikiy mazhabining asoschisi kim?",
+      "options": [
+        "Hanafiy, Molikiy, Shofe'iy, Hanbaliy — to'rt asosiy sunniy mazhab",
+        "Tasavvuf, Sufizm, Vahhobizm — mistik oqimlar",
+        "Shia, Sunna, Xorijiy — siyosiy-diniy oqimlar",
+        "Buddaviylik, Xristianlik, Islom — jahon dinlari"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Shofe’iy mazhabi asoschisi kim?",
+      "options": [
+        "Hanafiy, Molikiy, Shofe'iy, Hanbaliy — to'rt asosiy sunniy mazhab",
+        "Tasavvuf, Sufizm, Vahhobizm — mistik oqimlar",
+        "Shia, Sunna, Xorijiy — siyosiy-diniy oqimlar",
+        "Buddaviylik, Xristianlik, Islom — jahon dinlari"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Hanbaliy mazhabining asoschisi kim?",
+      "options": [
+        "Tasavvuf, Sufizm, Vahhobizm — mistik oqimlar",
+        "Buddaviylik, Xristianlik, Islom — jahon dinlari",
+        "Hanafiy, Molikiy, Shofe'iy, Hanbaliy — to'rt asosiy sunniy mazhab",
+        "Shia, Sunna, Xorijiy — siyosiy-diniy oqimlar"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Qiyos metodiga keng o‘rin bergan mazhab qaysi?",
+      "options": [
+        "Tasavvuf, Sufizm, Vahhobizm — mistik oqimlar",
+        "Hanafiy, Molikiy, Shofe'iy, Hanbaliy — to'rt asosiy sunniy mazhab",
+        "Buddaviylik, Xristianlik, Islom — jahon dinlari",
+        "Shia, Sunna, Xorijiy — siyosiy-diniy oqimlar"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "“Ahli hadis” yo‘nalishiga yaqin bo‘lgan mazhab:",
+      "options": [
+        "Tasavvuf, Sufizm, Vahhobizm — mistik oqimlar",
+        "Buddaviylik, Xristianlik, Islom — jahon dinlari",
+        "Hanafiy, Molikiy, Shofe'iy, Hanbaliy — to'rt asosiy sunniy mazhab",
+        "Shia, Sunna, Xorijiy — siyosiy-diniy oqimlar"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Fiqhiy dalillar ichida Qur’on va Sunnatdan keyin keladigan usul:",
+      "options": [
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Shariatda bajarilishi majburiy bo‘lgan amal qanday ataladi?",
+      "options": [
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Bajarilishi savob, tark qilinishi gunoh bo‘lmagan amal:",
+      "options": [
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Qilish yoki qilmaslik ixtiyoriy bo‘lgan amal:",
+      "options": [
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Qat’iy taqiqlangan amal:",
+      "options": [
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Bajarilishi ma’qul emas, lekin qat’iy taqiqlanmagan amal:",
+      "options": [
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "“Halol” tushunchasi nimani anglatadi?",
+      "options": [
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "“Al-Hidoya” asari muallifi kim?",
+      "options": [
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "“Al-Hidoya” asari qaysi mazhab fiqhiga oid?",
+      "options": [
+        "Tasavvuf, Sufizm, Vahhobizm — mistik oqimlar",
+        "Hanafiy, Molikiy, Shofe'iy, Hanbaliy — to'rt asosiy sunniy mazhab",
+        "Shia, Sunna, Xorijiy — siyosiy-diniy oqimlar",
+        "Buddaviylik, Xristianlik, Islom — jahon dinlari"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "“Al-Hidoya” asari asosan qaysi sohada muhim ahamiyat kasb etgan?",
+      "options": [
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Marg‘inoniy qaysi hududda tug‘ilgan?",
+      "options": [
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "“Al-Hidoya” asari nimasi bilan mashhur?",
+      "options": [
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "“Al-Hidoya” asari o‘rta asrlarda qaysi hududlarda qo‘llanilgan?",
+      "options": [
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Tasavvuf ta’limoti asosan qaysi asrlarda shakllana boshladi?",
+      "options": [
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Tasavvufning asosiy maqsadi nima?",
+      "options": [
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "“Sufiy” so‘zining kelib chiqishi ko‘pincha qaysi tushuncha bilan bog‘lanadi.",
+      "options": [
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Tasavvufda “ixlos” tushunchasi nimani anglatadi?",
+      "options": [
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Quyidagilardan qaysi biri tasavvufning asosiy g‘oyalaridan biri?",
+      "options": [
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Tasavvufda “nafs” tushunchasi nimani bildiradi?",
+      "options": [
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Nafsni poklash jarayoni qanday ataladi?",
+      "options": [
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "“Zuhd” tushunchasi nimani anglatadi?",
+      "options": [
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Zohidlik nima?",
+      "options": [
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Tasavvufda qalb pokligi qaysi tushuncha bilan bog‘liq?",
+      "options": [
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Yusuf Hamadani qaysi asrda yashagan?",
+      "options": [
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Kubraviya tariqati asoschisi kim?",
+      "options": [
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Yassaviya tariqati asoschisi kim?",
+      "options": [
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Naqshbandiya tariqati asoschisi kim?",
+      "options": [
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Naqshbandiya tariqatining shiori qaysi?",
+      "options": [
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Yassaviya tariqatining turkiy xalqlar orasidagi ahamiyati nimada?",
+      "options": [
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Kubraviya tariqati qaysi jihati bilan mashhur?",
+      "options": [
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Tariqatlarning ijtimoiy ahamiyati nimada?",
+      "options": [
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Islomda savdo-sotiqning asosiy tamoyili nima?",
+      "options": [
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Savdoda mahsulot nuqsonini yashirish qanday baholanadi?",
+      "options": [
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Islomda o‘lchov va tarozida adolatli bo‘lish qaysi manbada ta’kidlangan?",
+      "options": [
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Savdo shartnomasining asosiy sharti:",
+      "options": [
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Halol savdo qilgan tijoratchi haqida hadislarda qanday baho berilgan?",
+      "options": [
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Islom iqtisodiy munosabatlarida foiz (ribo) qanday baholanadi?",
+      "options": [
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "“Ribo” tushunchasi nimani anglatadi?",
+      "options": [
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Shartnomada aniqlik va shaffoflik talab qilinishi qaysi prinsipga asoslanadi?",
+      "options": [
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Zakot iqtisodiy tizimda qanday vazifani bajaradi?",
+      "options": [
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Islom iqtisodiyotida mulk huquqi:",
+      "options": [
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Islom moliyasining asosiy tamoyillaridan biri:",
+      "options": [
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "“G‘arar” nima?",
+      "options": [
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Islom banki tizimida foiz o‘rniga qo‘llaniladigan usul:",
+      "options": [
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Mudaraba shartnomasi nimani anglatadi?",
+      "options": [
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Sukuk nima?",
+      "options": [
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Islom moliyasida investitsiya faoliyati qaysi sohalarga yo‘naltirilmaydi?",
+      "options": [
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Islom moliyasining maqsadi:",
+      "options": [
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "“Sekta” atamasi lug‘aviy jihatdan nimani anglatadi?",
+      "options": [
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Sektaning asosiy belgilaridan biri:",
+      "options": [
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Sektalarda rahbar shaxsga munosabat qanday bo‘ladi?",
+      "options": [
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Quyidagilardan qaysi biri sektalarga xos xususiyat?",
+      "options": [
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Sektalar ko‘pincha qaysi omildan foydalanadi?",
+      "options": [
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Zamonaviy destruktiv diniy harakatlarning xavfi nimada?",
+      "options": [
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Radikal g‘oyalarni tarqatish usullaridan biri:",
+      "options": [
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Destruktiv sektalarning iqtisodiy ta’siri:",
+      "options": [
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Barqaror taraqqiyotga asosiy tahdid:",
+      "options": [
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Radikallashuv jarayoni ko‘pincha qaysi guruhlarda tezroq kechadi?",
+      "options": [
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "United Nations tashkiloti diniy erkinlik va inson huquqlarini himoya qilishga qaratilgan hujjatlar qabul qilganmi?",
+      "options": [
+        "Diniy ta'limni maktablarda majburiy o'qitish",
+        "Diniy tashkilotlarning davlat nazoratida bo'lishi",
+        "Har bir insonning ixtiyoriy ravishda din tanlash yoki tanlamas huquqi",
+        "Faqat rasmiy dinlarni qabul qilish majburiyati"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Organization of Islamic Cooperation ning asosiy maqsadlaridan biri:",
+      "options": [
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Xalqaro diniy tashkilotlar faoliyatining asosiy yo‘nalishi:",
+      "options": [
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Diniy bag‘rikenglikni targ‘ib qilish qaysi faoliyat turiga kiradi?",
+      "options": [
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Xalqaro diniy tashkilotlar global muammolarni hal etishda qaysi usuldan foydalanadi?",
+      "options": [
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "“Kiber makon” tushunchasi nimani anglatadi?",
+      "options": [
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Kiberterrorizm nima?",
+      "options": [
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Kiberzo‘ravonlik (cyberbullying) deganda nimani tushunamiz?",
+      "options": [
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Internetda diniy targ‘ibotning keng tarqalgan usuli:",
+      "options": [
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Radikal g‘oyalarni yoshlar orasida tarqatishda ko‘p qo‘llaniladigan vosita:",
+      "options": [
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Virtual ekstremizmga qarshi kurashda xalqaro hamkorlikning ahamiyati:",
+      "options": [
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "United Nations terrorizmga qarshi kurashda xalqaro hujjatlar qabul qilganmi?",
+      "options": [
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Kiberxavfsizlikni ta’minlashning muhim omili:",
+      "options": [
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Virtual radikallashuvning oldini olishda asosiy chora:",
+      "options": [
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "“Missionerlik” tushunchasi nimani anglatadi?",
+      "options": [
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "“Prozelitizm” nima?",
+      "options": [
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Xalqaro missionerlik tashkilotlari faoliyatida ko‘p qo‘llaniladigan usul:",
+      "options": [
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Qaysi tashkilot missionerlik faoliyati bilan mashhur?",
+      "options": [
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Prozelitizmning salbiy oqibatlaridan biri:",
+      "options": [
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Ma’naviy barqarorlikni ta’minlashning muhim mexanizmi:",
+      "options": [
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Yoshlarni missionerlik ta’siridan himoya qilishning samarali yo‘li:",
+      "options": [
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Diniy ekstremizm va prozelitizmga qarshi kurashda asosiy tamoyil:",
+      "options": [
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "“Konfessiya” tushunchasi nimani anglatadi?",
+      "options": [
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Konfessiyalararo muloqotning asosiy maqsadi:",
+      "options": [
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Quyidagilardan qaysi biri konfessiyaga misol bo‘la oladi?",
+      "options": [
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Konfessiyalararo totuvlik nimani ta’minlaydi?",
+      "options": [
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Vijdon erkinligi va diniy tashkilotlar to’g’risidagi qonunning asosiy maqsadi:",
+      "options": [
+        "Diniy tashkilotlarning davlat nazoratida bo'lishi",
+        "Faqat rasmiy dinlarni qabul qilish majburiyati",
+        "Har bir insonning ixtiyoriy ravishda din tanlash yoki tanlamas huquqi",
+        "Diniy ta'limni maktablarda majburiy o'qitish"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "O‘zbekiston Respublikasi Konstitutsiyasida davlatning diniy masalalardagi maqomi qanday belgilangan?",
+      "options": [
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Qonunga ko‘ra diniy tashkilotlar faoliyati qaysi asosda amalga oshiriladi?",
+      "options": [
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "O‘zbekistonda qaysi din vakillari eng ko‘pchilikni tashkil qiladi?",
+      "options": [
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "O‘zbekistonda quyidagi konfessiyalardan qaysi biri faoliyat yuritadi?",
+      "options": [
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Identifikatsion model nimaga asoslanadi?",
+      "options": [
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Separatsion model xususiyati:",
+      "options": [
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Kooperatsion model nimaga asoslanadi?",
+      "options": [
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "O‘zbekiston qaysi modelga yaqin?",
+      "options": [
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Dunyoviy davlatning asosiy belgisi:",
+      "options": [
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Yangi O‘zbekistonda ta’lim tizimining asosiy tamoyili:",
+      "options": [
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Diniy ta’lim muassasalari faoliyati qaysi asosda amalga oshiriladi?",
+      "options": [
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Dunyoviy ta’limning asosiy maqsadi:",
+      "options": [
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Diniy-ma’rifiy tarbiyaning vazifasi:",
+      "options": [
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Ibodatning shaxs kamolotiga ta’siri nimada namoyon bo‘ladi?",
+      "options": [
+        "Kuniga 5 mahal — bomdod, peshin, asr, shom, xufton",
+        "Haftada bir marta — juma kuni",
+        "Oyda bir marta — ramazon oyida",
+        "Kuniga 3 mahal — ertalab, tushdan keyin, kechqurun"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Dinda axloqiy me’yorlar nimani tartibga soladi?",
+      "options": [
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "“Katarsis” tushunchasi nimani anglatadi?",
+      "options": [
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Diniy marosimlarning ijtimoiy-psixologik ahamiyati:",
+      "options": [
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Diniy plyuralizm nima?",
+      "options": [
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Bag‘rikenglikning asosiy mazmuni:",
+      "options": [
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "E’tiqod erkinligi nimani anglatadi?",
+      "options": [
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Diniy bag‘rikenglik shaxs kamolotiga qanday ta’sir ko‘rsatadi?",
+      "options": [
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Sekulyarizatsiya nima?",
+      "options": [
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Sekulyarizatsiya jahon dinlariga qanday ta’sir ko‘rsatgan?",
+      "options": [
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Dunyoviy hayot va diniy qadriyatlar mutanosibligi yoshlar tarbiyasiga qanday ta’sir qiladi?",
+      "options": [
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Barqaror taraqqiyotni ta’minlashda ma’naviy qadriyatlar roli:",
+      "options": [
+        "Faqat moddiy boylik va iqtisodiy rivojlanishni o'rganish",
+        "Dinning jamiyatdagi o'rni va uning insoniyat tarixidagi ahamiyatini o'rganish",
+        "Siyosiy hokimiyat va davlat tuzilishini tadqiq etish",
+        "Tabiat hodisalarini ilmiy metod orqali o'rganish"
+      ],
+      "correct": 1
+    }
+  ]
+}

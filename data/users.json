@@ -1,0 +1,26 @@
+[
+  {
+    "id": "u1",
+    "name": "Administrator",
+    "username": "admin",
+    "password": "$2a$10$Wbpyx20PuMWiOBlXmbU9dOPsh/hcgPB7EwCvoOIB335f6Otv2E9I.",
+    "role": "admin",
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "u2",
+    "name": "Talaba 1",
+    "username": "student1",
+    "password": "$2a$10$ACcNIyuq3HeDVXfVnVIKF.QdaFYEUJKZlutwfbJ6NZj5RUemzfMYW",
+    "role": "student",
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "u3",
+    "name": "Talaba 2",
+    "username": "student2",
+    "password": "$2a$10$UlwqD9NijPEw3LycO766Tuk5/EY0GrmxqeJRRENpQo6lhEaibMahK",
+    "role": "student",
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  }
+]

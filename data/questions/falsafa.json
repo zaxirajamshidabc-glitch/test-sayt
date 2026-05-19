@@ -1,0 +1,3768 @@
+{
+  "id": "falsafa",
+  "name": "Falsafa",
+  "icon": "🧠",
+  "color": "#059669",
+  "questions": [
+    {
+      "text": "Olam va uning yashashi, rivojlanishi va taraqqiyoti haqidagi muammolarni o‘rganuvchi ilm – bu...",
+      "options": [
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "“Filosofiya” atamasi va u ifoda etadigan bilimlar majmui qaerda paydo bo‘lgan?",
+      "options": [
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "“Filosofiya” so‘zini Abu Nasr Farobiy qanday talqin etgan?",
+      "options": [
+        "Yusuf Xos Hojib",
+        "Abu Nasr Forobiy",
+        "Abu Rayhon Beruniy",
+        "Ibn Sino"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Dunyoqarashning qanday tarixiy turlari bor?",
+      "options": [
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Izchillik, tizimlilik va tartiblilikni ifodalovchi falsafiy dunyoqarash tamoyili bu...",
+      "options": [
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Inson manfaatlarini ifodalovchi falsafiy dunyoqarash tamoyili bu...",
+      "options": [
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Platon ta’limotidagi ideal jamiyatda davlatni kimlar boshqarishi zarur deyilgan?",
+      "options": [
+        "Pifagor",
+        "Demokrit",
+        "Arastu (Aristotel)",
+        "Platon (Aflotun)"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Budda so‘zining ma’nosi nima?",
+      "options": [
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Dao so‘zining ma’nosi nima?",
+      "options": [
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "O‘rta asrlar G‘arbiy Yevropa falsafasining belgilovchi xususiyati qaysi javobda to‘g‘ri ko‘rsatilgan?",
+      "options": [
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Yusuf Xos Hojibning “Qutadg‘u bilig” asari qanday ma’noni anglatadi?",
+      "options": [
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Aksiologiya qanday falsafiy ta’limot?",
+      "options": [
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Tabiat hodisalarini tavsiflovchi empirik fan"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "“Turkiy Guliston yohud axloq” asari qaysi ma’rifatparvar mutafakkir qalamiga mansub?",
+      "options": [
+        "Davlat va huquq haqidagi siyosiy ta'limot",
+        "Axloqiy me'yorlar, qadriyatlar va insonning xulq-atvori haqidagi fan",
+        "Go'zallik va badiiy did haqidagi ta'limot",
+        "Bilish jarayoni va uning shakllari haqidagi ta'limot"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Turkistonda yangicha ijtimoiy-siyosiy qarashlar qaysi asrlarga to‘g‘ri keladi uning targ‘ibotchilari...?",
+      "options": [
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Birinchi Sharq Renesansi qaysi davrni qamrab olgan?",
+      "options": [
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Tabiat hodisalarini tavsiflovchi empirik fan"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Ikkinchi Sharq renessansi vakillari qaysi javobda to‘g‘ri ko‘rsatilgan?",
+      "options": [
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Tabiat hodisalarini tavsiflovchi empirik fan"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Borliq falsafaning qaysi yo‘nalishida asosiy ob’ekt sifatida o‘rganiladi?",
+      "options": [
+        "Axloqiy me'yorlar va qadriyatlar haqidagi fan",
+        "Jamiyat va uning rivojlanishi haqidagi ta'limot",
+        "Bilish nazariyasi va uning shakllari haqidagi ta'limot",
+        "Borliq va mavjudlik haqidagi falsafiy ta'limot"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Geraklit borliq kelib chiqishining birinchi sababi sifatida qaysi unsurni qo‘ygan?",
+      "options": [
+        "Axloqiy me'yorlar va qadriyatlar haqidagi fan",
+        "Bilish nazariyasi va uning shakllari haqidagi ta'limot",
+        "Borliq va mavjudlik haqidagi falsafiy ta'limot",
+        "Jamiyat va uning rivojlanishi haqidagi ta'limot"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Markaziy Osiyodagi eng qadimiy diniy-falsafiy manba qaysi?",
+      "options": [
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "“Ikkinchi muallim” unvoniga sazovor bo‘lgan Sharqning buyuk mutafakkiri kim?",
+      "options": [
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "“Ayni bir vaqtda suvga ikki marta tushib bo‘lmaydi” degan iboraning muallifi kim?",
+      "options": [
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Borliqning asosiga raqamlarni qo‘ygan yunon faylasufi kim?",
+      "options": [
+        "Axloqiy me'yorlar va qadriyatlar haqidagi fan",
+        "Jamiyat va uning rivojlanishi haqidagi ta'limot",
+        "Bilish nazariyasi va uning shakllari haqidagi ta'limot",
+        "Borliq va mavjudlik haqidagi falsafiy ta'limot"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Bilish nazariyasi falsafaning qaysi yo‘nalishida asosiy ob’ekt sifatida o‘rganiladi?",
+      "options": [
+        "Bilish nazariyasi — bilimning mohiyati va chegaralarini o'rganadi",
+        "Borliq va mavjudlik masalalarini o'rganadi",
+        "Estetik kategoriyalar va go'zallik haqidagi fan",
+        "Ijtimoiy munosabatlar va davlat tuzilishini o'rganadi"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Bilishning asosiy bosqichlari qaysi javobda to‘g‘ri berilgan?",
+      "options": [
+        "Estetik kategoriyalar va go'zallik haqidagi fan",
+        "Ijtimoiy munosabatlar va davlat tuzilishini o'rganadi",
+        "Borliq va mavjudlik masalalarini o'rganadi",
+        "Bilish nazariyasi — bilimning mohiyati va chegaralarini o'rganadi"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Qadimgi yunon faylasuflaridan kim borliqning asosi, moddiy negizi suv deb hisoblagan?",
+      "options": [
+        "Borliq va mavjudlik haqidagi falsafiy ta'limot",
+        "Axloqiy me'yorlar va qadriyatlar haqidagi fan",
+        "Jamiyat va uning rivojlanishi haqidagi ta'limot",
+        "Bilish nazariyasi va uning shakllari haqidagi ta'limot"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Bilish darajalari falsafaning qaysi yo‘nalishida o‘rganiladi?",
+      "options": [
+        "Ijtimoiy munosabatlar va davlat tuzilishini o'rganadi",
+        "Estetik kategoriyalar va go'zallik haqidagi fan",
+        "Borliq va mavjudlik masalalarini o'rganadi",
+        "Bilish nazariyasi — bilimning mohiyati va chegaralarini o'rganadi"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Mantiq fanining o‘rganish ob’ektini aniqlang.",
+      "options": [
+        "Tabiat hodisalarini izohlovchi fan",
+        "Estetik kategoriyalarni o'rganuvchi fan",
+        "To'g'ri fikrlash qonun va qoidalarini o'rganuvchi fan",
+        "Jamiyat rivojlanish qonunlarini o'rganadi"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Tafakkurning mantiqiy shakllarini aniqlang.",
+      "options": [
+        "Tabiat hodisalarini izohlovchi fan",
+        "Jamiyat rivojlanish qonunlarini o'rganadi",
+        "To'g'ri fikrlash qonun va qoidalarini o'rganuvchi fan",
+        "Estetik kategoriyalarni o'rganuvchi fan"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Formal mantiq qonunlari nechta?",
+      "options": [
+        "To'g'ri fikrlash qonun va qoidalarini o'rganuvchi fan",
+        "Jamiyat rivojlanish qonunlarini o'rganadi",
+        "Tabiat hodisalarini izohlovchi fan",
+        "Estetik kategoriyalarni o'rganuvchi fan"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Inson o‘z-o‘zini muttasil kamol toptirishining muhim sharti nimada?",
+      "options": [
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Tabiat hodisalarini tavsiflovchi empirik fan"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Ong strukturasining oliy elementi nima?",
+      "options": [
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Tabiat hodisalarini tavsiflovchi empirik fan"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Ong muammosini yechishga nisbatan yangicha yondashuvlar hozirgi zamon falsafasining qaysi oqimlariga tegishli?",
+      "options": [
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Tabiat hodisalarini tavsiflovchi empirik fan"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Virtual olam –",
+      "options": [
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "«Qutadg’u bilik» axloqiy-didaktik risolasini kim yozgan?",
+      "options": [
+        "Axloqiy me'yorlar, qadriyatlar va insonning xulq-atvori haqidagi fan",
+        "Go'zallik va badiiy did haqidagi ta'limot",
+        "Bilish jarayoni va uning shakllari haqidagi ta'limot",
+        "Davlat va huquq haqidagi siyosiy ta'limot"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Inson aqlini modellashtiruvchi, ma'lumotlar asosida o‘rganuvchi va mustaqil qaror qabul qiluvchi algoritmlar hamda dasturiy tizimlar majmuasi:",
+      "options": [
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "AQShning «OpenAI» kompaniyasi tomonidan yaratilgan sun’iy intellekt chatboti qanday nomlanadi?",
+      "options": [
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Tabiat hodisalarini tavsiflovchi empirik fan"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Har qanday o‘zgarish bu?",
+      "options": [
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Jarayonlarning davomiyligini, hodisalarning ketma-ketligi tartibini nima ifodalaydi?",
+      "options": [
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Mantiq fani nimani o‘rganadi?",
+      "options": [
+        "Estetik kategoriyalarni o'rganuvchi fan",
+        "To'g'ri fikrlash qonun va qoidalarini o'rganuvchi fan",
+        "Tabiat hodisalarini izohlovchi fan",
+        "Jamiyat rivojlanish qonunlarini o'rganadi"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Estetikaning asosiy tadqiqot ob’ekti bu",
+      "options": [
+        "Axloqiy me'yorlar, qadriyatlar va insonning xulq-atvori haqidagi fan",
+        "Davlat va huquq haqidagi siyosiy ta'limot",
+        "Go'zallik va badiiy did haqidagi ta'limot",
+        "Bilish jarayoni va uning shakllari haqidagi ta'limot"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Pifagor ta’limotida dunyoning asosini nima tashkil qiladi?",
+      "options": [
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "“Ayni bir daryoga ikki marta tushib boʻlmaydi” fikri kimga tegishli?",
+      "options": [
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Forobiyning fikriga koʻra, toʻliq jamiyat qaysi bosqichdan boshlanadi?",
+      "options": [
+        "Abu Rayhon Beruniy",
+        "Abu Nasr Forobiy",
+        "Ibn Sino",
+        "Yusuf Xos Hojib"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Goʻzallikka qarama-qarshi estetik tushuncha?",
+      "options": [
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Jamiyatning qaysi sohasi axloqiy meʼyorlarni shakllantiradi?",
+      "options": [
+        "Axloqiy me'yorlar, qadriyatlar va insonning xulq-atvori haqidagi fan",
+        "Go'zallik va badiiy did haqidagi ta'limot",
+        "Davlat va huquq haqidagi siyosiy ta'limot",
+        "Bilish jarayoni va uning shakllari haqidagi ta'limot"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Gnoseologiya nima?",
+      "options": [
+        "Estetik kategoriyalar va go'zallik haqidagi fan",
+        "Ijtimoiy munosabatlar va davlat tuzilishini o'rganadi",
+        "Bilish nazariyasi — bilimning mohiyati va chegaralarini o'rganadi",
+        "Borliq va mavjudlik masalalarini o'rganadi"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Ratsionalizmga koʻra inson bilimining manbasi nima?",
+      "options": [
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Bilimning asosiy shakllaridan biri nima?",
+      "options": [
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Tabiat hodisalarini tavsiflovchi empirik fan"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Empirizmga koʻra bilimning asosiy manbasi nima?",
+      "options": [
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Mifologik bilimning asosiy xususiyati nima?",
+      "options": [
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Diniy bilishning asosiy manbasi nima?",
+      "options": [
+        "Bilish nazariyasi — bilimning mohiyati va chegaralarini o'rganadi",
+        "Estetik kategoriyalar va go'zallik haqidagi fan",
+        "Borliq va mavjudlik masalalarini o'rganadi",
+        "Ijtimoiy munosabatlar va davlat tuzilishini o'rganadi"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Mifologik bilim qanday tushuniladi?",
+      "options": [
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Diniy bilish qanday bilish usuliga asoslanadi?",
+      "options": [
+        "Estetik kategoriyalar va go'zallik haqidagi fan",
+        "Ijtimoiy munosabatlar va davlat tuzilishini o'rganadi",
+        "Borliq va mavjudlik masalalarini o'rganadi",
+        "Bilish nazariyasi — bilimning mohiyati va chegaralarini o'rganadi"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Badiiy bilim qanday shaklda ifodalanadi?",
+      "options": [
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Ilmiy bilim qanday bilish shakli hisoblanadi?",
+      "options": [
+        "Estetik kategoriyalar va go'zallik haqidagi fan",
+        "Bilish nazariyasi — bilimning mohiyati va chegaralarini o'rganadi",
+        "Ijtimoiy munosabatlar va davlat tuzilishini o'rganadi",
+        "Borliq va mavjudlik masalalarini o'rganadi"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Empirizm qanday bilish shakliga asoslanadi?",
+      "options": [
+        "Bilish nazariyasi — bilimning mohiyati va chegaralarini o'rganadi",
+        "Estetik kategoriyalar va go'zallik haqidagi fan",
+        "Ijtimoiy munosabatlar va davlat tuzilishini o'rganadi",
+        "Borliq va mavjudlik masalalarini o'rganadi"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "“Ontologiya” atamasi qaysi soʻzdan olingan?",
+      "options": [
+        "Bilish nazariyasi va uning shakllari haqidagi ta'limot",
+        "Axloqiy me'yorlar va qadriyatlar haqidagi fan",
+        "Borliq va mavjudlik haqidagi falsafiy ta'limot",
+        "Jamiyat va uning rivojlanishi haqidagi ta'limot"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "“Hamma narsa sondir” kimning fikri?",
+      "options": [
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Ibn Sino fikricha, “Vujudi vojib” qanday talqin qilingan?",
+      "options": [
+        "Abu Nasr Forobiy",
+        "Al-Xorazmiy",
+        "Ibn Sino (Avitsenna)",
+        "Beruniy"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "“Substansiya” - bu nima?",
+      "options": [
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Borliqning asosiy kategoriyasi nima?",
+      "options": [
+        "Jamiyat va uning rivojlanishi haqidagi ta'limot",
+        "Axloqiy me'yorlar va qadriyatlar haqidagi fan",
+        "Bilish nazariyasi va uning shakllari haqidagi ta'limot",
+        "Borliq va mavjudlik haqidagi falsafiy ta'limot"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Birinchi asos sifatida ikki substansiyali falsafiy yondashuv nima deb ataladi?",
+      "options": [
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Tabiat hodisalarini tavsiflovchi empirik fan"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Materiyaning tarkibiy darajalari – iyerarxiyada asosiy oʻrinni nima egallaydi?",
+      "options": [
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "“Inson hamma narsalarining oʻlchovidir” degan iborani ishlatgan faylasuf?",
+      "options": [
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Tabiat hodisalarini tavsiflovchi empirik fan"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "“Fikrlayapman, demak men mavjudman” degan mashhur ibora muallifi kim?",
+      "options": [
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Dualistik taʼlimotga koʻra dunyoning asosi necha asosga ega deya taʼrif etilgan?",
+      "options": [
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Tarixan dunyoqarashning shakllari bu?",
+      "options": [
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Fetishizm bu?",
+      "options": [
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Tabiat hodisalarini tavsiflovchi empirik fan"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Monoteizm bu?",
+      "options": [
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Dunyoqarashning qaysi shakllari eʼtiqod va tuygʻularga tayangan?",
+      "options": [
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Tafakkur qonunlari va usullari haqidagi fan bu?",
+      "options": [
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Antik falsafaning asosiy savoli?",
+      "options": [
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Mantiqning asosiy shakllaridan biri nima?",
+      "options": [
+        "Tabiat hodisalarini izohlovchi fan",
+        "To'g'ri fikrlash qonun va qoidalarini o'rganuvchi fan",
+        "Estetik kategoriyalarni o'rganuvchi fan",
+        "Jamiyat rivojlanish qonunlarini o'rganadi"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Falsafiy antropologiya nimani oʻrganadi?",
+      "options": [
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Falsafaning “aksiologik” funksiyasi nimani anglatadi?",
+      "options": [
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Karl Marks nomi bilan qaysi falsafiy oqim bogʻlangan?",
+      "options": [
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Qaysi faylasuf psixoanalizning asoschisi boʻlgan?",
+      "options": [
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Tabiat hodisalarini tavsiflovchi empirik fan"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Qadimgi Xitoyda Daosizm taʼlimotining asoschisi kim edi?",
+      "options": [
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Falsafa qonunlaridan biri ko‘rsatilgan to‘g‘ri javobni aniqlang?",
+      "options": [
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Ijtimoiy tengsizlik vujudga kelishi va rivojlainishida qaysi institutning roli muhimroq?",
+      "options": [
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Tabiat hodisalarini tavsiflovchi empirik fan"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Etnik birliklarning ilk shaklini aniqlang?",
+      "options": [
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Tabiat hodisalarini tavsiflovchi empirik fan"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Qaysi tarixiy asarda Oʻrta Osiyoda islom kirib kelgunigacha boʻlgan taʼlimotlar va madaniy hayot yoritib berilgan.",
+      "options": [
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Tabiat hodisalarini tavsiflovchi empirik fan"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Insonning paydo boʻlishi haqidagi evolutsion konsepsiya asoschisi kim?",
+      "options": [
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Qadriyatlar toʻgʻrisidagi fan?",
+      "options": [
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "“Etika” atamasini birinchi boʻlib ilmiy muomalaga kiritgan faylasufni aniqlang?",
+      "options": [
+        "Bilish jarayoni va uning shakllari haqidagi ta'limot",
+        "Axloqiy me'yorlar, qadriyatlar va insonning xulq-atvori haqidagi fan",
+        "Davlat va huquq haqidagi siyosiy ta'limot",
+        "Go'zallik va badiiy did haqidagi ta'limot"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Estetikaning mezoniy tushunchalari (kategoriyalari) qaysi javobda toʻgʻri koʻrsatilgan?",
+      "options": [
+        "Go'zallik va badiiy did haqidagi ta'limot",
+        "Davlat va huquq haqidagi siyosiy ta'limot",
+        "Axloqiy me'yorlar, qadriyatlar va insonning xulq-atvori haqidagi fan",
+        "Bilish jarayoni va uning shakllari haqidagi ta'limot"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Korrupsiya qaysi turlarga bo‘linadi?",
+      "options": [
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Insonning dunyoga, undagi voqealarga munosabatlari, undagi o‘rni va hayot mazmuni haqidagi eng umumiy qarashlari tizimi nima?",
+      "options": [
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Tabiat hodisalarini tavsiflovchi empirik fan"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Dunyoning negizida ikkita emas, balki undan ko‘proq mohiyat borligini tan oluvchi ta’limot qaysi?",
+      "options": [
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Qadimgi Yunonistonda falsafiy maktab dastlab qayerda maydonga keldi?",
+      "options": [
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Nemis klassik falsafasining asoschisi kim?",
+      "options": [
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Narsa va hodisalarning vujudga kelishi, shakllanishi va rivojlanishini ta’minlaydigan shart-sharoitlar, munosabatlar majmuasi nima?",
+      "options": [
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Tabiat hodisalarini tavsiflovchi empirik fan"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Hukmlar birdan ortiq bo‘lsa, qanday hukm deb ataladi?",
+      "options": [
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Gʻoyalar va soyalar dunyosi asoschisi kim?",
+      "options": [
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Forobiy borliqning birinchi sababi va harakat manbai sifatida nimani xisoblaydi?",
+      "options": [
+        "Borliq va mavjudlik haqidagi falsafiy ta'limot",
+        "Axloqiy me'yorlar va qadriyatlar haqidagi fan",
+        "Jamiyat va uning rivojlanishi haqidagi ta'limot",
+        "Bilish nazariyasi va uning shakllari haqidagi ta'limot"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Falsafaning qadriyatlar bilan shug‘ulladigan sohasi qanday ataladi?",
+      "options": [
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Abu Nasr Farobiyning jamiyat haqidagi qarashlari qaysi asarida ifodalangan?",
+      "options": [
+        "Ibn Sino",
+        "Yusuf Xos Hojib",
+        "Abu Rayhon Beruniy",
+        "Abu Nasr Forobiy"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Falsafaning bilish bilan shug‘ullanadigan yo‘nalishi qanday ataladi?",
+      "options": [
+        "Bilish nazariyasi — bilimning mohiyati va chegaralarini o'rganadi",
+        "Estetik kategoriyalar va go'zallik haqidagi fan",
+        "Ijtimoiy munosabatlar va davlat tuzilishini o'rganadi",
+        "Borliq va mavjudlik masalalarini o'rganadi"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "“Fozil odamlar shahri” asari muallifi kim?",
+      "options": [
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Pozitivizmning asoschisi kim?",
+      "options": [
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Tabiat hodisalarini tavsiflovchi empirik fan"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "“Qadimgi xalqlardan qolgan yodgorliklar”, “Hindiston”, “Minerologiya” asarlari muallifi kim?",
+      "options": [
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Tabiat hodisalarini tavsiflovchi empirik fan"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Borliq tushunchsining aksi?",
+      "options": [
+        "Bilish nazariyasi va uning shakllari haqidagi ta'limot",
+        "Jamiyat va uning rivojlanishi haqidagi ta'limot",
+        "Borliq va mavjudlik haqidagi falsafiy ta'limot",
+        "Axloqiy me'yorlar va qadriyatlar haqidagi fan"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Yerning dumaloqligini aniqlagan olim nomini toping?",
+      "options": [
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Farobiy borliqni nechiga bo‘ladi?",
+      "options": [
+        "Borliq va mavjudlik haqidagi falsafiy ta'limot",
+        "Axloqiy me'yorlar va qadriyatlar haqidagi fan",
+        "Bilish nazariyasi va uning shakllari haqidagi ta'limot",
+        "Jamiyat va uning rivojlanishi haqidagi ta'limot"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Dialektika qonunlari nechta?",
+      "options": [
+        "Borliqning asosiy kategoriyalarini o'rganuvchi fan",
+        "Insonning axloqiy kamoloti haqidagi ta'limot",
+        "Mantiqiy fikrlash qoidalari va qonunlari haqidagi fan",
+        "Narsa va hodisalarning o'zaro bog'liqligi va rivojlanishi haqidagi ta'limot"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Dialektikaning 3 ta qonunini asoslab fanga kiritgan faylasufni aniqlang?",
+      "options": [
+        "Mantiqiy fikrlash qoidalari va qonunlari haqidagi fan",
+        "Insonning axloqiy kamoloti haqidagi ta'limot",
+        "Narsa va hodisalarning o'zaro bog'liqligi va rivojlanishi haqidagi ta'limot",
+        "Borliqning asosiy kategoriyalarini o'rganuvchi fan"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Mif so‘zining ma’nosini aniqlang?",
+      "options": [
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Estetika atamasini birinchi bo‘lib kim ilmiy muomalaga kiritgan?",
+      "options": [
+        "Axloqiy me'yorlar, qadriyatlar va insonning xulq-atvori haqidagi fan",
+        "Go'zallik va badiiy did haqidagi ta'limot",
+        "Davlat va huquq haqidagi siyosiy ta'limot",
+        "Bilish jarayoni va uning shakllari haqidagi ta'limot"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Kulgililik san’atning qaysi turida namoyon bo‘lmaydi?",
+      "options": [
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Tabiat hodisalarini tavsiflovchi empirik fan"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "San’atning kelib chiqishiga qaysi omil asos bo‘lgan?",
+      "options": [
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Korrupsiya so‘zining ma’nosi nima?",
+      "options": [
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Tabiat hodisalarini tavsiflovchi empirik fan"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Zamonaviy san’at turini aniqlang?",
+      "options": [
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Zardushtiylikning bosh kitobi qaysi?",
+      "options": [
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Anaksimen olamning asosi sifatida nimani ko‘rsatgan?",
+      "options": [
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Geraklit dunyoning birlamchi unsuri sifatida nimani ko‘rgan?",
+      "options": [
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Patristikada “cherkov otalari”ning eng mashhuri kim, deb berilgan?",
+      "options": [
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Tabiat hodisalarini tavsiflovchi empirik fan"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Antik yunon mutafakkirlari “birinchi sabab” sifatida ko‘rsatgan elementlar ichida Fales nimani birlamchi deb bilgan?",
+      "options": [
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Harakatning abadiyligi va doimiy o‘zgarishni ifodalash uchun Geraklit qaysi fikrni aytadi?",
+      "options": [
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Ontologiyaning obyekti bo‘lmish borliqni qaysi tushunchalarsiz tasavvur etib bo‘lmasligi aytiladi?",
+      "options": [
+        "Borliq va mavjudlik haqidagi falsafiy ta'limot",
+        "Axloqiy me'yorlar va qadriyatlar haqidagi fan",
+        "Bilish nazariyasi va uning shakllari haqidagi ta'limot",
+        "Jamiyat va uning rivojlanishi haqidagi ta'limot"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Bilish jarayonining dastlabki bosqichi qaysi?",
+      "options": [
+        "Estetik kategoriyalar va go'zallik haqidagi fan",
+        "Bilish nazariyasi — bilimning mohiyati va chegaralarini o'rganadi",
+        "Borliq va mavjudlik masalalarini o'rganadi",
+        "Ijtimoiy munosabatlar va davlat tuzilishini o'rganadi"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Demokratik jamiyatning ijtimoiy va iqtisodiy tayanchi qaysi qatlam hisoblanadi?",
+      "options": [
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Sharq sivilizatsiyasining jahon tarixi nuqtayi nazaridan asosiy xususiyati nima?",
+      "options": [
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "\"Homo Economicus” tushunchasi o’zbek tilida qanday ma’noni anglatadi?",
+      "options": [
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Pragmatizm falsafasining boshlang‘ich asoslarini 1870-yillarda kim yaratgan?",
+      "options": [
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Pragmatizmning qaysi xususiyati individual shaxsni hamma narsaning o‘lchovi deb qaraydi?",
+      "options": [
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Insonlar tomonidan yaratilgan buyumlar, asbob-uskunalar va imoratlar qadriyatlarning qaysi turiga kiradi?",
+      "options": [
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Voyaga yetgan farzandlarning ota-ona oldidagi burchi nima?",
+      "options": [
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Axloqning eng umumiy va keng qamrovli kategoriyalari qaysilar?",
+      "options": [
+        "Axloqiy me'yorlar, qadriyatlar va insonning xulq-atvori haqidagi fan",
+        "Davlat va huquq haqidagi siyosiy ta'limot",
+        "Bilish jarayoni va uning shakllari haqidagi ta'limot",
+        "Go'zallik va badiiy did haqidagi ta'limot"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "“Turkiy guliston yoxud axloq” asarining muallifi kim?",
+      "options": [
+        "Davlat va huquq haqidagi siyosiy ta'limot",
+        "Axloqiy me'yorlar, qadriyatlar va insonning xulq-atvori haqidagi fan",
+        "Go'zallik va badiiy did haqidagi ta'limot",
+        "Bilish jarayoni va uning shakllari haqidagi ta'limot"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Narsalarning faqat tashqi ko‘rinishi va o‘zaro hamohangligini ifodalovchi tushuncha qaysi?",
+      "options": [
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Insonning narsalarga yuksak hayrat bilan yondashishi qaysi kategoriyaga kiradi?",
+      "options": [
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Global muammolarni hal qilishda asosiy subyekt kim hisoblanadi?",
+      "options": [
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Korrupsiyaga qarshi kurashda eng yuqori natijaga erishgan Osiyo davlati qaysi?",
+      "options": [
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "“Filosofiya” atamasini fan taraqqiyotida ilk qo‘llagan allomani ko‘rsating.",
+      "options": [
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Diniy dunyoqarash nima?",
+      "options": [
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Aloqadorlik va munosabatlarni nazariy ong darajasida ifodalovchi falsafiy dunyoqarash tamoyili bu..",
+      "options": [
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Tabiat hodisalarini tavsiflovchi empirik fan"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Uzluksiz rivojlanishni ifodalovchi falsafiy dunyoqarash tamoyili bu...",
+      "options": [
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Falsafaning asosiy funksiyalarini belgilang?",
+      "options": [
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Tabiat hodisalarini tavsiflovchi empirik fan"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Abu Rayhon Beruniy yozgan asarlarini aniqlang?",
+      "options": [
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Ibn Sino bilishda qanday omilning ustuvorligini tan oladi?",
+      "options": [
+        "Borliq va mavjudlik masalalarini o'rganadi",
+        "Ijtimoiy munosabatlar va davlat tuzilishini o'rganadi",
+        "Estetik kategoriyalar va go'zallik haqidagi fan",
+        "Bilish nazariyasi — bilimning mohiyati va chegaralarini o'rganadi"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Xitoy faylasufi Konfutsiy ta’limotida asosiy e’tibor nimaga qaratilgan?",
+      "options": [
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Hissiy bilim bu...",
+      "options": [
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Qadimgi yunon faylasuflaridan kim borliqning asosi, moddiy negizi havo deb hisoblagan?",
+      "options": [
+        "Bilish nazariyasi va uning shakllari haqidagi ta'limot",
+        "Jamiyat va uning rivojlanishi haqidagi ta'limot",
+        "Axloqiy me'yorlar va qadriyatlar haqidagi fan",
+        "Borliq va mavjudlik haqidagi falsafiy ta'limot"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Yerning sharsimon shaklda ekanligi haqidagi g‘oyani yunon faylasuflari orasida birinchi bo‘lib kim ilgari surgan?",
+      "options": [
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Agnostitsizm nima?",
+      "options": [
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Dogmatizm nima?",
+      "options": [
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Bilishning maqsadi nima?",
+      "options": [
+        "Borliq va mavjudlik masalalarini o'rganadi",
+        "Estetik kategoriyalar va go'zallik haqidagi fan",
+        "Bilish nazariyasi — bilimning mohiyati va chegaralarini o'rganadi",
+        "Ijtimoiy munosabatlar va davlat tuzilishini o'rganadi"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Iqtisodiy tafakkurga mos ta’rifni aniqlang.",
+      "options": [
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Tabiat hodisalarini tavsiflovchi empirik fan"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Pragmatizm oqimi (maktabi) asoschilari kimlar?",
+      "options": [
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Tabiat hodisalarini tavsiflovchi empirik fan"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Merkantelizm iborasini birinchi bo‘lib qaysi olim muomalaga kiritgan?",
+      "options": [
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Falsafada insonni koinot markazi deb hisoblovchi ta’limot qanday nomlanadi?",
+      "options": [
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Antroposotsiogenez jarayoni necha yil davom etgan?",
+      "options": [
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "«Fozil odamlar shahri», «Baxt-saodatga erishuv yo’llari haqida» risolalarining muallifini aniqlang.",
+      "options": [
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Tabiat hodisalarini tavsiflovchi empirik fan"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Estetika kategoriyalaridan qaysi biri odamning azob-uqubatlar chekishi, o’limi va uning hayoti uchun muhim qadriyatlarning barham topishiga olib keladigan keskin hayotiy ziddiyatlarni aks ettiradi?",
+      "options": [
+        "Go'zallik va badiiy did haqidagi ta'limot",
+        "Bilish jarayoni va uning shakllari haqidagi ta'limot",
+        "Davlat va huquq haqidagi siyosiy ta'limot",
+        "Axloqiy me'yorlar, qadriyatlar va insonning xulq-atvori haqidagi fan"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Tabiiy jarayonlar va hodisalarning har qanday o‘zgarishi bu - …",
+      "options": [
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Tabiat hodisalarini tavsiflovchi empirik fan"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Sun’iy intellekt atamasi qachon , kim tomonidan kiritilgan?",
+      "options": [
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Sifat – bu",
+      "options": [
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Empirik bilim qaysi metodlar yordamida shakllanadi?",
+      "options": [
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Yangi davr G‘arbiy Yevropa falsafasida empirizm namoyondasini ko‘rsating?",
+      "options": [
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Olamdagi narsalarning o‘zaro joylashish vaziyati...",
+      "options": [
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "“Etika” atamasini birinchi bo‘lib muomalaga kiritgan mutafakkir…",
+      "options": [
+        "Bilish jarayoni va uning shakllari haqidagi ta'limot",
+        "Axloqiy me'yorlar, qadriyatlar va insonning xulq-atvori haqidagi fan",
+        "Davlat va huquq haqidagi siyosiy ta'limot",
+        "Go'zallik va badiiy did haqidagi ta'limot"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Atomlar haqidagi ta’limotning asoschisi",
+      "options": [
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Ommaviy madaniyat”ning inson axloqiga salbiy ta’siri ko‘proq nimalarda namoyon bo‘ladi?",
+      "options": [
+        "Davlat va huquq haqidagi siyosiy ta'limot",
+        "Axloqiy me'yorlar, qadriyatlar va insonning xulq-atvori haqidagi fan",
+        "Bilish jarayoni va uning shakllari haqidagi ta'limot",
+        "Go'zallik va badiiy did haqidagi ta'limot"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Estеtik tarbiyaning asosiy vositalari...",
+      "options": [
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Tabiat hodisalarini tavsiflovchi empirik fan"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Estеtik tarbiyaning asosiy vositalari...",
+      "options": [
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Matnlarni tahlil qilish, ularning asl ma’nosini anglash va talqin qilish haqidagi ta’limot - …",
+      "options": [
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Dastlabki diniy eʼtiqodlarning asosiy shakllari qaysilar?",
+      "options": [
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Jamiyatning fanda oʻrganilishi qaysi sohalarga taalluqli?",
+      "options": [
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Qaysi estetik kategoriya insonda kuchli nafratlanish tuygʻularini hosil qiladi?",
+      "options": [
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Jamiyatning iqtisodiy sohasi nimani oʻz ichiga oladi?",
+      "options": [
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Siyosiy sohaning asosiy vazifasi nima?",
+      "options": [
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Ijtimoiy soha qanday munosabatlarni oʻz ichiga oladi?",
+      "options": [
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Tabiat hodisalarini tavsiflovchi empirik fan"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Huquqiy sohaning asosiy vazifasi nima?",
+      "options": [
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Skeptitsizm qanday fikrga asoslanadi?",
+      "options": [
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Agnostitsizmga koʻra, dunyoni bilish qanday?",
+      "options": [
+        "Bilish nazariyasi — bilimning mohiyati va chegaralarini o'rganadi",
+        "Ijtimoiy munosabatlar va davlat tuzilishini o'rganadi",
+        "Estetik kategoriyalar va go'zallik haqidagi fan",
+        "Borliq va mavjudlik masalalarini o'rganadi"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Ratsionalizm va empirizm bir-biridan qanday farqlanadi?",
+      "options": [
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Ilmiy bilishning eng asosiy xususiyati nima?",
+      "options": [
+        "Ijtimoiy munosabatlar va davlat tuzilishini o'rganadi",
+        "Bilish nazariyasi — bilimning mohiyati va chegaralarini o'rganadi",
+        "Borliq va mavjudlik masalalarini o'rganadi",
+        "Estetik kategoriyalar va go'zallik haqidagi fan"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Ratsionalizmning asosiy manbasi nima?",
+      "options": [
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Borliqni tushunishga nisbatan dialektik yondoshuvni ilk bor kim ilgari surdi?",
+      "options": [
+        "Bilish nazariyasi va uning shakllari haqidagi ta'limot",
+        "Jamiyat va uning rivojlanishi haqidagi ta'limot",
+        "Axloqiy me'yorlar va qadriyatlar haqidagi fan",
+        "Borliq va mavjudlik haqidagi falsafiy ta'limot"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Sharq mutafakkirlaridan kim borliq muammosini hal qilishda “Vujudi vojib” va “Vujudi mumkin” ning oʻzaro nisbatiga murojaat qiladi?",
+      "options": [
+        "Borliq va mavjudlik haqidagi falsafiy ta'limot",
+        "Axloqiy me'yorlar va qadriyatlar haqidagi fan",
+        "Jamiyat va uning rivojlanishi haqidagi ta'limot",
+        "Bilish nazariyasi va uning shakllari haqidagi ta'limot"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Falsafa tarixida dualizmning yorqin vakili sifatida oʻrin olgan faylasuf kim?",
+      "options": [
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Dunyoning negizida ikkita emas balki undan koʻproq mohiyat borligini tan oluvchi taʼlimot?",
+      "options": [
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Materiyaning tarkibiy darajalari toʻgʻri koʻrsatilgan qatorni toping?",
+      "options": [
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Quyidagilardan qaysi biri dialektik bilimlar sohasiga tegishli?",
+      "options": [
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Gnoseologik optimizm taʼlimoti qanday qarashni ilgari suradi?",
+      "options": [
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Falsafaning qaysi funksiyasi yetakchi oʻrinni egallaydi?",
+      "options": [
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Mantiq qanday fan?",
+      "options": [
+        "Tabiat hodisalarini izohlovchi fan",
+        "Jamiyat rivojlanish qonunlarini o'rganadi",
+        "Estetik kategoriyalarni o'rganuvchi fan",
+        "To'g'ri fikrlash qonun va qoidalarini o'rganuvchi fan"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Formal mantiq nimani oʻrganadi?",
+      "options": [
+        "Tabiat hodisalarini izohlovchi fan",
+        "Jamiyat rivojlanish qonunlarini o'rganadi",
+        "To'g'ri fikrlash qonun va qoidalarini o'rganuvchi fan",
+        "Estetik kategoriyalarni o'rganuvchi fan"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Ziddiyat qonuni qaysi fikrlarni inkor etadi?",
+      "options": [
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Formal mantiqni ilk bor tizimli tadqiqot sifatida kim amalga oshirilgan?",
+      "options": [
+        "Estetik kategoriyalarni o'rganuvchi fan",
+        "Jamiyat rivojlanish qonunlarini o'rganadi",
+        "To'g'ri fikrlash qonun va qoidalarini o'rganuvchi fan",
+        "Tabiat hodisalarini izohlovchi fan"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Mantiqiy fikrlashning asosiy xususiyati nima?",
+      "options": [
+        "To'g'ri fikrlash qonun va qoidalarini o'rganuvchi fan",
+        "Estetik kategoriyalarni o'rganuvchi fan",
+        "Tabiat hodisalarini izohlovchi fan",
+        "Jamiyat rivojlanish qonunlarini o'rganadi"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Formal mantiqning asosiy qonunlaridan biri qaysi?",
+      "options": [
+        "Jamiyat rivojlanish qonunlarini o'rganadi",
+        "Tabiat hodisalarini izohlovchi fan",
+        "To'g'ri fikrlash qonun va qoidalarini o'rganuvchi fan",
+        "Estetik kategoriyalarni o'rganuvchi fan"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Mantiqda “xulosa chiqarish” deganda nimani tushunamiz?",
+      "options": [
+        "To'g'ri fikrlash qonun va qoidalarini o'rganuvchi fan",
+        "Jamiyat rivojlanish qonunlarini o'rganadi",
+        "Estetik kategoriyalarni o'rganuvchi fan",
+        "Tabiat hodisalarini izohlovchi fan"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Falsafada metodologiya nima uchun muhim?",
+      "options": [
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Spinoza Xudoning tabiati haqida qanday taʼlimotni ilgari surgan?",
+      "options": [
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Falsafa qonunlaridan biri ko‘rsatilgan to‘g‘ri javobni toping?",
+      "options": [
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Tabiat hodisalarini tavsiflovchi empirik fan"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Qadimgi Xitoyda Konfutsiylikning asosiy maqsadi nima edi?",
+      "options": [
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Falsafiy ontologiyada borliqning universal mavjudlik usuli (atributi) nima deb ataladi?",
+      "options": [
+        "Borliq va mavjudlik haqidagi falsafiy ta'limot",
+        "Bilish nazariyasi va uning shakllari haqidagi ta'limot",
+        "Axloqiy me'yorlar va qadriyatlar haqidagi fan",
+        "Jamiyat va uning rivojlanishi haqidagi ta'limot"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Oʻrta asrlar xristian falsafiy tafakkurining namayondalarini koʻrsating?",
+      "options": [
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Adolat va vijdon amri bilan faoliyat yuritish tuygʻusi bu ... dir.",
+      "options": [
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "“Estetika” iborasi qanday maʼnoni anglatadi?",
+      "options": [
+        "Axloqiy me'yorlar, qadriyatlar va insonning xulq-atvori haqidagi fan",
+        "Go'zallik va badiiy did haqidagi ta'limot",
+        "Davlat va huquq haqidagi siyosiy ta'limot",
+        "Bilish jarayoni va uning shakllari haqidagi ta'limot"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "BMT tomonidan qaysi sana “Xalqaro korrupsiyaga qarshi kurash kuni” deb nishonlanib kelinadi?",
+      "options": [
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Sharqda islom dinining vujudga kelishi va mustahkamlanishi natijasida o‘rta asrlar falsafasi qanday xususiyat kasb etdi?",
+      "options": [
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "F.Bekon, T.Gobbs, J.Lokk, R.Dekart, B.Spinoza va Leybnits qaysi asrga mansub Yevropaning buyuk faylasuflari bo‘lib hisoblanadi?",
+      "options": [
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Falsafaning tushunish va tushuntirish bilan shug‘ullanadigan yo‘nalishi qaysi?",
+      "options": [
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Bizning muayyan narsalar haqidagi bilimlarimiz ishonchlilik darajasini o‘rganadigan yo‘nalish qanday ataladi?",
+      "options": [
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Xudoga, uning mohiyatiga dunyoning birinchi sababi va asosi sifatida yondashish o‘rta asrlar falsafasiga xos bo‘lib, u qanday nomlanadi?",
+      "options": [
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Tabiat hodisalarini tavsiflovchi empirik fan"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Faqat mazkur obyektga xos bo‘lgan xossalarni ifodalovchi kategoriya qanday ataladi?",
+      "options": [
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Dunyoni bilish mumkin deb hisoblovchilar qanday ataladi?",
+      "options": [
+        "Estetik kategoriyalar va go'zallik haqidagi fan",
+        "Ijtimoiy munosabatlar va davlat tuzilishini o'rganadi",
+        "Bilish nazariyasi — bilimning mohiyati va chegaralarini o'rganadi",
+        "Borliq va mavjudlik masalalarini o'rganadi"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Dunyo zamirida materiyadan oldin paydo bo‘lgan va uni yaratuvchi ideal narsalar va hodisalar yotadi, degan fikrni himoya qiluvchilar qanday ataladi?",
+      "options": [
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Sensualizm qanday ta’limot hisoblanadi?",
+      "options": [
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Tabiat hodisalarini tavsiflovchi empirik fan"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Fales, Anaksimandr, Anaksimen qaysi falsafiy maktab a’zolari edi?",
+      "options": [
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Ontologiya atamasi falsafada nechanchi asrdan boshlab qo‘llanilmoqda?",
+      "options": [
+        "Jamiyat va uning rivojlanishi haqidagi ta'limot",
+        "Borliq va mavjudlik haqidagi falsafiy ta'limot",
+        "Axloqiy me'yorlar va qadriyatlar haqidagi fan",
+        "Bilish nazariyasi va uning shakllari haqidagi ta'limot"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Avreliy Avgustin qaysi asarida boqiylik va muvaqqatlik, ilohiylik va dunyoviylikning birligi to‘g‘risida so‘z yuritadi?",
+      "options": [
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Qadimgi hind falsafasidagi barcha maktablar Vedalarning muqaddasligini tan olishiga ko‘ra qaysi ikki asosiy guruhga bo‘linadi?",
+      "options": [
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Tabiat hodisalarini tavsiflovchi empirik fan"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Konfusiy fikricha shaxsiy manfaatlar qaysi manfaatlar bilan hamoxang bo‘lishi kerak?",
+      "options": [
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Materiyaning mavjudlik usuli hisoblangan, makon va zamondagi har qanday o‘zgarish falsafada qanday nomlanadi?",
+      "options": [
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Formal mantiqning asosiy tadqiqot obyektini ko‘rsating?",
+      "options": [
+        "Tabiat hodisalarini izohlovchi fan",
+        "To'g'ri fikrlash qonun va qoidalarini o'rganuvchi fan",
+        "Estetik kategoriyalarni o'rganuvchi fan",
+        "Jamiyat rivojlanish qonunlarini o'rganadi"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Geosentrik nazariya ma’nosini aniqlang?",
+      "options": [
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Yunoncha “dialego” so’zidan olingan, rivojlanish va aloqadorlik haqidagi ta’limot qanday nomlanadi?",
+      "options": [
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Davlat asarining muallifi kim?",
+      "options": [
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Ulug‘vorlik badiiy adabiyotda kanday ko‘rinishda namoyon bo‘ladi?",
+      "options": [
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Korrupsiya bu har doim barcha jinoyatlarning ildizi bo‘lgan va qonunlarning xo‘rlanishiga olib kelgan. Ushbu fikr qaysi faylasufga tegishli?",
+      "options": [
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Tabiat hodisalarini tavsiflovchi empirik fan"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Estetik tarbiyaning global vositasini aniqlang?",
+      "options": [
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Tabiat hodisalarini tavsiflovchi empirik fan"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Birlashgan Millatlar Tashkilotining “Korrupsiyaga qarshi konvensiyasi” qachon qabul qilingan?",
+      "options": [
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Individual dunyoqarash nimani bildiradi?",
+      "options": [
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Tabiat hodisalarini tavsiflovchi empirik fan"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Oddiy (kundalik) dunyoqarash qaysi asosda shakllanadi?",
+      "options": [
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Dogmatizmga qarshi turuvchi muhim element qaysi?",
+      "options": [
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Qadimgi Misr yozma manbalarida qaysi mavzu yaqqol ko‘rinadi?",
+      "options": [
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Anaksimandr olam asosini nima deb bilgan?",
+      "options": [
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Arastu Aflotundan farqli ravishda moddiy olam haqida nima degan?",
+      "options": [
+        "Arastu (Aristotel)",
+        "Geraklit",
+        "Sokrat (Suqrot)",
+        "Platon (Aflotun)"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "O‘rta asrlar Yevropa falsafasida borliq qanday ikki turga ajratilgani aytiladi?",
+      "options": [
+        "Borliq va mavjudlik haqidagi falsafiy ta'limot",
+        "Bilish nazariyasi va uning shakllari haqidagi ta'limot",
+        "Axloqiy me'yorlar va qadriyatlar haqidagi fan",
+        "Jamiyat va uning rivojlanishi haqidagi ta'limot"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Ibn Sino fikricha, harakat nima?",
+      "options": [
+        "Al-Xorazmiy",
+        "Abu Nasr Forobiy",
+        "Ibn Sino (Avitsenna)",
+        "Beruniy"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Ratsionalizmni qo‘llab-quvvatlaganlar faylasuflar qaysilar?",
+      "options": [
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Mantiq fanining o'rganish obyekti nima?",
+      "options": [
+        "To'g'ri fikrlash qonun va qoidalarini o'rganuvchi fan",
+        "Estetik kategoriyalarni o'rganuvchi fan",
+        "Tabiat hodisalarini izohlovchi fan",
+        "Jamiyat rivojlanish qonunlarini o'rganadi"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Hodisa va jarayonlarning xarajat hamda foydalarini taqqoslash orqali idrok etish nima deyiladi?",
+      "options": [
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Tabiat hodisalarini tavsiflovchi empirik fan"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Tolkott Parsons fikricha jamiyatni birlashtiruvchi asos nima?",
+      "options": [
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Millat davomiyligi va milliy qadriyatlar boqiyligi qayerda saqlanadi?",
+      "options": [
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Arastu (Aristotel) bo'yicha inson mohiyatining klassik ta’rifi qaysi?",
+      "options": [
+        "Arastu (Aristotel)",
+        "Sokrat (Suqrot)",
+        "Platon (Aflotun)",
+        "Geraklit"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "A. Smitning mashhur “ko‘rinmas qo‘l” iborasi nimani anglatadi?",
+      "options": [
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Pozitivizm va pragmatizmni bog‘lab turuvchi umumiy asos (halqa) nima?",
+      "options": [
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Pragmatizmga ko‘ra, har qanday g‘oya yoki hukm qachon qadriyatga aylanadi?",
+      "options": [
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Yurtni yov bosganda qaysi qadriyatning ahamiyati birinchi o'ringa chiqadi?",
+      "options": [
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "“Oila-maktab-mahalla” integratsiyasining asosiy maqsadi nima?",
+      "options": [
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Jamiyat, zamon va umumbashariy ahamiyatga ega ijobiy xatti-harakatlar yig‘indisi nima deb ataladi?",
+      "options": [
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Etikaning qaysi zamonaviy yo‘nalishi hayotiy va tibbiy muammolarni o’rganadi?",
+      "options": [
+        "Bilish jarayoni va uning shakllari haqidagi ta'limot",
+        "Davlat va huquq haqidagi siyosiy ta'limot",
+        "Axloqiy me'yorlar, qadriyatlar va insonning xulq-atvori haqidagi fan",
+        "Go'zallik va badiiy did haqidagi ta'limot"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Insoniyatning umumiy muammolarini o‘rganuvchi fan sohasi qaysi?",
+      "options": [
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Noosfera ta’limoti muallifi kim?",
+      "options": [
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Tabiat hodisalarini tavsiflovchi empirik fan"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Globallashuv jarayonining ijobiy tomoni nimada namoyon bo‘ladi?",
+      "options": [
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Tabiat hodisalarini tavsiflovchi empirik fan"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "“Sivilizatsiyalar to‘qnashuvi” g‘oyasi muallifi kim?",
+      "options": [
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "BMTning “Barqaror rivojlanish maqsadlari” nechta maqsadni qamrab olgan?",
+      "options": [
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Moliya sohasida sun’iy intellekt asosan qaysi vazifani bajaradi?",
+      "options": [
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Korrupsiyaning oldini olishda eng samarali texnik vosita nima?",
+      "options": [
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "O‘zbekistonda Korrupsiyaga qarshi kurashish agentligi qachon tashkil etilgan?",
+      "options": [
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "“Avesto” ta’limoti bo‘yicha olamning mohiyati nimada?",
+      "options": [
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Sharq xalqlari ijtimoiy tafakkurida “donishmandlikni sevish” degan mazmun qanday ma’noda ishlatilgan?",
+      "options": [
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Mifologik dunyoqarash nima?",
+      "options": [
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Falsafiy dunyoqarash nima?",
+      "options": [
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Hissiy bilish nechta shakldan iborat?",
+      "options": [
+        "Estetik kategoriyalar va go'zallik haqidagi fan",
+        "Ijtimoiy munosabatlar va davlat tuzilishini o'rganadi",
+        "Bilish nazariyasi — bilimning mohiyati va chegaralarini o'rganadi",
+        "Borliq va mavjudlik masalalarini o'rganadi"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Falsafiy dunyoqarashning tamoyillarini belgilang?",
+      "options": [
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Qadimgi Sharq falsafasining umumiy xususiyati nimadan iborat?",
+      "options": [
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Vedalarning eng qadimgi to‘rt qismi qaysi qatorda to‘g‘ri berilgan?",
+      "options": [
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Ekzistensializm qanday falsafiy ta’limot?",
+      "options": [
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Idealizmning mohiyati nimadan iborat?",
+      "options": [
+        "Ong va g'oya moddiyatdan birlamchi deb hisoblovchi ta'limot",
+        "Faqat tajribaga asoslanadigan falsafiy yo'nalish",
+        "Bilishni inkor etuvchi falsafiy oqim",
+        "Moddiy dunyo g'oyadan avval mavjud degan oqim"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Materializmning mohiyatini tushuntiring?",
+      "options": [
+        "Ruh va ong moddiyatdan ustun deb hisoblovchi ta'limot",
+        "Faqat tajriba orqali bilish mumkin degan ta'limot",
+        "Dunyo zamirida moddiy borliq yotadi deb hisoblovchi ta'limot",
+        "Dunyoni bilish mumkin emas deb ta'kidlovchi oqim"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Qadimgi hind falsafasining ilk yozma manbalaridan birini aniqlang?",
+      "options": [
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Monizmning mohiyatini tushuntiring.",
+      "options": [
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Sensualizm nima?",
+      "options": [
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Pragmatizm, bu –",
+      "options": [
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Estetika faniga berilgan eng to‘liq va ilmiy ta’rifni ko‘rsating:",
+      "options": [
+        "Axloqiy me'yorlar, qadriyatlar va insonning xulq-atvori haqidagi fan",
+        "Davlat va huquq haqidagi siyosiy ta'limot",
+        "Bilish jarayoni va uning shakllari haqidagi ta'limot",
+        "Go'zallik va badiiy did haqidagi ta'limot"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Qadimgi Yunon falsafasining eng umumiy va alohida xususiyati nimada?",
+      "options": [
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Hozirgi zamon falsafasidagi oqim va yo‘nalishlar qaysi javobda to‘g‘ri berilgan?",
+      "options": [
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Fan qonunlari, o‘z navbatida, aks ettiruvchi ob’ektiga ko‘ra qanday qonunlarga bo‘linadi?",
+      "options": [
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Tabiat hodisalarini tavsiflovchi empirik fan"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Tafovut –bu",
+      "options": [
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Materiyaning atributlarini ko’rsating",
+      "options": [
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Tabiat, jamiyat va inson tafakkuri taraqqiyoti haqidagi ta’limot?",
+      "options": [
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Borliqning eng umumiy va muhim xususiyatlarini, aloqalarini hamda rivojlanish qonuniyatlarini aks ettiruvchi eng keng qamrovli tushunchalar -…",
+      "options": [
+        "Bilish nazariyasi va uning shakllari haqidagi ta'limot",
+        "Borliq va mavjudlik haqidagi falsafiy ta'limot",
+        "Jamiyat va uning rivojlanishi haqidagi ta'limot",
+        "Axloqiy me'yorlar va qadriyatlar haqidagi fan"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "To‘g‘ri fikrlashning asosiy belgilarini ko‘rsating",
+      "options": [
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Demografik muammo deganda qanday muammolar tushuniladi?",
+      "options": [
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Tabiat hodisalarini tavsiflovchi empirik fan"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Dunyoqarash deganda nimani tushunasiz?",
+      "options": [
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Falsafiy dunyoqarashning eng muhim vazifasi nima?",
+      "options": [
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Kantning “narsa oʻzida” konsepsiyasi nimani anglatadi?",
+      "options": [
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Bilimni asoslashning uchta asosiy sharti qaysilar?",
+      "options": [
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Kantning fikricha, “narsa oʻzida” ni bilish mumkinmi?",
+      "options": [
+        "Estetik kategoriyalar va go'zallik haqidagi fan",
+        "Ijtimoiy munosabatlar va davlat tuzilishini o'rganadi",
+        "Bilish nazariyasi — bilimning mohiyati va chegaralarini o'rganadi",
+        "Borliq va mavjudlik masalalarini o'rganadi"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Gnoseologik optimizm va skeptitsizm oʻrtasidagi asosiy farq nima?",
+      "options": [
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Tabiat hodisalarini tavsiflovchi empirik fan"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Shaxsiy bilim qanday shakllanadi?",
+      "options": [
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "“... – inson va uning faoliyatidan qatʼi nazar mavjud boʻlgan narsalar va jarayonlar borligʻi”, bu nima?",
+      "options": [
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Tabiat hodisalarini tavsiflovchi empirik fan"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Monizm taʼlimotiga toʻgʻri taʼrif berilgan qatorni koʻrsating?",
+      "options": [
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Relyativistik kosmologiya asoschilari toʻgʻri koʻrsatilgan qatorni toping?",
+      "options": [
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Dunyoqarashning qanday funksiyalari mavjud?",
+      "options": [
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Dunyoni sezish bu?",
+      "options": [
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Tabiat hodisalarini tavsiflovchi empirik fan"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Magiya bu?",
+      "options": [
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Materialistlar deb qaysi toifadagi kishilarni aytish mumkin?",
+      "options": [
+        "Dunyoni bilish mumkin emas deb ta'kidlovchi oqim",
+        "Ruh va ong moddiyatdan ustun deb hisoblovchi ta'limot",
+        "Dunyo zamirida moddiy borliq yotadi deb hisoblovchi ta'limot",
+        "Faqat tajriba orqali bilish mumkin degan ta'limot"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Ekzistensializm tarafdorlarining eng yirik vakillari?",
+      "options": [
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Ekzistensializm falsafasida tadqiq etiladigan asosiy muammo nimadan iborat?",
+      "options": [
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Formal mantiqda “S” va “P” belgilari nimani anglatadi?",
+      "options": [
+        "To'g'ri fikrlash qonun va qoidalarini o'rganuvchi fan",
+        "Estetik kategoriyalarni o'rganuvchi fan",
+        "Jamiyat rivojlanish qonunlarini o'rganadi",
+        "Tabiat hodisalarini izohlovchi fan"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Formal mantiqda “A=A” degan ifoda nimani bildiradi?",
+      "options": [
+        "Tabiat hodisalarini izohlovchi fan",
+        "Jamiyat rivojlanish qonunlarini o'rganadi",
+        "Estetik kategoriyalarni o'rganuvchi fan",
+        "To'g'ri fikrlash qonun va qoidalarini o'rganuvchi fan"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Dialektik mantiq nima bilan shugʻullanadi?",
+      "options": [
+        "Estetik kategoriyalarni o'rganuvchi fan",
+        "Tabiat hodisalarini izohlovchi fan",
+        "Jamiyat rivojlanish qonunlarini o'rganadi",
+        "To'g'ri fikrlash qonun va qoidalarini o'rganuvchi fan"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Uchinchi istisno qonuni nimani anglatadi?",
+      "options": [
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Qaysi faylasuf “atomlar va boʻshliqdan boshqa hech narsa mavjud emas” degan?",
+      "options": [
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Qadimgi Xitoyda Konfutsiylik taʼlimotining asosiy gʻoyasi nima edi?",
+      "options": [
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Qaysi faylasuf tarixga mutloq ruh, amaliy aql taraqqiyoti sifatida yondashadi?",
+      "options": [
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Qadriyatlar falsafasining maqsadi - ...",
+      "options": [
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Tabiat hodisalarini tavsiflovchi empirik fan"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Axloq ilmining asosiy vazifasi nima?",
+      "options": [
+        "Axloqiy me'yorlar, qadriyatlar va insonning xulq-atvori haqidagi fan",
+        "Davlat va huquq haqidagi siyosiy ta'limot",
+        "Go'zallik va badiiy did haqidagi ta'limot",
+        "Bilish jarayoni va uning shakllari haqidagi ta'limot"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Dunyo azaldan moddiy, ong esa bu materiyaning mahsulidir, deb hisoblovchilar qanday ataladi?",
+      "options": [
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Konfutsiy falsafiy ta’limotining markazida turuvchi asosiy obyektni aniqlang.",
+      "options": [
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Tabiat hodisalarini tavsiflovchi empirik fan"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Antik faylasuflarni ko‘rsating?",
+      "options": [
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Falsafaning predmeti nima?",
+      "options": [
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Tabiat hodisalarini tavsiflovchi empirik fan"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Toms Gobbs fikricha materiya........, jismlar va hodisalar.......",
+      "options": [
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Yangi davr falsafasi o‘z taraqqiyotining dastlabki bosqichidayoq qaysi uslub va dunyoqarashdan uzil-kesil ajralib chiqdi?",
+      "options": [
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Qarama-qarshilik bu - …?",
+      "options": [
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Falsafa tarixida o‘zining mavjudligi uchun o‘zidan boshqa hech narsaga muhtoj bo‘lmagan birinchi asosni ifodalash uchun qanday kategoriya qo‘llaniladi?",
+      "options": [
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Pozitivizm, Pragmatizm, Neopozitivizm, Postpozitivizm, Empiriokritisizm qaysi davr falsafiy yo‘nalishlari hisoblanadi?",
+      "options": [
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "U yoki bu predmetni mo‘jizakor xislatlarga, odamlar hayotiga ta’sir ko‘rsatish qobiliyatiga ega deb hisoblaydigan diniy dunyoqarash shaklini aniqlang?",
+      "options": [
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Diniy dunyoqarash shakllaridan nafaqat odamlar, balki hayvonlar, predmetlar va borliq hodisalarini ham ruh, jon boshqarib turishiga ishonish qanday nomlanadi?",
+      "options": [
+        "Bilish nazariyasi va uning shakllari haqidagi ta'limot",
+        "Axloqiy me'yorlar va qadriyatlar haqidagi fan",
+        "Jamiyat va uning rivojlanishi haqidagi ta'limot",
+        "Borliq va mavjudlik haqidagi falsafiy ta'limot"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Qaysi estetik kategoriya insonda kuchli nafratlanish tuyg‘ularini hosil qiladi?",
+      "options": [
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Axloqshunoslik fani bo‘yicha Lenin, Stalin, Gitler kabi tarixiy shaxslarni qanday insonlar toifasiga kiritamiz?",
+      "options": [
+        "Go'zallik va badiiy did haqidagi ta'limot",
+        "Axloqiy me'yorlar, qadriyatlar va insonning xulq-atvori haqidagi fan",
+        "Bilish jarayoni va uning shakllari haqidagi ta'limot",
+        "Davlat va huquq haqidagi siyosiy ta'limot"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Jo‘mardlikni Yevropada qanday nom bilan atashadi?",
+      "options": [
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Tabiat hodisalarini tavsiflovchi empirik fan"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "O‘zbekiston Respublikasi “Korrupsiyaga qarshi kurashish to‘g‘risida”gi Qonunning nechanchi moddasida manfaatlar to‘qnashuvi tushunchasining mohiyati to‘liq ochib berilgan?",
+      "options": [
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Dunyoqarashning qadriyatlarga munosabat funksiyasi nimaga tayanadi?",
+      "options": [
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Tabiat hodisalarini tavsiflovchi empirik fan"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Ijtimoiy dunyoqarash deganda nima tushuniladi?",
+      "options": [
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Diniy dunyoqarashning asosiy belgisi nima?",
+      "options": [
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Diniy dunyoqarashning asosiy belgisi nima?",
+      "options": [
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Tabiat hodisalarini tavsiflovchi empirik fan"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Falsafa va iqtisodning umumiy jihatlaridan biri qaysi?",
+      "options": [
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Asotir va rivoyatlar Sharq tafakkurida qanday o‘rin tutgan?",
+      "options": [
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Xitoy falsafasida Konfutsiylikning qaysi g‘oyasiga alohida e’tibor qaratiladi?",
+      "options": [
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Konfutsiyda “Li” tushunchasi nimani belgilaydi?",
+      "options": [
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Antik falsafa rivojiga qaysi omillar yordam bergani aytiladi?",
+      "options": [
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Suqrotning haqiqatni topish usuli qanday berilgan?",
+      "options": [
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Suqrot nima uchun o‘limga mahkum etilgani keltiriladi?",
+      "options": [
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Gegel dialektikasida taraqqiyot manbai sifatida nima ko‘rsatiladi?",
+      "options": [
+        "Borliqning asosiy kategoriyalarini o'rganuvchi fan",
+        "Insonning axloqiy kamoloti haqidagi ta'limot",
+        "Narsa va hodisalarning o'zaro bog'liqligi va rivojlanishi haqidagi ta'limot",
+        "Mantiqiy fikrlash qoidalari va qonunlari haqidagi fan"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Parmenidning ontologiya rivojiga qo‘shgan hissasi sifatida matnda qaysi fikr ajratib ko‘rsatiladi?",
+      "options": [
+        "Axloqiy me'yorlar va qadriyatlar haqidagi fan",
+        "Borliq va mavjudlik haqidagi falsafiy ta'limot",
+        "Jamiyat va uning rivojlanishi haqidagi ta'limot",
+        "Bilish nazariyasi va uning shakllari haqidagi ta'limot"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Empirizm tarafdorlari sifatida kimlar?",
+      "options": [
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Bilish obyekti nima?",
+      "options": [
+        "Estetik kategoriyalar va go'zallik haqidagi fan",
+        "Borliq va mavjudlik masalalarini o'rganadi",
+        "Bilish nazariyasi — bilimning mohiyati va chegaralarini o'rganadi",
+        "Ijtimoiy munosabatlar va davlat tuzilishini o'rganadi"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Taqqoslash nima?",
+      "options": [
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Tabiat hodisalarini tavsiflovchi empirik fan"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Bahs-munozara jarayonida raqibni chalg’itish maqsadida mantiq qonunlarini ataylab buzuvchilar kimlar?",
+      "options": [
+        "Jamiyat rivojlanish qonunlarini o'rganadi",
+        "To'g'ri fikrlash qonun va qoidalarini o'rganuvchi fan",
+        "Estetik kategoriyalarni o'rganuvchi fan",
+        "Tabiat hodisalarini izohlovchi fan"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "To’g’ri tafakkurning asosiy belgilari qaysilar?",
+      "options": [
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Tabiat hodisalarini tavsiflovchi empirik fan"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "“Kategoriyalar” risolasi muallifi kim ?",
+      "options": [
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Sotsiologiya atamasini fanga kim kiritgan?",
+      "options": [
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Fuqarolik jamiyati barpo etishning bosh maqsadi nima?",
+      "options": [
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Karl Marks “iqtisodiy odam” konsepsiyasini qaysi jamiyatning mahsuli deb atadi?",
+      "options": [
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "“Pragmatizm” atamasi yunoncha “pragma” so‘zidan olingan bo‘lib, qanday ma’noni anglatadi?",
+      "options": [
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Tabiat hodisalarini tavsiflovchi empirik fan"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Merkantilizm va pragmatizm o‘rtasidagi asosiy farq nimada?",
+      "options": [
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Pora uchun jazo choralari bundan 4000 yil avval qaysi qonunlarda aks etgan?",
+      "options": [
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Pragmatizmga ko‘ra, falsafaning asosiy vazifasi nimadan iborat?",
+      "options": [
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "“Monogam oila” tushunchasi nimani anglatadi?",
+      "options": [
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Yangi tahrirdagi Konstitutsiyada davlat qurilishining yangi strategik maqsadi nima?",
+      "options": [
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Voqea-hodisalarni idrok etishda olinadigan qoniqish yoki qoniqmaslik tuyg‘usi nima?",
+      "options": [
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Hozirgi kunda eng xavfli ekologik global muammo qaysi?",
+      "options": [
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Ekologik etika (axloq) nimalarni targ‘ib qiladi?",
+      "options": [
+        "Davlat va huquq haqidagi siyosiy ta'limot",
+        "Axloqiy me'yorlar, qadriyatlar va insonning xulq-atvori haqidagi fan",
+        "Go'zallik va badiiy did haqidagi ta'limot",
+        "Bilish jarayoni va uning shakllari haqidagi ta'limot"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Ekologiyani himoya qilishda Sun’iy intellektning hissasi nimadan iborat?",
+      "options": [
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Tabiat hodisalarini tavsiflovchi empirik fan"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "O‘zbekistonning \"Korrupsiyaga qarshi kurashish to‘g‘risida\"gi Qonuni qachon qabul qilingan?",
+      "options": [
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Qaysi turdagi korrupsiya jamiyat mentalitetiga singib ketgan va muammo deb idrok etilmaydi?",
+      "options": [
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Nepotizm tushunchasi nimani anglatadi?",
+      "options": [
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Manfaatlar to‘qnashuvi tushunchasiga qaysi qonunda ta’rif berilgan?",
+      "options": [
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Tabiat hodisalarini tavsiflovchi empirik fan"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Korrupsiyani “oq”, “qora” va “kulrang” turlarga ajratgan mutaxassis kim?",
+      "options": [
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Dualizm nima?",
+      "options": [
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Ratsionalizmning mohiyati nimadan iborat?",
+      "options": [
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Tabiat hodisalarini tavsiflovchi empirik fan"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Iqtisodiy tafakkurning shakllanish darajasini baholashning eng muhim usullarini aniqlang.",
+      "options": [
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Tabiat hodisalarini tavsiflovchi empirik fan"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "XX asrning 70-yillariga qadar sun’iy intellekt bo‘yicha tadqiqotlar qaysi fanlar doirasida olib borilgan?",
+      "options": [
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "“Mutloq g‘oya” ta’limoti kimga tegishli?",
+      "options": [
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Dualizm atamasini falsafaga kiritgan faylasuf kim?",
+      "options": [
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Tabiat hodisalarini tavsiflovchi empirik fan"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Iqtisodda pragmatik faoliyat nima uchun kerak?",
+      "options": [
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Formal mantiqning asosiy qonunlaridan biri qaysi?",
+      "options": [
+        "Tabiat hodisalarini izohlovchi fan",
+        "Estetik kategoriyalarni o'rganuvchi fan",
+        "To'g'ri fikrlash qonun va qoidalarini o'rganuvchi fan",
+        "Jamiyat rivojlanish qonunlarini o'rganadi"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Formal mantiq qaysi fan bilan uzviy bogʻliq?",
+      "options": [
+        "Estetik kategoriyalarni o'rganuvchi fan",
+        "Jamiyat rivojlanish qonunlarini o'rganadi",
+        "To'g'ri fikrlash qonun va qoidalarini o'rganuvchi fan",
+        "Tabiat hodisalarini izohlovchi fan"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Nechanchi yildan boshlab 9 dekabr xalqaro Korrupsiyaga qarshi kurash kuni sifatida nishonlanadi?",
+      "options": [
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Sun’iy intellekt bilan bog'liq asosiy axloqiy muammo qaysi?",
+      "options": [
+        "Axloqiy me'yorlar, qadriyatlar va insonning xulq-atvori haqidagi fan",
+        "Go'zallik va badiiy did haqidagi ta'limot",
+        "Davlat va huquq haqidagi siyosiy ta'limot",
+        "Bilish jarayoni va uning shakllari haqidagi ta'limot"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Agnostitsizm namoyondalarining asosiy gʻoyasi?",
+      "options": [
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Postindustrial jamiyat konsepsiyasi qaysi olimlar nomi bilan bogʻliq?",
+      "options": [
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Tabiat hodisalarini tavsiflovchi empirik fan"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Yangi tahrirdagi Konstitutsiyaning nechanchi bobi oila, bolalar va yoshlarga bag’ishlangan?",
+      "options": [
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Tabiat hodisalarini tavsiflovchi empirik fan"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Postindustrialistlar insoniyat tarixini qaysi uch bosqichga ajratadi?",
+      "options": [
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Pragmatizm falsafiy oqim sifatida qayerda shakllangan?",
+      "options": [
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Jamiyat tushunchasi falsafada qanday yondashuvlarda oʻrganiladi?",
+      "options": [
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan",
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Formal mantiqning 1-qonuni qanday ataladi?",
+      "options": [
+        "Jamiyat rivojlanish qonunlarini o'rganadi",
+        "To'g'ri fikrlash qonun va qoidalarini o'rganuvchi fan",
+        "Tabiat hodisalarini izohlovchi fan",
+        "Estetik kategoriyalarni o'rganuvchi fan"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Insonning iqtisodiy faoliyatini “shaxsiy manfaatdorlik” va “egoism” belgilashini kim asoslagan?",
+      "options": [
+        "Diniy e'tiqod va ibodat qoidalarini belgilovchi ta'limot",
+        "Tabiat hodisalarini tavsiflovchi empirik fan",
+        "Ijtimoiy munosabatlarni tartibga soluvchi huquqiy tizim",
+        "Borliq, bilish va inson mavjudligining umumiy qonuniyatlarini o'rganuvchi fan"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Dialektik mantiqning asoschisi kim hisoblanadi?",
+      "options": [
+        "To'g'ri fikrlash qonun va qoidalarini o'rganuvchi fan",
+        "Jamiyat rivojlanish qonunlarini o'rganadi",
+        "Estetik kategoriyalarni o'rganuvchi fan",
+        "Tabiat hodisalarini izohlovchi fan"
+      ],
+      "correct": 0
+    }
+  ]
+}

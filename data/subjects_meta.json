@@ -1,0 +1,30 @@
+[
+  {
+    "id": "iqtisodiyot",
+    "name": "Iqtisodiyot nazariyasi",
+    "icon": "📊",
+    "color": "#2563eb",
+    "count": 250
+  },
+  {
+    "id": "rus_tili",
+    "name": "Rus tili",
+    "icon": "🇷🇺",
+    "color": "#7c3aed",
+    "count": 177
+  },
+  {
+    "id": "falsafa",
+    "name": "Falsafa",
+    "icon": "🧠",
+    "color": "#059669",
+    "count": 376
+  },
+  {
+    "id": "dinshunoslik",
+    "name": "Dinshunoslik",
+    "icon": "📖",
+    "color": "#dc2626",
+    "count": 355
+  }
+]
